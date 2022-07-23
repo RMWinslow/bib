@@ -1,0 +1,7 @@
+title: "Bibliography"
+remote_theme: RMWinslow/just-the-docs-tweaked
+search_enabled: true
+
+compress_html:
+  ignore:
+    envs: all
