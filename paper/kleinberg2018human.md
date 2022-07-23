@@ -1,4 +1,6 @@
-
+---
+parent: Papers
+---
 
 # Human Decisions and Machine Predictions
 
