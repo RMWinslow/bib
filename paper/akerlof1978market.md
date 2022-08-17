@@ -2,7 +2,7 @@
 parent: Papers
 ---
 
-# TITLE
+# The Market for Lemons
 
 [pdf link](https://viterbi-web.usc.edu/~shaddin/cs590fa13/papers/AkerlofMarketforLemons.pdf)
 
