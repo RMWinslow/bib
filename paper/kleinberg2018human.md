@@ -4,8 +4,9 @@ parent: Papers
 
 # Human Decisions and Machine Predictions
 
-Url: [QJE](https://academic.oup.com/qje/article/133/1/237/4095198),
-[NBER (working paper)](https://www.nber.org/papers/w23180)
+Url
+: [QJE](https://academic.oup.com/qje/article/133/1/237/4095198),
+: [NBER (working paper)](https://www.nber.org/papers/w23180)
 
 ## BibTeX
 ```
