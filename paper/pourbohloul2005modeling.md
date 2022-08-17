@@ -2,7 +2,7 @@
 parent: Papers
 ---
 
-# TITLE
+# Modeling control strategies of respiratory pathogens
 
 [PubMed Html](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3320482/)
 
