@@ -2,7 +2,7 @@
 parent: Papers
 ---
 
-# TITLE
+# Internal and external effects of social distancing in a pandemic
 
 [ScienceDirect link](https://www.sciencedirect.com/science/article/pii/S0022053121001101)
 
