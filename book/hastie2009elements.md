@@ -1,8 +1,8 @@
 ---
 parent: Books
+title: The elements of statistical learning
+subtitle: data mining, inference, and prediction
 ---
-
-# Principles of epidemiology in public health practice
 
 [Website](https://hastie.su.domains/ElemStatLearn/)
 
