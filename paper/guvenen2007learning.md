@@ -1,8 +1,8 @@
 ---
 parent: Papers
+title: Learning your earning
+subtitle: Are labor income shocks really very persistent?
 ---
-
-# TITLE
 
 [AER link](https://www.aeaweb.org/articles?id=10.1257/aer.97.3.687)
 
