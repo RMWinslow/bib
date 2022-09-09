@@ -1,6 +1,7 @@
 ---
 parent: Papers
 title: What do data on millions of US workers reveal about lifecycle earnings dynamics?
+layout: post
 ---
 
 [html link](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA14603)

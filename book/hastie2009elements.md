@@ -2,6 +2,7 @@
 parent: Books
 title: The elements of statistical learning
 subtitle: data mining, inference, and prediction
+layout: post
 ---
 
 [Website](https://hastie.su.domains/ElemStatLearn/)
