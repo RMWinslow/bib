@@ -28,7 +28,7 @@ layout: post
 
 
 
-
+<!--
 ## My Notes
 
 > For example, 40% of men experience at most one year of nonemployment, while 18%
@@ -40,7 +40,9 @@ Two thoughts:
 - Secondly, does this vary by marital status? I can imagine either that having a second earner gives the person a kind of insurance which they can use to stay searching longer, or the opposite: that a married man has more pressure to find a job to support his family.
 
 
-arc-percent change takes the percent change after normalizing so that the average is 1?
+"arc-percent change" takes the percent change after normalizing so that the average (conditional on such and such) is 1?
 
-READ UP TO 3.2
+-->
+
+
 
