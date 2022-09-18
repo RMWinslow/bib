@@ -1,5 +1,5 @@
 title: "Bibliography"
-remote_theme: RMWinslow/just-the-docs-tweaked
+remote_theme: RMWinslow/JTD-RMW
 search_enabled: true
 
 compress_html:
