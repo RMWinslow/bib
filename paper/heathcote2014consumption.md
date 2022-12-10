@@ -6,6 +6,8 @@ parent: Papers
 
 [AEA link](https://www.aeaweb.org/articles?id=10.1257/aer.104.7.2075)
 
+[Author research webpage](http://jonathanheathcote.com/research.htm)
+
 ## BibTeX
 ```
 @article{heathcote2014consumption,
