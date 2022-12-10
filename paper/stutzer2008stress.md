@@ -41,6 +41,8 @@ parent: Papers
 
 My thoughts: might this be an intertemporal trade-off? Commute today, save more money, better off in retirement?
 
+Edit: Or, in regards to the first explanation: Of course people don't commute to make their *spouse* happy. They do it to provide a better environment to their kids! How could this be tested? Is commuting more common among parents with children? Long distance commuting etc.
+
 
 ### Commuting data
 
