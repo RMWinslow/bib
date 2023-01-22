@@ -2,7 +2,7 @@
 parent: Papers
 ---
 
-# TITLE
+# Spending and Job-Finding Impacts of Expanded Unemployment Benefits: Evidence from Administrative Micro Data
 
 [NBER link](https://www.nber.org/papers/w30315)
 
