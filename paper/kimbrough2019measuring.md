@@ -6,6 +6,8 @@ parent: Papers
 
 [pdf link](https://mpra.ub.uni-muenchen.de/93239/2/MPRA_paper_93239.pdf)
 
+[github repo with stata code](https://github.com/graykimbrough/atus-commuting)
+
 ## BibTeX
 ```
 @article{kimbrough2019measuring,
