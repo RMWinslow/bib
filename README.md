@@ -17,7 +17,7 @@ search_enabled: true
 
 3. Create a page for each referenced work. Structure it however you like. [See here for the JTD documentation on how to organize the heirarchical navbar.](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/#pages-with-children)
 
-The trick here is that JTD uses a version of lunr to create a search index page. When Github builds the site, it combine the text content of every page into a single file, which the search widget then accesses. 
-So indirectly, I'm keeping a bibliography with embedded notes in a giant json file and accessing individual entries as needed with a spiffy html wrapper around the content.
+The trick here is that JTD uses a version of [lunr](https://github.com/olivernn/lunr.js/) to create a search index. When Github builds the site, it combines the text content of every page into a single file, which the search widget then accesses. 
+So indirectly, this method keeps a bibliography with embedded notes in a giant json file, and individual entries are accessed as needed with a spiffy html wrapper around the content.
 
 
