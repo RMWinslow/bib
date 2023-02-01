@@ -77,6 +77,7 @@ Commuting is represented like a pair of taxes on work income and work time.
 Budget and time constraints for non-WFH person are
 
 $$c_{n\iota} + r_{n} h_{n\iota} = (w_{\iota} - \tau_{n}) b_{n\iota}$$
+
 $$1 = (1+t_n) b_{n\iota} + l_{n\iota}$$
 
 Location index is $n$, HH index is $\iota$.
