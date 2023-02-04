@@ -1761,7 +1761,7 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
 
 ## Detailed Income and Expenditures
 
-## MTBI - Monthly Expenditures
+### MTBI - Monthly Expenditures
 
 - ALCNO : Allocation Number
 - COST : Total cost of item, including sales tax (Flag: COST_)
