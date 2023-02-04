@@ -19,8 +19,10 @@ in Excel format.
 The below is a list of variables found in the FMLI and MEMI data files as of 2021.
 
 
+## Summary Files
 
-## FMLI - Consumer Unit Level (Family Level) Interview
+
+### FMLI - Consumer Unit Level (Family Level) Interview
 
 
 - AGE_REF : Age of reference person (Flag: AGE_REF_)
@@ -1397,7 +1399,7 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
 
 
 
-## MEMI - Member Level Interview
+### MEMI - Member Level Interview
 
 
 - AGE : What is the member's age? (Flag: AGE_)
@@ -1735,6 +1737,1304 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Detailed Income and Expenditures
+
+## MTBI - Monthly Expenditures
+
+- ALCNO : Allocation Number
+- COST : Total cost of item, including sales tax (Flag: COST_)
+- EXPNAME : Name of expense variable from which UCC mapped
+- GIFT : Was this item bought for someone outside the CU?
+    - 1 : Yes
+    - 2 : No
+- NEWID : Public use microdata identifier
+- PUBFLAG : Is amount included in published reports?
+    - 1 : Not published
+    - 2 : Published in Integrated Bulletin
+- REF_MO : Reference Month of this expenditure
+- REF_YR : Reference Year of this expenditure
+- RTYPE : RECORD TYPE of the corresponding EXPN record
+    - APA : Section 6, Part A
+    - APB : Section 6, Part B
+    - APL : Section 1, Part C
+    - CLA : Section 9, Part A
+    - CLB : Section 9, Part B
+    - CLC : Section 9, Part C
+    - CLD : Section 9, Part B
+    - CNT : Section 19, Part B
+    - CRA : Section 5, Part A
+    - CRB : Section 5, Part B
+    - EDA : Section 16, Part A
+    - ENT : Section 17, Part B
+    - EQB : Section 7, Part B
+    - EQD : Section 7, Part D
+    - FN2 : Section 21
+    - FNA : Section 21, Part A.2
+    - FNB : Section 21, Part B
+    - FRA : Section 8, Part A
+    - FRB : Section 8, Part B
+    - HHM : Section 13
+    - HHP : Section 13
+    - HIM : Section 13
+    - IHB : Section 14, Part B
+    - IHC : Section 14, Part C
+    - IHD : Section 14, Part D
+    - INB : Section 13, Part B
+    - LSD : Section 10, Part B
+    - MDB : Section 15, Part B
+    - MDC : Section 15, Part D
+    - MIS : Section 19, Part A
+    - OPB : Section 3, Part B
+    - OPC : Section 3, Part C
+    - OPD : Section 3, Part D
+    - OPF : Section 3, Parts F and G
+    - OPH : Section 3, Part H
+    - OPI : Section 3, Part I
+    - OVB : Section 11, Part B
+    - OVC : Section 11, Part C
+    - RLV : Section 10, Parts A.1 and A.2
+    - RNT : Section 2, Parts A and B
+    - SUB : Section 17, Part A
+    - TR1 : Section 18, Part A
+    - TR2 : Section 18, Part A
+    - TRB : Section 18, Parts B and C
+    - TRD : Section 18, Part D
+    - TRE : Section 18, Part E
+    - TRF : Section 18, Part F
+    - UTA : Section 4, Part A
+    - UTB : Section 4, Part B
+    - UTC : Section 4, Part C
+    - UTI : Section 4, Part C
+    - UTP : Section 4, Part B
+    - VEQ : Section 12, Parts A and B
+    - VLR : Section 12, Part C
+    - VOT : Section 12, Part D
+    - XPA : Section 20, Part A
+    - XPB : Section 20, Part B
+- SEQNO : Sequence Number
+- UCC : Universal Classification Code
+    - 002120 : Other non-health insurance
+    - 006001 : Total amount owed to creditors, 2nd interview
+    - 006002 : Total amount owed to creditors, 5th interview
+    - 006003 : Total amount owed to creditors, 2nd interview
+    - 006004 : Total amount owed to creditors, 5th interview
+    - 006005 : Total amount owed to creditors, 2nd interview CY + 1
+    - 006006 : Total amount owed to creditors, 5th interview CY + 1
+    - 006009 : TOTAL AMT OWED CY Q2
+    - 006010 : TOTAL AMT OWED CY+1,Q2
+    - 190901 : Food or board at school
+    - 190902 : Catered affairs
+    - 190903 : Food on out-of-town trips
+    - 190904 : Food prepared by consumer unit on out-of-town trips
+    - 200900 : Alcoholic beverages purchased on trips
+    - 210110 : Rent
+    - 210210 : Lodging on out-of-town trips
+    - 210310 : Housing while attending school
+    - 210901 : Ground rent
+    - 210902 : Ground rent
+    - 220111 : Fire and extended coverage
+    - 220112 : Fire and extended coverage
+    - 220121 : Homeowners insurance
+    - 220122 : Homeowners insurance
+    - 220211 : Property taxes
+    - 220212 : Property taxes
+    - 220311 : Mortgage interest
+    - 220312 : Mortgage interest
+    - 220313 : Interest paid, home equity loan
+    - 220314 : Interest paid, home equity loan
+    - 220321 : Prepayment penalty charges
+    - 220511 : Wall-to-wall carpet not installed, capital improvement (owned home)
+    - 220512 : Materials and supplies purchased for insulation, dwellings under constr, additions, finishing, remodeling, landscaping, etc.
+    - 220513 : Supplies purchased for additions, maintenance and repairs, and new construction
+    - 220611 : Capital improvement labor and materials (owned home)
+    - 220612 : Dishwasher, disposal, or range hood
+    - 220613 : DISHWASHER, DISPOSAL, OR RANGE HOOD CAPITAL IMPROVEMENTS, OWNED VACATION
+    - 220614 : Installed wall-to-wall carpeting
+    - 220615 : Capital improvement labor and materials (owned vacation)
+    - 220616 : Wall-to-wall carpeting
+    - 220901 : Parking
+    - 220902 : Parking
+    - 230111 : REP/MAINT LABOR/MAT RNTR
+    - 230112 : Painting and papering
+    - 230113 : Plumbing and water heating
+    - 230114 : Heat, a/c, electrical work
+    - 230115 : Roofing and gutters
+    - 230116 : OTH REP/MAINT LABOR/MAT OWND
+    - 230117 : REPLACEMENT, REPAIR AND MAINTENANCE OF DISHWASHER, DISPOSAL, OR RANGE
+HOOD RENTER
+    - 230118 : Dishwashers (built-in), garbage disposals, range hoods, (owned home)
+    - 230119 : REPAIR AND MAINTENANCE SERVICES OWNED VACATION
+    - 230121 : REPAIR OR REPLACEMENT OF HARD SURFACED FLOORING RENTER
+    - 230122 : Repair and replacement of hard surface flooring
+    - 230123 : Repair and replacement of hard surface flooring
+    - 230131 : Wall-to-wall carpet, installed (renter)
+    - 230132 : Wall-to-wall carpet, installed (replacement)(owned home)
+    - 230133 : Wall-to-wall carpet (replacement) (owned home)
+    - 230134 : Wall-to-wall carpet (renter)
+    - 230141 : Repair of built-in appliances
+    - 230142 : Repair of built-in appliances
+    - 230150 : Repair or maintenance services
+    - 230151 : Other repair and maintenance services
+    - 230152 : Repair and remodeling services
+    - 230901 : Property management
+    - 230902 : PROPERTY MANAGEMENT OWNED VACATION
+    - 240111 : Paint, wallpaper, and supplies
+    - 240112 : Paints, wallpaper and supplies
+    - 240113 : Paints, wallpaper, supplies
+    - 240121 : Tools and equipment for painting and wallpapering
+    - 240122 : Tools and equipment for painting and wallpapering
+    - 240123 : Tools and equipment for painting and wallpapering
+    - 240211 : Materials for plastering, panels, roofing, gutters, etc.
+    - 240212 : Materials for plaster., panel., siding, windows, doors, screens, awnings
+    - 240213 : Materials and equipment for roof and gutters
+    - 240214 : Materials for plastering, paneling, roofing, gutters, downspouts, siding, windows, doors, screens, and awnings
+    - 240221 : Materials for patio, walk, fence, driveway, masonry, brick and stucco work
+    - 240222 : Materials for patio, walk, fence, driveway, masonry, brick and stucco work
+    - 240223 : MATERIALS AND SUPPLIES FOR REPAIRING OUTDOOR PATIOS, WALKS, FENCES,
+DRIVEWAYS, OR PERMANENT SWIMMING POOLS AND MASONRY, BRICK OR
+STUCCO WORK, OWNED VACATION
+    - 240311 : Plumbing supplies and equipment
+    - 240312 : Plumbing supplies and equipment
+    - 240313 : MATERIALS AND SUPPLIES FOR PLUMBING OR WATER HEATING INSTALLATIONS
+AND REPAIRS, OWNED VACATION
+    - 240321 : Electrical supplies, heating and cooling equipment
+    - 240322 : Electrical supplies, heating and cooling equipment
+    - 240323 : MATERIALS AND SUPPLIES FOR ELECTRICAL WORK, HEATING OR AIR CONDITIONING
+JOBS, FOR OWNED VACATION
+    - 250111 : Fuel oil (renter)
+    - 250112 : Fuel oil (owned home)
+    - 250113 : Fuel oil (owned vacation)
+    - 250114 : Fuel oil (rented vacation)
+    - 250211 : Gas, btld/tank (renter)
+    - 250212 : Gas, btld/tank (owned home)
+    - 250213 : Gas, btld/tank (owned vacation)
+    - 250214 : Gas, btld/tank (rented vacation)
+    - 250221 : Coal (renter)
+    - 250222 : Coal (owned home)
+    - 250223 : Coal (owned vacation)
+    - 250901 : oil, duraflame log, and sterno
+    - 250902 : Wood/other fuels (owned home)
+    - 250903 : Wood/other fuels (owned vacation)
+    - 250904 : Wood/other fuels (rented vacation)
+    - 250911 : Coal, wood, other fuels (renter)
+    - 250912 : Coal, wood, other fuels (owned home)
+    - 250913 : Coal, wood, other fuels (owned vacation)
+    - 250914 : Coal, wood, other fuels (rented vacation)
+    - 260111 : Electricity (renter)
+    - 260112 : Electricity (owned home)
+    - 260113 : Electricity (owned vacation)
+    - 260114 : Electricity (rented vacation)
+    - 260211 : Utility--natural gas (renter)
+    - 260212 : Utility--natural gas (owned home)
+    - 260213 : Utility--natural gas (owned vacation)
+    - 260214 : Utility--natural gas (rented vacation)
+    - 270000 : Telephone service, including public pay phones
+    - 270101 : Residential telephone/pay phones
+    - 270102 : Cellular phone service
+    - 270103 : Pager service
+    - 270104 : A card, document, or electronic media that consumers may purchase at retail outlets, vending machines, or electronically, which allows the purchaser to make prepaid toll or long distance calls.
+    - 270105 : Voice over IP service
+    - 270106 : Residential landline telephone service where there are specific charges per call or per group of calls. Local, Interstate toll, Intrastate toll, and International toll phone calling are included. Residential landline bundle of services that includes landline telephone service, and one or both of the following: television service and/or Internet service. Services priced are primarily specific plans offered by the selected company. All applicable per-plan charges, or individual charges for telephone, television, and/or Internet segments of the plan are eligible for pricing. 
+    - 270211 : Water/sewer maint. (renter)
+    - 270212 : Water/sewer maint. (owned home)
+    - 270213 : Water/sewer maint. (owned vacation)
+    - 270214 : Water/sewer maint. (rented vacation)
+    - 270310 : Cable and satellite television services
+    - 270311 : All prerecorded audio media (other than audio books) on satellite radio.
+    - 270411 : Trash/garb. coll. (renter)
+    - 270412 : Trash/garb. coll. (owned home)
+    - 270413 : Trash/garb. coll. (owned vacation)
+    - 270414 : Trash/garb. coll. (rented vacation)
+    - 270901 : Septic tank clean. (renter)
+    - 270902 : Septic tank clean. (owned home)
+    - 270903 : Septic tank cleaning owned vacations
+    - 270904 : Septic tank clean. (rented vacation)
+    - 280110 : Bathroom linens
+    - 280120 : Bedroom linens
+    - 280130 : Kitchen and dining room linens
+    - 280140 : Kitchen , dining room, other linens
+    - 280210 : Curtains and draperies
+    - 280220 : Slipcovers, decorative pillows
+    - 280230 : Sewing materials for slipcovers, curtains, other sewing materials for the home
+    - 280900 : Other linens
+    - 290110 : Mattress and springs
+    - 290120 : Other bedroom furniture
+    - 290210 : Sofas
+    - 290310 : Living room chairs
+    - 290320 : Living room tables
+    - 290410 : Kitchen, dining room furniture
+    - 290420 : Infants'' furniture
+    - 290430 : Outdoor furniture
+    - 290440 : Wall units, cabinets and other occasional furniture
+    - 300111 : Refrigerators, freezers (renter)
+    - 300112 : Refrigerators, freezers (owned home)
+    - 300211 : Washing machines (renter)
+    - 300212 : Washing machines (owned home)
+    - 300216 : Clothes washer or dryer (renter)
+    - 300217 : Clothes washer or dryer (owned home)
+    - 300221 : Clothes dryers (renter)
+    - 300222 : Clothes dryers (owned home)
+    - 300311 : Cooking stoves, ovens (renter)
+    - 300312 : Cooking stoves, ovens (owned home)
+    - 300321 : Microwave ovens (renter)
+    - 300322 : Microwave ovens (owned home)
+    - 300331 : Portable dishwasher (renter)
+    - 300332 : Portable dishwasher (owned home)
+    - 300411 : Window air conditioners (renter)
+    - 300412 : Window air conditioners (owned home)
+    - 310110 : Black and white tv
+    - 310120 : Color tv - console
+    - 310130 : Color tv - portable, table model
+    - 310140 : Televisions
+    - 310210 : VCR''s and video disc players
+    - 310220 : Video cassettes, tapes, and discs
+    - 310230 : Video game hardware and software
+    - 310231 : Video game software
+    - 310232 : Video game players and video game accessories. Eligible game consoles are those that play games loaded from a separate media, typically an optical disk.
+    - 310240 : Streaming, downloading video
+    - 310243 : Rental, streaming, downloading video
+    - 310311 : Radios
+    - 310312 : Phonographs
+    - 310313 : Tape recorders and players
+    - 310314 : Personal digital audio players
+    - 310316 : Stereos, radios, speakers, and sound components including those in vehicles
+    - 310320 : Sound components and component systems
+    - 310330 : ACCESSORIES AND OTH SOUND EQUIP
+    - 310333 : Accessories and other sound equipment
+    - 310334 : Satellite dishes
+    - 310340 : All prerecorded audio media (other than audio books). Some audio formats, such as DVD-audio may have a relatively small portion of graphical content and still be eligible.
+    - 310341 : Compact disc, tape, record and video mail order clubs
+    - 310342 : Records, CDs, audio tapes, needles
+    - 310350 : Streaming, downloading audio
+    - 310400 : All types of applications, games, and ringtones for handheld devices. This includes "Apps" purchased directly from cell phones or online "app" stores.
+    - 320110 : Room size rugs and other floor covering, nonpermanent
+    - 320111 : Floor coverings, nonpermanent
+    - 320120 : Window coverings
+    - 320130 : Infants'' equipment
+    - 320150 : Outdoor equipment
+    - 320161 : Wall-to-wall carpet, not installed carpet squares (renter)
+    - 320162 : Wall-to-wall carpet, not installed (replacement)
+    - 320163 : Wall-to-wall carpet (replacement)(renter)
+    - 320210 : Clocks
+    - 320220 : Lamps and lighting fixtures
+    - 320221 : Lamps, lighting fixtures, ceiling fans
+    - 320230 : OTH HOUSEHOLD DECORATIVE ITEMS
+    - 320231 : Other household decorative items
+    - 320232 : Telephones and accessories
+    - 320233 : Clocks and other household decorative items
+    - 320310 : Plastic dinnerware
+    - 320320 : China and other dinnerware
+    - 320330 : Flatware
+    - 320340 : Glassware
+    - 320345 : Dinnerware, glassware, serving pieces
+    - 320350 : Silver serving pieces
+    - 320360 : Other serving pieces
+    - 320370 : Nonelectric cookware
+    - 320410 : Lawn and garden equipment
+    - 320420 : Power tools
+    - 320511 : Electric floor cleaning equipment
+    - 320512 : Sewing machines
+    - 320521 : Small electric kitchen appliances
+    - 320522 : Portable heating and cooling equipment
+    - 320611 : Material for insulation, other maintenance and repair
+    - 320612 : Material for insulation, other maintenance and repair
+    - 320613 : CONSTRUCTION MATERIALS OWNED VACATION
+    - 320621 : Material for hard surface flooring
+    - 320622 : Materials for hard surface flooring, repair and replacement
+    - 320623 : Materials for hard surface flooring
+    - 320624 : Flooring installation, repair, replacement
+    - 320625 : Flooring installation, repair, replacement
+    - 320626 : Flooring installation, repair, replacement
+    - 320631 : Material for landscape maintenance
+    - 320632 : Materials for landscaping maintenance
+    - 320633 : Materials for landscaping maintenance
+    - 320901 : Office furniture for home use
+    - 320902 : Hand tools
+    - 320903 : Indoor plants, fresh flowers
+    - 320904 : Closet and storage items
+    - 330511 : Termite/pest control products
+    - 340210 : Babysitting and child care
+    - 340211 : Babysitting and child care in your own home
+    - 340212 : Babysitting and child care in someone else''s home
+    - 340310 : Housekeeping services
+    - 340410 : Gardening, lawn care service
+    - 340420 : Water softening service
+    - 340510 : Moving, storage, freight
+    - 340520 : Household laundry and dry cleaning, sent out (nonclothing) not coin-operated
+    - 340530 : Coin-operated household laundry and dry cleaning (nonclothing)
+    - 340610 : Repair of tv, radio, and sound equipment
+    - 340620 : Appliance repair, including service center
+    - 340630 : Reupholstering, furniture repair
+    - 340901 : Repairs/rentals of lawn and garden equipment, hand or power tools, other household equipment
+    - 340902 : Rental of televisions
+    - 340903 : Other home services
+    - 340904 : Rental of furniture
+    - 340905 : Rental of VCR, radio, and sound equipment
+    - 340906 : Care for elderly, invalids, handicapped, etc.
+    - 340907 : Appliance rental
+    - 340908 : Rental of equipment for non business use
+    - 340910 : Adult day care centers
+    - 340911 : Management and upkeep services for security
+    - 340912 : MANAGEMENT AND UPKEEP SERVICES FOR SECURITY OWNED VACATION
+    - 340914 : Services for termite/pest control
+    - 340915 : Home security system service fee
+    - 350110 : Tenant''s insurance
+    - 360110 : Men''s suits
+    - 360120 : Men''s sportcoats, tailored jackets
+    - 360210 : Men''s coats and jackets
+    - 360311 : Men''s underwear
+    - 360312 : Men''s hosiery
+    - 360320 : Men''s nightwear
+    - 360330 : Men''s accessories
+    - 360340 : Men''s sweaters and vests
+    - 360350 : Men''s active sportswear
+    - 360410 : Men''s shirts
+    - 360420 : Men's shirts, sweaters, and vests
+    - 360511 : Men''s pants
+    - 360512 : Men''s shorts, shorts sets
+    - 360513 : Men's pants and shorts
+    - 360901 : Men''s uniforms
+    - 360902 : Men''s costumes
+    - 370110 : Boys'' coats and jackets
+    - 370120 : Boys'' sweaters
+    - 370125 : Boy's shirts and sweaters
+    - 370130 : Boys'' shirts
+    - 370211 : Boys'' underwear
+    - 370212 : Boys'' nightwear
+    - 370213 : Boys'' hosiery
+    - 370220 : Boys'' accessories
+    - 370311 : Boys'' suits, sportcoats, vests
+    - 370312 : Boys'' pants
+    - 370313 : Boys'' shorts, shorts sets
+    - 370314 : Boys' pants and shorts
+    - 370901 : Boys'' uniforms and active sportswear
+    - 370902 : Boys'' costumes
+    - 370903 : Boys' uniforms
+    - 370904 : Boys' active sportswear
+    - 380110 : Women''s coats and jackets
+    - 380210 : Women''s dresses
+    - 380311 : Women''s sportcoats, tailored jackets
+    - 380312 : Women''s vests and sweaters
+    - 380313 : Women''s shirts, tops, blouses
+    - 380315 : Women's sweaters, shirts, tops, vests
+    - 380320 : Women''s skirts
+    - 380331 : Women''s pants
+    - 380332 : Women''s shorts, shorts sets
+    - 380333 : Women's pants and shorts
+    - 380340 : Women''s active sportswear
+    - 380410 : Women''s sleepwear
+    - 380420 : Women''s undergarments
+    - 380430 : Women''s hosiery
+    - 380510 : Women''s suits
+    - 380901 : Women''s accessories
+    - 380902 : Women''s uniforms
+    - 380903 : Women''s costumes
+    - 390110 : Girls'' coats and jackets
+    - 390120 : Girls'' dresses and suits
+    - 390210 : Girls'' shirts, blouses, sweaters
+    - 390221 : Girls'' skirts and pants
+    - 390222 : Girls'' shorts, shorts sets
+    - 390223 : Girls' skirts, pants, and shorts
+    - 390230 : Girls'' active sportswear
+    - 390310 : Girls'' underwear and sleepwear
+    - 390321 : Girls'' hosiery
+    - 390322 : Girls'' accessories
+    - 390901 : Girls'' uniforms
+    - 390902 : Girls'' costumes
+    - 400110 : Men''s footwear
+    - 400210 : Boys'' footwear
+    - 400220 : Girls'' footwear
+    - 400310 : Women''s footwear
+    - 410110 : Infant coat, jacket, snowsuit
+    - 410111 : INFANT COAT/JACKET/SNOWSUIT 9B
+    - 410112 : INFANT COAT/JACKET/SNOWSUIT 9A
+    - 410120 : Infant dresses, outerwear
+    - 410121 : INFANT DRESSES/OUTERWEAR 9B
+    - 410122 : INFANT DRESSES/OUTERWEAR 9A
+    - 410130 : Infant underwear
+    - 410131 : INFANT UNDERGARMENTS 9B
+    - 410132 : INFANT UNDERGARMENTS 9A
+    - 410140 : Infant nightwear, loungewear
+    - 410141 : INFANT NIGHTWEAR/LOUNGEWEAR 9B
+    - 410142 : INFANT NIGHTWEAR/LOUNGEWEAR 9A
+    - 410901 : Infant accessories
+    - 410902 : INFANTS   OTHER CLOTHING
+    - 410903 : INFANT ACCESSORIES 9A
+    - 410904 : INFANT HOSIERY 9A
+    - 420110 : Material for making clothes
+    - 420115 : Material and supplies for sewing, needlework, quilting (includes household items)
+    - 420120 : Sewing patterns and notions
+    - 430110 : Watches
+    - 430120 : Jewelry
+    - 430130 : Luggage
+    - 440110 : Shoe repair and other shoe service
+    - 440120 : Coin-operated apparel laundry and dry cleaning
+    - 440130 : Alteration, repair and tailoring of apparel and accessories
+    - 440140 : Clothing rental
+    - 440150 : Watch and jewelry repair
+    - 440210 : Apparel laundry and dry cleaning not coin-operated
+    - 440900 : Clothing storage
+    - 450110 : New cars
+    - 450116 : Trade-in allowance for new cars
+    - 450210 : New trucks
+    - 450216 : Trade-in allowance for new trucks or vans
+    - 450220 : New motorcycles
+    - 450226 : Trade-in allowance for new motorcycles, motor scooters, or mopeds
+    - 450310 : Car lease payments
+    - 450311 : Charges other than basic lease, such as insurance or maintenance (car lease)
+    - 450312 : Trade-in allowance (car lease)
+    - 450313 : Cash downpayment (car lease)
+    - 450314 : Termination fee (car lease)
+    - 450350 : Car/truck lease payments
+    - 450351 : Extra fees for car/truck lease
+    - 450352 : Trade in allowance for car/truck lease
+    - 450353 : CASH DWNPYMNT FOR CAR/TRUCK LEASE
+    - 450354 : Termination fee for car/truck lease
+    - 450410 : Truck lease payments
+    - 450411 : Charges other than basic lease, such as insurance or maintenance (truck/van lease)
+    - 450412 : Trade-in allowance (truck/van lease)
+    - 450413 : Cash downpayment (truck lease)
+    - 450414 : Termination fee (truck lease)
+    - 460110 : Used cars
+    - 460116 : Trade-in allowance for used cars
+    - 460901 : Used trucks
+    - 460902 : Used motorcycles
+    - 460907 : Trade-in allowance for used trucks or vans
+    - 460908 : Trade-in allowance for used motorcycles, motor scooters, or mopeds
+    - 470111 : Gasoline
+    - 470112 : Diesel fuel
+    - 470113 : Gasoline on out-of-town trips
+    - 470211 : Motor oil
+    - 470212 : Motor oil on out-of-town trips
+    - 470220 : Coolant, brake fluid, transmission fluid, and other additives
+    - 470311 : Electric vehicle charging
+    - 480110 : Tires - purchased, replaced, installed
+    - 480211 : PARTS/EQUIP/ACCESSORIES
+    - 480212 : Vehicle products and cleaning services
+    - 480213 : Parts, equipment, and accessories
+    - 480214 : Vehicle audio equipment
+    - 480215 : Vehicle video equipment
+    - 480216 : VEHICLE CLEAN SRVCS INCL CARWASH
+    - 490110 : Body work and painting
+    - 490211 : Clutch, transmission repair
+    - 490212 : Drive shaft and rear-end repair
+    - 490220 : Brake work (old)
+    - 490221 : Brake work, including adjustments
+    - 490231 : Repair to steering or front-end
+    - 490232 : Repair to engine cooling system
+    - 490300 : Vehicle or engine repairs
+    - 490311 : Motor tune-up
+    - 490312 : Lube, oil change, and oil filters
+    - 490313 : Front-end alignment, wheel balance
+    - 490314 : Shock absorber replacement
+    - 490315 : Brake adjustment (old)
+    - 490317 : Minor repairs and services out of town trips
+    - 490318 : Repair tires and other repair work
+    - 490319 : Vehicle air conditioning repair
+    - 490411 : Exhaust system repair
+    - 490412 : Electrical system repair
+    - 490413 : Motor repair, replacement
+    - 490500 : VEHICLE ACCESSORIES INCL. LABOR
+    - 490501 : Vehicle accessories including labor
+    - 490502 : Vehicle audio equipment including labor
+    - 490900 : Auto repair service policy
+    - 500110 : Vehicle insurance
+    - 510110 : Automobile finance charges
+    - 510901 : Truck finance charges
+    - 510902 : Motorcycle and plane finance charges
+    - 520110 : Vehicle registration
+    - 520310 : Drivers'' license
+    - 520410 : Vehicle inspection
+    - 520511 : Auto rental
+    - 520512 : Auto rental, out-of-town trips
+    - 520516 : Auto/truck rental
+    - 520517 : Auto/truck rental, out-of-town trips
+    - 520521 : Truck rental
+    - 520522 : Truck rental, out-of-town trips
+    - 520530 : PARKING FEES
+    - 520531 : Parking fees in home city, excluding residence
+    - 520532 : Parking fees, out-of-town trips
+    - 520541 : Tolls or electronic toll passes
+    - 520542 : Tolls on out-of-town trips
+    - 520550 : Towing charges
+    - 520560 : Global positioning services
+    - 520901 : Docking and landing fees
+    - 520902 : Motorcycle rental
+    - 520903 : AIRCRAFT RENTAL
+    - 520904 : Rental non-camper trailer
+    - 520905 : Motorcycle rental, out-of-town trips
+    - 520906 : AIRCRAFT RENTAL/OUT-OF-TOWN TR
+    - 520907 : Boat and trailer rental out-of-town trips
+    - 530110 : Airline fares
+    - 530210 : Intercity bus fares
+    - 530311 : Intracity mass transit fares
+    - 530312 : Local trans. on out-of-town trips
+    - 530411 : Taxi fares and limousine services on trips
+    - 530412 : Taxi fares and limousine services
+    - 530510 : Intercity train fares
+    - 530901 : Ship fares
+    - 530902 : School bus
+    - 540000 : Prescription drugs
+    - 550110 : Eyeglasses and contact lenses
+    - 550320 : Medical equipment for general use
+    - 550330 : Supportive and convalescent medical equipment
+    - 550340 : Hearing aids
+    - 560110 : Physician''s services
+    - 560210 : Dental services
+    - 560310 : Eyecare services
+    - 560320 : SERV BY PRCTIONER OTH THAN PHYS
+    - 560330 : Lab tests, x-rays
+    - 560400 : Service by professionals other than physician
+    - 560410 : Non physician services inside home
+    - 560420 : Non physician services outside home
+    - 560900 : NURSE/THERAPY/MISC. MEDIC SERV
+    - 570110 : Hospital room
+    - 570111 : Hospital room and services
+    - 570210 : Hospital service other than room
+    - 570220 : Care in convalescent or nursing home
+    - 570230 : Other medical care service
+    - 570240 : Medical care in retirement community
+    - 570901 : Rental of medical equipment
+    - 570903 : Rental of supportive, convalescent medical equipment
+    - 580110 : COMMERCIAL HEALTH INSURANCE
+    - 580111 : Traditional fee for service health plan (not BCBS)
+    - 580112 : Traditional fee for service health plan (BCBS)
+    - 580113 : Preferred provider health plan (not BCBS)
+    - 580114 : Preferred provider health plan (BCBS)
+    - 580115 : Fee for service health plan (not BCBS)
+    - 580116 : Fee for service health plan (BCBS)
+    - 580210 : BLUECROSS/BLUE SHIELD
+    - 580310 : Health maintenance plans
+    - 580311 : Health maintenance organization (not BCBS)
+    - 580312 : Health maintenance organization (BCBS)
+    - 580400 : Long term care insurance
+    - 580401 : Long term care insurance (not BCBS)
+    - 580402 : Long term care insurance (BCBS)
+    - 580411 : Dental care insurance (not BCBS)
+    - 580412 : Dental care insurance (BCBS)
+    - 580421 : Prescription drug insurance (not BCBS)
+    - 580422 : Prescription drug insurance (BCBS)
+    - 580431 : Vision care insurance (not BCBS)
+    - 580432 : Vision care insurance (BCBS)
+    - 580441 : Vision care insurance (not BCBS)
+    - 580442 : Vision care insurance (BCBS)
+    - 580901 : Medicare payments
+    - 580902 : COML MEDICAR SUPLMNT/OTH HLTH INS
+    - 580903 : Commercial medicare supplement (not BCBS)
+    - 580904 : Commercial medicare supplement (BCBS)
+    - 580905 : Other health insurance (not BCBS)
+    - 580906 : Other health insurance (BCBS)
+    - 580907 : Medicare prescription drug premium
+    - 580908 : Medicaid premiums
+    - 580909 : Tricare/military premiums
+    - 580910 : Tricare/military premiums
+    - 590110 : Newspapers
+    - 590111 : Newspaper subscriptions
+    - 590112 : Newspapers, non-subscriptions
+    - 590210 : Magazines
+    - 590211 : Magazine subscriptions
+    - 590212 : Magazines, non-subscriptions
+    - 590220 : Books thru book clubs
+    - 590230 : Books not thru book clubs
+    - 590310 : Newspaper, magazine by subscription
+    - 590410 : Newspaper, magazine non-subscription
+    - 600110 : Outboard motor
+    - 600121 : Boat without motor and boat trailers
+    - 600122 : Trailer and other attachable campers
+    - 600127 : Trade in allowance for boat without motor or non camper-type trailer, such as for boat or cycle
+    - 600128 : Trade-in allowance for trailer-type or other attachable-type camper
+    - 600131 : MOTORIZED CAMPER COACH/OTH VEH
+    - 600132 : Purchase of boat with motor
+    - 600137 : TRADE ALLOW/MOTOR CAMPER, OTH VEH
+    - 600138 : Trade-in allowance for boat with motor
+    - 600141 : Purchase of motorized camper
+    - 600142 : Purchase of other vehicle
+    - 600143 : Trade in allowance, motorized camper
+    - 600144 : Trade in allowance, other vehicle
+    - 600210 : Athletic gear, game tables, and exercise equipment
+    - 600310 : Bicycles
+    - 600410 : Camping equipment
+    - 600420 : Hunting and fishing equipment
+    - 600430 : Winter sports equipment
+    - 600900 : Water sports and miscellaneous sports equipment
+    - 600901 : Water sports equipment
+    - 600902 : Other sports equipment
+    - 610110 : Toys, games, arts and crafts, and tricycles
+    - 610120 : Playground equipment
+    - 610130 : Musical instruments and accessories
+    - 610140 : Stamp and coin collecting
+    - 610210 : Film
+    - 610230 : Photographic equipment
+    - 610320 : Pet purchase, supplies, medicine
+    - 610900 : Recreation expenses, out-of-town trips
+    - 620110 : CLUB MEMBERSHIP DUES AND FEES
+    - 620111 : Social, recreation, health club membership
+    - 620112 : Credit card memberships
+    - 620113 : Automobile service clubs
+    - 620114 : Automobile service clubs and GPS services
+    - 620115 : Shopping club membership fees
+    - 620121 : Fees for participant sports
+    - 620122 : Participant sports, out-of-town trips
+    - 620211 : Movie, theater, amusement parks, and other
+    - 620212 : Movie, other admissions, out-of-town trips
+    - 620213 : Play, theater, opera, concert
+    - 620214 : Movies, parks, museums
+    - 620215 : Tickets to movies
+    - 620216 : Tickets to parks or museums
+    - 620221 : Admission to sporting events
+    - 620222 : Admission to sports events, out-of-town trips
+    - 620310 : Fees for recreational lessons
+    - 620320 : Photographer fees
+    - 620330 : Photo processing
+    - 620410 : Pet services
+    - 620420 : Vet services
+    - 620902 : RENTAL CAMPER/OTH VEHS ON TRIPS
+    - 620903 : Other entertainment services, out-of-town trips
+    - 620904 : Rental and repair of musical instruments
+    - 620905 : Repair and rental of photographic equipment
+    - 620906 : Rental of boat
+    - 620907 : RENTAL OF CAMPERS OTHER R.V.S
+    - 620908 : Rental and repair of miscellaneous sports equipment
+    - 620909 : Rental of campers on out-of-town trips
+    - 620912 : Rental of video cassettes, tapes, films, and discs
+    - 620916 : Rental of computer and video game hardware and software
+    - 620917 : Rental of video hardware/accessories
+    - 620918 : Rental of video software
+    - 620919 : Rental of other vehicles on out-of-town trips
+    - 620921 : Rental of motorized camper
+    - 620922 : Rental of other RV"s
+    - 620926 : Lotteries and pari-mutuel losses
+    - 620930 : Online gaming services
+    - 630110 : Cigarettes
+    - 630210 : Other tobacco products
+    - 640130 : Wigs and hairpieces
+    - 640420 : Electric personal care appliances
+    - 640430 : Adult diapers
+    - 650110 : Personal care service for females (old)
+    - 650210 : Personal care service for males (old)
+    - 650310 : Personal care services
+    - 650900 : Repair of personal care appliances
+    - 660110 : School books, supplies, equipment for college
+    - 660210 : School books, supplies, equipment for elementary, high school
+    - 660310 : Encyclopedia and other sets of reference books
+    - 660410 : School books, supplies, equipment for vocational and technical schools
+    - 660900 : School books, supplies, equipment for day care, nursery, preschool, other
+    - 660901 : School books, supplies, equipment for day care, nursery
+    - 660902 : School books, supplies, equipment for other schools
+    - 670110 : College tuition
+    - 670210 : Elementary and high school tuition
+    - 670310 : Day care centers, nursery, and preschools
+    - 670410 : Vocational and technical school tuition
+    - 670901 : Other schools tuition
+    - 670902 : Other school expenses including rentals
+    - 670903 : Test preparation, tutoring services
+    - 680110 : Legal fees
+    - 680140 : Funeral expenses
+    - 680210 : Safe deposit box rental
+    - 680220 : Checking accounts, other bank service charges
+    - 680310 : Live entertainment for catered affairs
+    - 680320 : Rental of party supplies for catered affairs
+    - 680901 : Cemetery lots, valuts, maintenace fees
+    - 680902 : Accounting fees
+    - 680904 : Dating services
+    - 680905 : Vacation clubs
+    - 690110 : Computers for non-business
+    - 690111 : Computers and computer hardware for nonbusiness use
+    - 690112 : Computer software and accessories for nonbusiness use
+    - 690113 : Repair of computer systems for nonbusiness use
+    - 690114 : Computer information services
+    - 690115 : Personal digital assistants
+    - 690116 : Internet services away from home
+    - 690117 : Portable memory
+    - 690118 : Digital book readers
+    - 690119 : Computer software
+    - 690120 : Computer accessories
+    - 690210 : Telephone answering device
+    - 690220 : Calculators
+    - 690230 : Business equipment for home use
+    - 690241 : Smoke alarms (renter)
+    - 690242 : Smoke alarms (owned home)
+    - 690244 : Other household appliances (renter)
+    - 690245 : Other household appliances (owned home)
+    - 690310 : Installation of computer
+    - 690320 : Installation of televisions
+    - 690330 : Installation of satellite television equipment
+    - 690340 : Installation of sound systems
+    - 690350 : Installation of other video equipment or sound systems
+    - 700110 : Life, endowment, annuity, other personal insurance
+    - 710110 : Finance charges excluding mortgage and vehicle
+    - 790210 : Total purchases at grocery stores
+    - 790220 : Food and nonalcoholic beverage purchases at grocery stores
+    - 790230 : Food and nonalcoholic beverage purchases at convenience or specialty stores
+    - 790240 : AVG FOOD/NONALC BEV EXPENSES
+    - 790310 : Beer and wine for home use
+    - 790320 : Other alcoholic beverages for home use
+    - 790330 : BEER/WINE/OTH ALC FOR HOME USE
+    - 790410 : Dining out at restaurants, cafeterias, drive-ins, etc. (excluding alcoholic beverages)
+    - 790420 : Alcoholic beverages at restaurants, cafeterias, drive-ins, etc.
+    - 790430 : School lunches
+    - 790600 : Expenses for other properties
+    - 790610 : Contractors labor and materials, supplies CU obtained, apppliances provided by contractor, other property
+    - 790611 : Dishwasher, disposal, range hood capital improvement (other property)
+    - 790620 : Management services and improvements of other properties
+    - 790630 : Special assessments (other property)
+    - 790640 : Property management, security, parking (other property)
+    - 790690 : Construction materials for jobs not started
+    - 790710 : Purchase price of property (other property)
+    - 790720 : PURCHASE COMMONS OTH PROP
+    - 790730 : Closing costs purchase of property (other property)
+    - 790810 : Sale price of property or trade-in amount (other property)
+    - 790820 : Mortgage held after sale of real estate (other property)
+    - 790830 : Total expenses in sale of property (other property)
+    - 790840 : OTHER CHARGES IN SALE OF OTHER PROPERTIES
+    - 790910 : Special lump sum mortgage payments (other property)
+    - 790920 : Reduction of mortgage principal (other property)
+    - 790930 : Original loan amount (mortgage obtained during interview quarter) (other property)
+    - 790940 : Reduction mortgage principal, home equity loan (other property)
+    - 790950 : Original loan amount, home equity loan (loan obtained during interview quarter) (other property)
+    - 800111 : Alimony expenditures
+    - 800121 : Child support expenditures
+    - 800700 : Meals as pay
+    - 800710 : Rent as pay
+    - 800721 : Market value of owned home
+    - 800800 : CASH GIFTS/CONTRIBUTIONS
+    - 800803 : Money given to non-CU members, charities, and other organizations
+    - 800804 : Support for college students
+    - 800811 : Gift to non-CU members of stocks, bonds, and mutual funds
+    - 800821 : Cash contributions to charities and other organizations
+    - 800831 : Cash contributions to church, religious organizations
+    - 800841 : Cash contribution to educational institutions
+    - 800851 : Cash contribution to political organizations
+    - 800861 : Other cash gifts
+    - 810101 : Purchase price of property (owned home)
+    - 810102 : Purchase price of property (owned vacation)
+    - 810201 : COMMON AREAS OWND
+    - 810202 : Amount of purchase price that was for common areas owned vacation
+    - 810301 : Closing costs purchase of property (owned home)
+    - 810302 : Closing costs owned vacation
+    - 810400 : Gifts of out of town trip expenses
+    - 820101 : Sale price of property or trade-in amount (owned home)
+    - 820102 : Sale price of property or trade-in amount (owned vacation)
+    - 820201 : Principle amount trust held own home
+    - 820202 : Principle amont of truct holding for new purchaser owned vacation
+    - 820301 : Total expenses in sale of property (owned home)
+    - 820302 : Total expenses in sale of property (owned vacation)
+    - 820401 : OTHER SELLING CHARGES OWND
+    - 830101 : Special lump sum mortgage payment (owned home)
+    - 830102 : Special lump sum mortgage payment (owned vacation)
+    - 830201 : Reduction of mortgage principal (owned home)
+    - 830202 : Reduction of mortgage principal (owned vacation)
+    - 830203 : Reduction mortgage principal, home equity loan (owned home)
+    - 830204 : Reduction mortgage principal, home equity loan (owned vacation)
+    - 830301 : Original loan amount (mortgage obtained during interview quarter) (owned home)
+    - 830302 : Original loan amount (mortgage obtained during interview quarter) (owned vacation)
+    - 830303 : Original loan amount, home equity loan (loan obtained during interview quarter) (owned home)
+    - 830304 : Original loan amount, home equity loan (loan obtained during interview quarter) (owned vacation)
+    - 840101 : Special assessments (owned home)
+    - 840102 : Special assessments (owned vacation)
+    - 850100 : Reduction of vehicle loan principal
+    - 850200 : Vehicle principal balance (loan obtained during interview quarter)
+    - 850300 : Other vehicle finance charges
+    - 860100 : Sale of automobiles
+    - 860200 : Sale of trucks, including vans
+    - 860300 : AMT MOTOR CAMPER SOLD/REIM
+    - 860301 : Sale of motor camper
+    - 860302 : Sale of other vehicles
+    - 860400 : Sale of trailer type and other attachable campers
+    - 860500 : Sale of motorcycles
+    - 860600 : Sale of boats, with motors
+    - 860700 : Sale of boats, without motors and boat trailers
+    - 860800 : Sale of aircraft
+    - 870101 : New cars, trucks, or vans (net outlay), purchase not financed
+    - 870102 : Cash downpayment for new cars, trucks, or vans, purchase financed
+    - 870103 : Finance charges on loans for new cars, trucks, or vans
+    - 870104 : Principal paid on loans for new cars,trucks, or vans
+    - 870201 : Used cars, trucks, or vans (net outlay), purchase not financed
+    - 870202 : Cash downpayment for used cars, trucks, or vans, purchase financed
+    - 870203 : Finance charges on loans for used cars, trucks, or vans
+    - 870204 : Principal paid on loans for used cars, trucks, or vans
+    - 870301 : Motorcycles, motor scooters, or mopeds (net outlay), purchase not financed
+    - 870302 : Cash downpayment for motorcycles, motor scooters, or mopeds, purchase financed
+    - 870303 : Finance charges on loans for motorcycles, motor scooters, or mopeds
+    - 870304 : Principal paid on loans for motorcycles, motor scooters, or mopeds
+    - 870401 : Boat without motor or non camper-type trailer, such as for boat or cycle (net outlay), purchase not financed
+    - 870402 : Cash downpayment for boat without motor, or non camper-type trailer, such as for boat or cycle, purchase financed
+    - 870403 : Finance charges on loans for boat without motor or non camper- type trailer, such as for boat or cycle
+    - 870404 : Principal paid on loans for boat without motor, or non camper-trailer, such as for boat or cycle
+    - 870501 : Trailer-type or other attachable-type camper (net outlay), purchase not financed
+    - 870502 : Cash downpayment for trailer-type or other attachable-type camper, purchase financed
+    - 870503 : Finance charges on loans for trailer-type or other attachable-type camper
+    - 870504 : Principal paid on loans for trailer-type or other attachable-type camper
+    - 870601 : MTR CAMPER/OTHER VEH., NOT FIN.
+    - 870602 : DOWNPAY, MTR CAMP/OTHER, FIN.
+    - 870603 : INTEREST, MTR CAMP/OTHER, FIN.
+    - 870604 : PRINCIPAL, MTR CAMP/OTHER, FIN.
+    - 870605 : Purchase of motorized camper, not financed
+    - 870606 : Principal, motorized camper, financed
+    - 870607 : Interest, motorized camper, financed
+    - 870608 : Downpayment, motorized camper, financed
+    - 870701 : Boat with motor (net outlay), purchase not financed
+    - 870702 : Cash downpayment for boat with motor, purchase financed
+    - 870703 : Finance charges on loans for boat with motor
+    - 870704 : Principal paid on loans for boat with motor
+    - 870801 : Purchase of other vehicle, not financed
+    - 870802 : Principal, other vehicle, financed
+    - 870803 : Interest, other vehicle, financed
+    - 870804 : Downpayment, other vehicle, financed
+    - 880110 : Interest paid, home equity line of credit
+    - 880120 : Principal paid, home equity line of credit (owned home)
+    - 880210 : Interest paid, home equity line of credit (other property)
+    - 880220 : Principal paid, home equity line of credit (other property)
+    - 880310 : Interest paid, home equity line of credit
+    - 880320 : Principal paid, home equity line of credit (owned vacation)
+    - 900002 : Occupational expenses
+    - 910042 : Monthly transit subsidy
+    - 910050 : Estimated monthly rental value of owned home
+    - 910060 : Estimated monthly rental value of time share
+    - 910070 : Estimated monthly rental value of owned vacation home (excluding time share)
+    - 910080 : Rent received from time share
+    - 910090 : Rent received from owned vacation home
+    - 910100 : Rental equivalence of vacation home
+    - 910101 : Estimated monthly rental value of vacation home not available for rent
+    - 910102 : Estimated monthly rental value of vacation home available for rent
+    - 910103 : Estimated annual rental value of timeshare
+    - 910104 : 910104 CPI ADJ RENT EQUIV OF OWNED HOME
+    - 910105 : 910105 CPI ADJ RE VAC HOME NOT AVAIL RNT
+    - 910106 : CPI vacation home available for rent
+    - 910107 : 910107 CPI ADJ RENT EQUIV FOR TIMESHARES
+    - 950024 : VEHICLE PERSONAL PROPERTY TAXES
+    - 950030 : 2008 Tax stimulus
+    - 990900 : Rental and installation of dishwashers, range hoods, and garbage disposals
+    - 990920 : Materials for additions, finishing basements, remodeling rooms
+    - 990930 : Materials to finish basement, remodel rooms or build patios, walks, etc. (maint., repair and repl. - owned properties)
+    - 990940 : Materials for finishing, remolding, building patios, walks or other enclosures owned vacation
+    - 990950 : Materials for dwellings under construction and additions Renter/under contruction/second home
+- UCCSEQ : Sequence number of UCC in a given mapping
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### ITBI - Deatailed Monthly Income
+
+
+- NEWID : Public use microdata identifier
+- PUBFLAG : Is amount included in published reports?
+    - 1 : Not published
+    - 2 : Published in Integrated Bulletin
+- REFMO : Reference Month of this expenditure
+- REFYR : Reference Year of this expenditure
+- UCC : Universal Classification Code
+    - 001000 : Purchase price of stocks, bonds or mutual funds including broker fees
+    - 001010 : Sale price stocks/bonds/mutual funds, net
+    - 001210 : Invests to farm/business
+    - 001220 : Assets taken from farm/business
+    - 002010 : Change in savings account
+    - 002020 : Change in checking account
+    - 002030 : Change in amount us saving bonds
+    - 003000 : Change in money owed to cu
+    - 003100 : Surrender of ins policies
+    - 005100 : Value of savings, checking, money market, and CDs
+    - 005110 : Value of savings, checking, money market, and CDs
+    - 005200 : VAL RETIREMENT PLANS
+    - 005210 : VAL RETIREMENT PLANS YR AGO
+    - 005300 : SURRNDR VAL WHOLE LIF POL
+    - 005310 : SURRNDR VAL WHOLE LIF POL YR AGO
+    - 005400 : Amount owed on credit cards
+    - 005410 : Amount owed on credit cards one year ago
+    - 005420 : Finance, late, interest charges for credit cards
+    - 005500 : Amount owed on student loans
+    - 005510 : Amount owed on student loans one year ago
+    - 005520 : Finance, late, interest charges for student loans
+    - 005600 : Amount owed on other loans
+    - 005610 : Amount owed on other loans one year ago
+    - 005620 : Finance, late, interest charges for other loans
+    - 005700 : Value of other financial assets
+    - 005710 : Value of other financial assets one year ago
+    - 005800 : Value of stocks, bonds, mutual funds
+    - 005810 : Value of stocks, bonds, mutual funds one year ago
+    - 800112 : Alimony annual
+    - 800122 : Child support annual
+    - 800720 : MARKET VALUE OF OWNED HOME
+    - 800801 : Cash contributions to non-CU members, including students, alimony, and child support (old)
+    - 800802 : Cash support for college students (Sec. 22)
+    - 800810 : Gifts of cash, stocks and bonds to non-CU members (old)
+    - 800820 : Contributions to charity
+    - 800830 : Contributions to church
+    - 800840 : Contributions to educational organizations
+    - 800850 : Contributions to political organizations
+    - 800860 : Other contributions
+    - 800910 : Deductions for government retirement
+    - 800920 : Deductions for railroad retirement
+    - 800931 : Deductions for private pensions
+    - 800932 : Non-payroll deposit to retirement plans
+    - 800940 : Deductions for Social Security
+    - 900000 : Wages and salaries
+    - 900001 : Occupational expenses
+    - 900010 : Net business income
+    - 900020 : Net farm income
+    - 900030 : Social Security and railroad retirement income
+    - 900040 : Pensions and annuities
+    - 900050 : Dividends, royalties, estates, trusts
+    - 900060 : Roomer and boarder income
+    - 900070 : Other rental income
+    - 900080 : Interest
+    - 900090 : Supplemental security income
+    - 900100 : Unemployment compensation
+    - 900110 : Workers'' compensation and veterans'' benefits
+    - 900120 : Public assistance
+    - 900130 : REGULAR CONTRIBUTIONS FOR SUPPORT
+    - 900131 : Child support payments
+    - 900132 : Other regular contributions including alimony
+    - 900140 : Other income
+    - 900150 : Food stamps
+    - 900160 : Self-employment income
+    - 900170 : Retirement, survivors, disability income
+    - 900180 : Interest and dividends
+    - 900190 : Net room/rental income
+    - 900200 : Royalty, estate, trust income
+    - 900210 : Other regular income
+    - 900220 : Lump sum payment received
+    - 910000 : Lump sum receipts
+    - 910010 : Money from sale of household furnishings, etc.
+    - 910020 : Refund from overpayment on Social Security
+    - 910030 : Refunds from insurance policies
+    - 910040 : Refunds from property taxes
+    - 910041 : Lump sum child support payment
+    - 910050 : Rental equivalence of owned home
+    - 920010 : Market value of all savings accounts
+    - 920020 : Market value of all checking accounts
+    - 920030 : Market value of all U.S. savings bonds
+    - 920040 : Market value of all securities
+    - 950000 : Federal income tax
+    - 950001 : Federal income tax refunds
+    - 950002 : Federal income tax deducted
+    - 950003 : Additional federal income tax paid
+    - 950004 : Federal income tax (imputed)
+    - 950010 : State and local income tax
+    - 950011 : State and local income tax refunds
+    - 950012 : State and local income tax deducted
+    - 950013 : Additional state and local income tax paid
+    - 950014 : State and local income tax (imputed)
+    - 950021 : Other taxes
+    - 950022 : Personal property taxes
+    - 950023 : Other tax refunds
+    - 980000 : Income before taxes
+    - 980010 : People
+    - 980020 : Age of reference person
+    - 980030 : Earners
+    - 980040 : Vehicles (owned)
+    - 980050 : Children under 18
+    - 980060 : People 65 and older
+    - 980070 : Income after taxes
+    - 980071 : Income after taxes
+    - 980090 : Percent homeowner
+    - 980210 : Men
+    - 980220 : Women
+    - 980230 : With mortgage
+    - 980240 : Without mortgage
+    - 980260 : Renter
+    - 980270 : Black or African-American
+    - 980280 : White and other
+    - 980281 : White
+    - 980282 : Asian
+    - 980283 : All other races
+    - 980285 : Hispanic or Latino
+    - 980286 : Not Hispanic or Latino
+    - 980290 : Elementary (1-8)
+    - 980300 : High school (9-12)
+    - 980310 : College
+    - 980320 : Never attended and other
+    - 980330 : At least one vehicle owned
+    - 980340 : At least one vehicle leased
+    - 980350 : At least one vehicle owned or leased
+    - 980360 : Vehicles (leased)
+- VALUE : Value of UCC (Flag: VALUE_)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Imputed Monthly Income
+
+- IMPNUM : Income Imputation Iteration
+    - 1 : First
+    - 2 : Second
+    - 3 : Third
+    - 4 : Fourth
+    - 5 : Fifth
+- NEWID : Public use microdata identifier
+- PUBFLAG : Is amount included in published reports?
+    - 1 : Not published
+    - 2 : Published in Integrated Bulletin
+- REFMO : Reference Month of this expenditure
+- REFYR : Reference Year of this expenditure
+- UCC : Universal Classification Code
+    - 001000 : Purchase price of stocks, bonds, mutual funds
+    - 001010 : Sale price stocks/bonds/mutual funds, net
+    - 001210 : Invests to farm/business
+    - 001220 : Assets taken from farm/business
+    - 002010 : Change in savings account
+    - 002020 : Change in checking account
+    - 002030 : Change in amount us saving bonds
+    - 003000 : Change in money owed to cu
+    - 003100 : Surrender of ins policies
+    - 800112 : Alimony annual
+    - 800122 : Child support annual
+    - 800801 : Cash contributions to non-CU members, including students, alimony, and child support (old)
+    - 800802 : Cash support for college students (Sec. 22)
+    - 800810 : Gifts of cash, stocks and bonds to non-CU members (old)
+    - 800820 : Contributions to charity
+    - 800830 : Contributions to church
+    - 800840 : Contributions to educational organizations
+    - 800850 : Contributions to political organizations
+    - 800860 : Other contributions
+    - 800940 : Deductions for Social Security
+    - 900000 : Wages and salaries
+    - 900001 : Occupational expenses
+    - 900010 : Net business income
+    - 900020 : Net farm income
+    - 900030 : Social Security and railroad retirement income
+    - 900040 : Pensions and annuities
+    - 900050 : Dividends, royalties, estates, trusts
+    - 900060 : Roomer and boarder income
+    - 900070 : Other rental income
+    - 900080 : Interest
+    - 900090 : Supplemental security income
+    - 900100 : Unemployment compensation
+    - 900110 : Workers'' compensation and veterans'' benefits
+    - 900120 : Public assistance
+    - 900131 : Child support payments
+    - 900132 : Other regular contributions including alimony
+    - 900140 : Other income
+    - 900150 : Food stamps
+    - 900160 : Self-employment income
+    - 900170 : Retirement, survivors, disability income
+    - 900180 : Interest and dividends
+    - 900190 : Net room/rental income
+    - 900200 : Royalty, estate, trust income
+    - 900210 : Other regular income
+    - 910000 : Lump sum receipts
+    - 910010 : Money from sale of household furnishings, etc.
+    - 910020 : Refund from overpayment on Social Security
+    - 910030 : Refunds from insurance policies
+    - 910040 : Refunds from property taxes
+    - 910041 : Lump sum child support payment
+    - 920010 : Market value of all savings accounts
+    - 920020 : Market value of all checking accounts
+    - 920030 : Market value of all U.S. savings bonds
+    - 920040 : Market value of all securities
+    - 950000 : Federal income tax
+    - 950001 : Federal income tax refunds
+    - 950002 : Federal income tax deducted
+    - 950003 : Additional federal income tax paid
+    - 950010 : State and local income tax
+    - 950011 : State and local income tax refunds
+    - 950012 : State and local income tax deducted
+    - 950013 : Additional state and local income tax paid
+    - 950022 : Personal property taxes
+    - 950023 : Other tax refunds
+    - 980000 : Income before taxes
+    - 980070 : Income after taxes
+    - 980071 : Income after taxes
+    - 980280 : White and other
+- VALUE : Value of UCC (Flag: VALUE_)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### NTAXI - Estimated State and Federal Income Taxes
+
+- ADDTX_CY : Additional Child Tax Credit, current year
+- ADDTX_PY : Additional Child Tax Credit, prior year
+- AGE_SP : Age of spouse (or zero). Variable 6 in TaxSim model.
+- AGE_TP : Age of tax payer (or zero). Variable 6 in TaxSim model.
+- AMTDEDCT : Itemized deductions with Alternative Minimum Tax (AMT) preference (Flag: AMTD_DCT)
+- AMTIN_CY : Income for the Alternative Minimum Tax, current year
+- AMTIN_PY : Income for the Alternative Minimum Tax, prior year
+- AMTOW_CY : Alternative Minimum Tax (AMT) Liability, current year
+- AMTOW_PY : Alternative Minimum Tax (AMT) Liability, prior year
+- CHDTX_CY : Child Tax Credit, current year
+- CHDTX_PY : Child Tax Credit, prior year
+- CHLDCARE : Child care expenses (Flag: CHLD_ARE)
+- DEPCNT : Count of dependents in tax unit
+- DEPUND13 : Count of dependents in the tax unit whose ages are less than 13
+- DEPUND17 : Count of dependents in the tax unit whose ages are less than 17 (Flag: DEPU_D17)
+- DEPUND18 : Count of dependents in the tax unit whose ages are less than 18
+- DIVINC : Dividend income
+- DPCAR_CY : Dependent Care Credit, current year
+- DPCAR_PY : Dependent Care Credit, prior year
+- EITCR_CY : Earned income tax credit, current year
+- EITCR_PY : Earned income tax credit, prior year
+- FDAGI_CY : Federal AGI, current year
+- FDAGI_PY : Federal AGI, prior year
+- FICA_CY : Federal Insurance Contributions Act (FICA) - US payroll tax, * current year
+- FICA_PY : Federal Insurance Contributions Act (FICA) - US payroll tax, * prior year
+- FICAR_CY : FICA rate current year
+- FICAR_PY : FICA rate previous year
+- FILESTAT : Filing Status
+- FRATE_CY : Federal marginal rate current year
+- FRATE_PY : Federal marginal rate previous year
+- FRGTX_CY : Amount of tax owed based on AGI, current year (before any credits and excluding AMT)
+- FRGTX_PY : Amount of tax owed based on AGI, prior year (before any credits and excluding AMT)
+- FTAXO_CY : Federal income tax liability after all credits, current year
+- FTAXO_PY : Federal income tax liability after all credits, prior year
+- FTAXOWE : Weighted estimate for Federal tax liabilities at the Tax Unit Level
+- FTXBC_CY : Federal Income tax before credits, current year (before credits and including AMT)
+- FTXBC_PY : Federal Income tax before credits, prior year (before credits and including AMT)
+- NEWID : Public use microdata identifier
+- NONTXINC : Other non-taxable transfer income (Flag: NONT_INC)
+- OTHDEDCT : Non AMT itemized deductions (Flag: OTHD_DCT)
+- OTHTXINC : Other taxable income (Flag: OTHT_INC)
+- PROPTXPD : Property taxes paid (Flag: PROP_XPD)
+- RNTPAID : Rent paid (used for calculating state property tax rebates) (Flag: RNTPAID_)
+- SDCAR_CY : State dependent care credit, current year
+- SDCAR_PY : State dependent care credit, prior year
+- SEITC_CY : State earned income credit, current year
+- SEITC_PY : State earned income credit, prior year
+- SITDD_CY : State itemized deduction amount, current year
+- SITDD_PY : State itemized deduction amount, prior year
+- SOI_ST : Statistics of income state code (Flag: SOI_ST_)
+- SOSSECB : Social security benefits (Flag: SOSSECB_)
+- SPRCR_CY : State property tax credit, current year
+- SPRCR_PY : State property tax credit, prior year
+- SRATE_CY : State marginal rate current year
+- SRATE_PY : State marginal rate previous year
+- SSTDD_CY : State standard deduction amount, current year
+- SSTDD_PY : State standard deduction amount, prior year
+- STAGI_CY : State AGI, current year
+- STAGI_PY : State AGI, prior year
+- STAXO_CY : State income tax liability after all credits, current year
+- STAXO_PY : State income tax liability after all credits, prior year
+- STAXOWE : Weighted estimate for State tax liabilities at the Tax Unit Level
+- TAX_UNIT : Identifies which tax unit the member was placed in (Flag: TAX__NIT)
+- TAXPENS : Taxable pensions (Flag: TAXPENS_)
+- TAXYR_CY : The year that tax will be calculated for, current year
+- TAXYR_PY : The year that tax will be calculated for, previous year
+- WAGE_HD : Wage and salary income of taxpayer (Flag: WAGE_HD_)
+- WAGE_SP : Wage and salary income of taxpayer's spouse (Flag: WAGE_SP_)
+- WAGE_SP : Wage and salary income of taxpayer's spouse (Flag: WAGE_SP_)
+- WAGE_SP : Wage and salary income of taxpayer's spouse (Flag: WAGE_SP_)
 
 
 
