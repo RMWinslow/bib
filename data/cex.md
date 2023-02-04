@@ -1,5 +1,5 @@
 ---
-title: BLS Consumer Expenditure Survey
+title: BLS CEX
 parent: Other
 has_children: true
 ---

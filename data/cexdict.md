@@ -2,8 +2,7 @@
 title: Data Dictionary for the BLS CEX
 description: "This page has a subset of the documentation for the Bureau of Labor Statistics' Consumer Expenditure Survey, placed into a simple list for ease of access and reference"
 grand_parent: Other
-parent: BLS Consumer Expenditure Survey
-has_children: true
+parent: BLS CEX
 layout:  post
 search_exclude: true
 ---
