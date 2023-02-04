@@ -5,6 +5,7 @@ grand_parent: Other
 parent: BLS CEX
 layout:  post
 search_exclude: true
+toc: true
 ---
 
 This page has a subset of the variables for the
