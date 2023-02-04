@@ -66,7 +66,8 @@ from the ACS on the average one-way commute time by workers commuting into Zone
 each way.
 We estimate the financial commuting cost parameters, τ1 and τ2, using information
 from a special survey in the 2017 AHS. Our target financial commuting costs for Zones
-1 and 2 are $2,226 and $5,565 per year for households working all days at the office.13
+1 and 2 are $2,226 and 
+$5,565 per year for households working all days at the office.13
 
 
 
