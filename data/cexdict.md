@@ -1743,7 +1743,23 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
 
 
 
+## Flag Values
 
+Some variables have secondary "Flag" variables associated with them.
+Here are the meanings of each flag value.
+
+- A : Valid blank; a blank field where a response is not anticipated
+- B : Invalid blank due to invalid nonresponse; nonresponse that is not consistent with other data reported by the CU
+- C : Blank due to "Don't know," refusal, or other nonresponse
+- D : Valid value; unadjusted
+- E : Valid value; allocated
+- F : Valid value; imputed or adjusted in some other way
+- G : Valid value; allocated and imputed
+- H : Valid blank for an expenditure that is a "parent record" where the expenditure was allocated to other records and the original expenditure was overwritten with a blank
+- T : Valid value; topcoded or suppressed
+- U : Valid value; allocated then topcoded or suppressed
+- V : Valid value; imputed or adjusted in some other way then topcoded or suppressed
+- W : Valid value; allocated and imputed or adjusted in some other way then topcoded or suppressed
 
 
 
