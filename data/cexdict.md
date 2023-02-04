@@ -25,36 +25,36 @@ The below is a list of variables found in the FMLI and MEMI data files as of 202
 ### FMLI - Consumer Unit Level (Family Level) Interview
 
 
-- AGE_REF : Age of reference person (Flag: AGE_REF_)
-- AGE2 : Age of spouse (Flag: AGE2_)
+- AGE_REF : Age of reference person (Flag: `AGE_REF_`)
+- AGE2 : Age of spouse (Flag: `AGE2_`)
 - ALCBEVCQ : Alcoholic beverages this quarter
 - ALCBEVPQ : Alcoholic beverages last quarter
 - ALLFULCQ : Fuel oil and other fuels this quarter
 - ALLFULPQ : Fuel oil and other fuels last quarter
 - APPARCQ : Apparel and services this quarter
 - APPARPQ : Apparel and services last quarter
-- APTMENT : Does this unit have an apartment or guest house? (Flag: APTMENT_)
+- APTMENT : Does this unit have an apartment or guest house? (Flag: `APTMENT_`)
     - 04 : Apartment of Guest House
     - 09 : Apartment missing otherwise
     - 1 : Apartment included in structure
     - 2 : Apartment not included in structure
     - 4 : Apartment or Guest House
     - 9 : Apartment
-- AS_COMP1 : Number of males age 16 and over in CU (Flag: AS_C_MP1)
-- AS_COMP2 : Number of females age 16 and over in CU (Flag: AS_C_MP2)
-- AS_COMP3 : Number of males age 2 through 15 in CU (Flag: AS_C_MP3)
-- AS_COMP4 : Number of females age 2 through 15 in CU (Flag: AS_C_MP4)
-- AS_COMP5 : Number of members under age 2 in CU (Flag: AS_C_MP5)
-- BATHRMQ : Number of complete baths in this unit (Flag: BATHRMQ_)
+- AS_COMP1 : Number of males age 16 and over in CU (Flag: `AS_C_MP1`)
+- AS_COMP2 : Number of females age 16 and over in CU (Flag: `AS_C_MP2`)
+- AS_COMP3 : Number of males age 2 through 15 in CU (Flag: `AS_C_MP3`)
+- AS_COMP4 : Number of females age 2 through 15 in CU (Flag: `AS_C_MP4`)
+- AS_COMP5 : Number of members under age 2 in CU (Flag: `AS_C_MP5`)
+- BATHRMQ : Number of complete baths in this unit (Flag: `BATHRMQ_`)
 - BBYDAYCQ : Babysitting and child day care this quarter
 - BBYDAYPQ : Babysitting and child day care last quarter
-- BEDROOMQ : Number of bedrooms in CU (Flag: BEDR_OMQ)
+- BEDROOMQ : Number of bedrooms in CU (Flag: `BEDR_OMQ`)
 - BLS_URBN : Is this CU located in an urban or rural area
     - 1 : Urban
     - 2 : Rural
 - BOYFIFCQ : Clothing for boys, 2 to 15 this quarter
 - BOYFIFPQ : Clothing for boys, 2 to 15 last quarter
-- BUILDING : Which of these descriptions from the list best describes this building? (Flag: BUIL_ING)
+- BUILDING : Which of these descriptions from the list best describes this building? (Flag: `BUIL_ING`)
     - 01 : Single family detached (detached structure with only one primary residence, however, the structure could include a rental unit(s) in the basement, attic, etc.)
 Between April 2013 and July 2015, the code 11 includes single family detached houses, college d
     - 02 : Row or townhouse inner unit (2, 3 or 4 story structure with 2 walls in common with other units and a private ground level entrance; it may have a rental unit as part of structure)
@@ -71,7 +71,7 @@ one of the units
 Between April 2013 and July 2015, the code 11 includes single family detached houses, college dormitory, mobile home or trailer, as well as other rather than code 10 college dormitory.
     - 11 : Other - specify
 Between April 2013 and July 2015, the code 11 includes also single family detached houses, college dormitory, mobile home or trailer in addition to other.
-- BUILT : The year range that the property was built (Flag: BUILT_)
+- BUILT : The year range that the property was built (Flag: `BUILT_`)
     - 01 : 1979 or later
     - 02 : 1978
     - 03 : 1977
@@ -98,7 +98,7 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
     - 8 : 1955-1959
     - 9 : 1950-1954
     - xx : Don't Know
-- BUSCREEN : Has household had business expenses that could be reimbursed? (Flag: BUSC_EEN)
+- BUSCREEN : Has household had business expenses that could be reimbursed? (Flag: `BUSC_EEN`)
     - 1 : Yes
     - 2 : No
 - CARTKNCQ : Cars and trucks, new (net outlay) this quarter
@@ -107,7 +107,7 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
 - CARTKUPQ : Cars and trucks, used (net outlay) last quarter
 - CASHCOCQ : Cash contributions this quarter
 - CASHCOPQ : Cash contributions last quarter
-- CHILDAGE : Age of children of reference person (Flag: CHIL_AGE)
+- CHILDAGE : Age of children of reference person (Flag: `CHIL_AGE`)
     - 0 : No children
     - 1 : Oldest child less than 6
     - 2 : Oldest child age 6-11 and at least one child less than 6
@@ -118,34 +118,34 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
     - 7 : All children age greater than 17
 - CHLDRNCQ : Clothing for children under 2 this quarter
 - CHLDRNPQ : Clothing for children under 2 last quarter
-- CNTRALAC : Does this unit have a -- (Flag: CNTR_LAC)
+- CNTRALAC : Does this unit have a -- (Flag: `CNTR_LAC`)
     - 05 : Central Air conditioning
     - 12 : Central Air Conditioning
     - 5 : Central Air Conditioning
-- CREDFINX : What was the total amount paid in finance, late charges, and interest for all cards in the last month? (Flag: CRED_INX)
-- CREDITB : Could you tell me which range that best reflects the total amount owed on all major credit cards including store cards and gas cards? (Flag: CREDITB_)
+- CREDFINX : What was the total amount paid in finance, late charges, and interest for all cards in the last month? (Flag: `CRED_INX`)
+- CREDITB : Could you tell me which range that best reflects the total amount owed on all major credit cards including store cards and gas cards? (Flag: `CREDITB_`)
     - 1 : $0 - $499
     - 2 : $500 - $999
     - 3 : $1,000 - $2,499
     - 4 : $2,500 - $9,999
     - 5 : $10,000 - $34,999
     - 6 : $35,000 and over
-- CREDITBX : Median of Bracket Range (Flag: CRED_TBX)
-- CREDITX : What is the total amount owed on all cards? (Flag: CREDITX_)
-- CREDTYRX : What was the total amount owed on all cards one year ago today? (Flag: CRED_YRX)
-- CREDYR : Did you have any credit cards including store cards and gas cards one year ago today? (Flag: CREDYR_)
+- CREDITBX : Median of Bracket Range (Flag: `CRED_TBX`)
+- CREDITX : What is the total amount owed on all cards? (Flag: `CREDITX_`)
+- CREDTYRX : What was the total amount owed on all cards one year ago today? (Flag: `CRED_YRX`)
+- CREDYR : Did you have any credit cards including store cards and gas cards one year ago today? (Flag: `CREDYR_`)
     - 1 : Yes
     - 2 : No
-- CREDYRB : Could you tell me which range that best reflects the total amount owed on all major credit cards including store cards and gas cards ONE YEAR AGO TODAY? (Flag: CREDYRB_)
+- CREDYRB : Could you tell me which range that best reflects the total amount owed on all major credit cards including store cards and gas cards ONE YEAR AGO TODAY? (Flag: `CREDYRB_`)
     - 1 : $0 - $499
     - 2 : $500 - $999
     - 3 : $1,000 - $2,499
     - 4 : $2,500 - $9,999
     - 5 : $10,000 - $34,999
     - 6 : $35,000 and over
-- CREDYRBX : Median of Bracket Range (Flag: CRED_RBX)
+- CREDYRBX : Median of Bracket Range (Flag: `CRED_RBX`)
 - CUID : CU sequence number which uniquely identifies CUs (Digits 1-7 of NEWID)
-- CUTENURE : Housing tenure (Flag: CUTE_URE)
+- CUTENURE : Housing tenure (Flag: `CUTE_URE`)
     - 1 : Homeowner w/ Mortgage
   TENURECU = '1' or '2' and MORT = '1'
     - 2 : Homeowner w/o Mortgage
@@ -154,10 +154,10 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
     - 4 : Rented
     - 5 : Occupied w/o payment of cash rent:
     - 6 : Student housing
-- DEFBENRP : Do you have a defined retirement plan, such as a pension, from an employer? (Flag: DEFB_NRP)
+- DEFBENRP : Do you have a defined retirement plan, such as a pension, from an employer? (Flag: `DEFB_NRP`)
     - 1 : Yes
     - 2 : No
-- DIRACC : Is access to the quarters direct or through another unit? (Flag: DIRACC_)
+- DIRACC : Is access to the quarters direct or through another unit? (Flag: `DIRACC_`)
     - 1 : Direct access to living qtrs.
     - 2 : Access through another unit.
 - DIVISION : Census Division
@@ -174,7 +174,7 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
 - DMSXCCPQ : Domestic services excluding child care last quarter
 - DOMSRVCQ : Domestic services this quarter
 - DOMSRVPQ : Domestic services last quarter
-- EARNCOMP : Composition of earners (Flag: EARN_OMP)
+- EARNCOMP : Composition of earners (Flag: `EARN_OMP`)
     - 1 : Reference Person only
     - 2 : Reference Person and Spouse only
     - 3 : Reference Person, Spouse and Others
@@ -191,7 +191,7 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
 870201 870202 870203 870204
 - ECARTKUP : Outlays for used vehicle purchases last quarter including down payment, principal and interest paid on loans, or if not financed, purchase amount. 
 870201 870202 870203 870204
-- EDUC_REF : Education of reference person (Flag: EDUC0REF)
+- EDUC_REF : Education of reference person (Flag: `EDUC0REF`)
     - 0 : Never attended
     - 00 : Never attended
     - 1 : Elementary (1-8 yrs.)
@@ -209,7 +209,7 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
     - 5 : College graduate (4 yrs.)
     - 6 : More than 4 yrs. of college
     - 7 : Never attended school
-- EDUCA2 : What is the highest level of school the spouse has completed or the highest degree the member has received? (Flag: EDUCA2_)
+- EDUCA2 : What is the highest level of school the spouse has completed or the highest degree the member has received? (Flag: `EDUCA2_`)
     - 0 : Don't Know
     - 00 : Never attended
     - 1 : Elementary (1-8 yrs.)
@@ -259,8 +259,8 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
 - EOTHVEHP : Outlays for other vehicle purchases last quarter including down payment, principal and interest paid on loans, or if not financed, purchase amount.
 - EOWNDWLC : Owned home outlays this quarter including mortgage principal and interest, property taxes, maintenance, insurance, and other expenses.
 - EOWNDWLP : Owned home outlays last quarter including mortgage principal and interest, property taxes, maintenance, insurance, and other expenses.
-- ERANKH : Complete income reporters of the total population are ranked in ascending order according to the level of total expenditures. Total expenditures is based on ERANKMTH. The value is a number between 0 and 1. (Flag: ERANKH_)
-- ERANKHM : Weighted cumulative percent expenditure outlay ranking of CU to total population. Expenditure outlay is based on ERNKMTHM. The value is a number between 0 and 1. (Flag: ERANKHM_)
+- ERANKH : Complete income reporters of the total population are ranked in ascending order according to the level of total expenditures. Total expenditures is based on ERANKMTH. The value is a number between 0 and 1. (Flag: `ERANKH_`)
+- ERANKHM : Weighted cumulative percent expenditure outlay ranking of CU to total population. Expenditure outlay is based on ERNKMTHM. The value is a number between 0 and 1. (Flag: `ERANKHM_`)
 - ESHELTRC : Shelter outlays this quarter including mortgage principle and interest for owned home and/or vacation home, rents, insurance, taxes, and maintenance.
 - ESHELTRP : Shelter outlays last quarter including mortgage principle and interest for owned home and/or vacation home, rents, insurance, taxes, and maintenance.
 - ETOTACX4 : Adjusted total outlays last quarter, sum of outlays from all major expenditure categories.
@@ -271,8 +271,8 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
 - ETRANPTP : Total outlays for transportation last quarter including down payment, principal and finance charges paid on loans, gasoline and motor oil, maintenance and repairs, insurance, public and other transportation, and vehicle rental licenses and other charges.
 - EVEHPURC : Outlays for vehicle purchases this quarter including down payment, principal and interest paid on loans, or if not financed, purchase amount.
 - EVEHPURP : Outlays for vehicle purchases last quarter including down payment, principal and interest paid on loans, or if not financed, purchase amount.
-- FAM_SIZE : Number of Members in CU (Flag: FAM__IZE)
-- FAM_TYPE : Family Type is based on the relationship of members to reference person, whom physically occupy the address selected for the survey. "Own" children are sons and daughters children including step children and adopted (Flag: FAM__YPE)
+- FAM_SIZE : Number of Members in CU (Flag: `FAM__IZE`)
+- FAM_TYPE : Family Type is based on the relationship of members to reference person, whom physically occupy the address selected for the survey. "Own" children are sons and daughters children including step children and adopted (Flag: `FAM__YPE`)
     - 1 : Married couple only
     - 2 : Married couple, own children only, oldest child < 6
     - 3 : Married couple, own children only,  oldest child > 6, < 18
@@ -292,52 +292,52 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
 - FDXMAPPQ : Food away excluding meals as pay last quarter
 - FEEADMCQ : Fees and admissions this quarter
 - FEEADMPQ : Fees and admissions last quarter
-- FFTAXOWE : Weighted estimate for Federal tax liabilities for entire CU (Flag: FFTA_OWE)
-- fftaxowe : Weighted estimate for Federal tax liabilities at the Tax Unit Level (Flag: FFTA_OWE)
-- FGOVRETM : Total amount of government retirement deducted from last pay annualized (Flag: FGOV_ETM)
-- FGOVRETX : Total amount of government retirement deducted from last pay annualized (Flag: FGOV_ETX)
+- FFTAXOWE : Weighted estimate for Federal tax liabilities for entire CU (Flag: `FFTA_OWE`)
+- fftaxowe : Weighted estimate for Federal tax liabilities at the Tax Unit Level (Flag: `FFTA_OWE`)
+- FGOVRETM : Total amount of government retirement deducted from last pay annualized (Flag: `FGOV_ETM`)
+- FGOVRETX : Total amount of government retirement deducted from last pay annualized (Flag: `FGOV_ETX`)
 - FINATXE1 : Imputed Income After Tax #1
 - FINATXE2 : Imputed Income After Tax #2
 - FINATXE3 : Imputed Income After Tax #3
 - FINATXE4 : Imputed Income After Tax #4
 - FINATXE5 : Imputed Income After Tax #5
-- FINATXEM : Total amount of family income after estimated taxes in the last 12 months (Imputed or collected data) (Flag: FINAT_EM)
-- FINCBTAX : Total amount of family income before taxes in the last 12 months (Collected data) (Flag: FINCBT_X)
+- FINATXEM : Total amount of family income after estimated taxes in the last 12 months (Imputed or collected data) (Flag: `FINAT_EM`)
+- FINCBTAX : Total amount of family income before taxes in the last 12 months (Collected data) (Flag: `FINCBT_X`)
 - FINCBTX1 : Imputation Iteration #1 - FINCBTAX
 - FINCBTX2 : Imputation Iteration #2 - FINCBTAX
 - FINCBTX3 : Imputation Iteration #3 - FINCBTAX
 - FINCBTX4 : Imputation Iteration #4 - FINCBTAX
 - FINCBTX5 : Imputation Iteration #5 - FINCBTAX
 - FINCBTXI : Indicator/descriptor variable for income imputation.
-- FINCBTXM : Total amount of family income before taxes (Imputed or collected data) (Flag: FINCB_XM)
-- FINDRETX : Amount of money placed in a Self-employed retirement plan in past year for all CU members (Flag: FIND_ETX)
+- FINCBTXM : Total amount of family income before taxes (Imputed or collected data) (Flag: `FINCB_XM`)
+- FINDRETX : Amount of money placed in a Self-employed retirement plan in past year for all CU members (Flag: `FIND_ETX`)
 - FINLWT21 : Calibration final weight for the full sample
 - FJSSDED1 : Imputation Iteration #1 - FJSSDEDX
 - FJSSDED2 : Imputation Iteration #2 - FJSSDEDX
 - FJSSDED3 : Imputation Iteration #3 - FJSSDEDX
 - FJSSDED4 : Imputation Iteration #4 - FJSSDEDX
 - FJSSDED5 : Imputation Iteration #5 - FJSSDEDX
-- FJSSDEDM : Portion of family income paid to Social Security during the past 12 months, mean of imputation iterations. (Flag: FJSS_EDM)
-- FJSSDEDX : Portion of family income paid to Social Security during the past 12 months (Flag: FJSS_EDX)
+- FJSSDEDM : Portion of family income paid to Social Security during the past 12 months, mean of imputation iterations. (Flag: `FJSS_EDM`)
+- FJSSDEDX : Portion of family income paid to Social Security during the past 12 months (Flag: `FJSS_EDX`)
 - FLRCVRCQ : Floor coverings this quarter
 - FLRCVRPQ : Floor coverings last quarter
-- FMLPYYRX : Annual value of free meals received as part of pay (Flag: FMLP_YRX)
+- FMLPYYRX : Annual value of free meals received as part of pay (Flag: `FMLP_YRX`)
 - FOODCQ : Total food this quarter
 - FOODPQ : Total food last quarter
 - FOOTWRCQ : Footwear this quarter
 - FOOTWRPQ : Footwear last quarter
-- FPRIPENM : Total amount of private pensions (Flag: FPRI_ENM)
-- FPRIPENX : Total amount of private pensions (Flag: FPRI_ENX)
-- FRRDEDM : Total amount of Railroad Retirement deducted from last pay annualized (Flag: FRRDEDM_)
-- FRRDEDX : Total amount of Railroad Retirement deducted from last pay annualized (Flag: FRRDEDX_)
+- FPRIPENM : Total amount of private pensions (Flag: `FPRI_ENM`)
+- FPRIPENX : Total amount of private pensions (Flag: `FPRI_ENX`)
+- FRRDEDM : Total amount of Railroad Retirement deducted from last pay annualized (Flag: `FRRDEDM_`)
+- FRRDEDX : Total amount of Railroad Retirement deducted from last pay annualized (Flag: `FRRDEDX_`)
 - FRRETIR1 : Imputation Iteration #1 - FRRETIRX
 - FRRETIR2 : Imputation Iteration #2 - FRRETIRX
 - FRRETIR3 : Imputation Iteration #3 - FRRETIRX
 - FRRETIR4 : Imputation Iteration #4 - FRRETIRX
 - FRRETIR5 : Imputation Iteration #5 - FRRETIRX
 - FRRETIRI : Indicator/descriptor variable for income imputation.
-- FRRETIRM : Total amount of received from Social Security benefits and Railroad benefit checks prior to deductions for medical insurance and Medicare, mean of imputation iterations (Flag: FRRE_IRM)
-- FRRETIRX : Total amount received from Social Security benefits and Railroad Benefit checks prior to deductions for medical insurance and Medicare (Flag: FRRE_IRX)
+- FRRETIRM : Total amount of received from Social Security benefits and Railroad benefit checks prior to deductions for medical insurance and Medicare, mean of imputation iterations (Flag: `FRRE_IRM`)
+- FRRETIRX : Total amount received from Social Security benefits and Railroad Benefit checks prior to deductions for medical insurance and Medicare (Flag: `FRRE_IRX`)
 - FS_AMTX1 : Imputation Iteration #1 - FS_AMTX
 - FS_AMTX2 : Imputation Iteration #2 - FS_AMTX
 - FS_AMTX3 : Imputation Iteration #3 - FS_AMTX
@@ -345,33 +345,33 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
 - FS_AMTX5 : Imputation Iteration #5 - FS_AMTX
 - FS_AMTXI : Indicator/descriptor variable for income imputation.
 - FS_AMTXM : What was the dollar value of the last food stamps or EBT received (based on mean of imputation iterations)?
-- FS_MTHI : In how many of the past 12 months were food stamps or EBTs received? (Flag: FS_MTHI_)
+- FS_MTHI : In how many of the past 12 months were food stamps or EBTs received? (Flag: `FS_MTHI_`)
 - FSALARY1 : Imputation Iteration #1 - FSALARYX
 - FSALARY2 : Imputation Iteration #2 - FSALARYX
 - FSALARY3 : Imputation Iteration #3 - FSALARYX
 - FSALARY4 : Imputation Iteration #4 - FSALARYX
 - FSALARY5 : Imputation Iteration #5 - FSALARYX
 - FSALARYI : Indicator/descriptor variable for income imputation.
-- FSALARYM : Total amount of income received from salary or wages before deduction by family grouping, mean of imputation iterations (Flag: FSAL_RYM)
-- FSALARYX : Total amount of income received from salary or wages before deduction by family grouping (Flag: FSAL_RYX)
-- FSMPFRMX : Total income received from self-employment income before deduction by family grouping (Flag: FSMP_RMX)
+- FSALARYM : Total amount of income received from salary or wages before deduction by family grouping, mean of imputation iterations (Flag: `FSAL_RYM`)
+- FSALARYX : Total amount of income received from salary or wages before deduction by family grouping (Flag: `FSAL_RYX`)
+- FSMPFRMX : Total income received from self-employment income before deduction by family grouping (Flag: `FSMP_RMX`)
 - FSMPFRX1 : Imputation Iteration #1 - FSMPFRMX
 - FSMPFRX2 : Imputation Iteration #2 - FSMPFRMX
 - FSMPFRX3 : Imputation Iteration #3 - FSMPFRMX
 - FSMPFRX4 : Imputation Iteration #4 - FSMPFRMX
 - FSMPFRX5 : Imputation Iteration #5 - FSMPFRMX
 - FSMPFRXI : Indicator/descriptor variable for income imputation.
-- FSMPFRXM : Total amount of income received from self-employment income by family grouping, mean of imputation iterations (Flag: FSMP_RXM)
-- FSSIX : Amount of Supplemental Security Income from all sources received by all CU members in past 12 months (sum SSIX + SSIBX from MEMB file for all CU members) (Flag: FSSIX_)
+- FSMPFRXM : Total amount of income received from self-employment income by family grouping, mean of imputation iterations (Flag: `FSMP_RXM`)
+- FSSIX : Amount of Supplemental Security Income from all sources received by all CU members in past 12 months (sum SSIX + SSIBX from MEMB file for all CU members) (Flag: `FSSIX_`)
 - FSSIX1 : Imputation Iteration #1 - FSSIX
 - FSSIX2 : Imputation Iteration #2 - FSSIX
 - FSSIX3 : Imputation Iteration #3 - FSSIX
 - FSSIX4 : Imputation Iteration #4 - FSSIX
 - FSSIX5 : Imputation Iteration #5 - FSSIX
 - FSSIXI : Indicator/descriptor variable for income imputation.
-- FSSIXM : Total amount received in supplemental security income checks combined, mean of imputation iterations (Flag: FSSIXM_)
-- FSTAXOWE : Weighted estimate for State tax liabilities for entire CU (Flag: FSTA_OWE)
-- fstaxowe : Weighted estimate for State tax liabilities for entire CU (Flag: FSTA_OWE)
+- FSSIXM : Total amount received in supplemental security income checks combined, mean of imputation iterations (Flag: `FSSIXM_`)
+- FSTAXOWE : Weighted estimate for State tax liabilities for entire CU (Flag: `FSTA_OWE`)
+- fstaxowe : Weighted estimate for State tax liabilities for entire CU (Flag: `FSTA_OWE`)
 - FULOILCQ : Fuel oil this quarter
 - FULOILPQ : Fuel oil last quarter
 - FURNTRCQ : Furniture this quarter
@@ -382,8 +382,8 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
 - GRLFIFPQ : Clothing for girls, 2 to 15 this quarter
 - HEALTHCQ : Health care this quarter
 - HEALTHPQ : Health care last quarter
-- HH_CU_Q : Count of Consumer Units in this household (Flag: HH_CU_Q_)
-- HHID : Identifier for household with more than one CU. Household with only one CU will be set to missing. (Flag: HHID_)
+- HH_CU_Q : Count of Consumer Units in this household (Flag: `HH_CU_Q_`)
+- HHID : Identifier for household with more than one CU. Household with only one CU will be set to missing. (Flag: `HHID_`)
 - HIGH_EDU : Highest level of education within the CU.
     - 0 : Never attended
     - 00 : Never attended
@@ -401,17 +401,17 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
 - HISP2 : Hispanic origin of spouse
     - 1 : Hispanic
     - 2 : Non-Hispanic
-- HLFBATHQ : Number of half baths in this unit (Flag: HLFB_THQ)
+- HLFBATHQ : Number of half baths in this unit (Flag: `HLFB_THQ`)
 - HLTHINCQ : Health insurance this quarter
 - HLTHINPQ : Health insurance last quarter
-- HORREF1 : Hispanic Origin of the Reference Person (Flag: HORREF1_)
+- HORREF1 : Hispanic Origin of the Reference Person (Flag: `HORREF1_`)
     - 1 : Mexican
     - 2 : Mexican-American
     - 3 : Chicano
     - 4 : Puerto Rican
     - 5 : Cuban
     - 6 : Other groups not listed
-- HORREF2 : Hispanic Origin of the spouse (Flag: HORREF2_)
+- HORREF2 : Hispanic Origin of the spouse (Flag: `HORREF2_`)
     - 1 : Mexican
     - 2 : Mexican-American
     - 3 : Chicano
@@ -424,15 +424,15 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
 - HOUSOPCQ : Household operations this quarter
 - HOUSOPPQ : Household operations last quarter
 - HOUSPQ : Housing last quarter
-- INC_HRS2 : Number of hours usually worked per week by spouse (Flag: INC__RS2)
-- INC_RANK : Weighted cumulative percent ranking based on total current income before taxes (Flag: INC__ANK)
+- INC_HRS2 : Number of hours usually worked per week by spouse (Flag: `INC__RS2`)
+- INC_RANK : Weighted cumulative percent ranking based on total current income before taxes (Flag: `INC__ANK`)
 - INC_RNK1 : Imputation Iteration #1 - INC_RANK
 - INC_RNK2 : Imputation Iteration #2 - INC_RANK
 - INC_RNK3 : Imputation Iteration #3 - INC_RANK
 - INC_RNK4 : Imputation Iteration #4 - INC_RANK
 - INC_RNK5 : Imputation Iteration #5 - INC_RANK
-- INC_RNKM : Weighted cumulative percent ranking based on total current income, based on mean of imputation iterations (Flag: INC__NKM)
-- INCLASS2 : Income classification based on INC_RANK (Flag: INCL_SS2)
+- INC_RNKM : Weighted cumulative percent ranking based on total current income, based on mean of imputation iterations (Flag: `INC__NKM`)
+- INCLASS2 : Income classification based on INC_RANK (Flag: `INCL_SS2`)
     - 1 : Less than .1667
     - 2 : .1667 - .3333
     - 3 : .3334 - .4999
@@ -440,38 +440,38 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
     - 5 : .6667 - .8333
     - 6 : .8334 - 1.0000
     - 7 : Incomplete reporting
-- INCNONW1 : Reason reference person did not work during the past 12 months (Flag: INCN_NW1)
+- INCNONW1 : Reason reference person did not work during the past 12 months (Flag: `INCN_NW1`)
     - 1 : Retired
     - 2 : Taking care of home/CU
     - 3 : Going to school
     - 4 : Ill, disabled, unable to work
     - 5 : Unable to find work
     - 6 : Doing something else
-- INCNONW2 : Reason spouse did not work during the past 12 months (Flag: INCN_NW2)
+- INCNONW2 : Reason spouse did not work during the past 12 months (Flag: `INCN_NW2`)
     - 1 : Retired
     - 2 : Taking care of home/CU
     - 3 : Going to school
     - 4 : Ill, disabled, unable to work
     - 5 : Unable to find work
     - 6 : Doing something else
-- INCOMEY1 : Employer from which reference person received the most earnings in past 12 months (Flag: INCO_EY1)
+- INCOMEY1 : Employer from which reference person received the most earnings in past 12 months (Flag: `INCO_EY1`)
     - 1 : Private company, business or individual
     - 2 : Federal government
     - 3 : State government
     - 4 : Local government
     - 5 : Self-employed in own business, professional practice or farm
     - 6 : Family business or farm, working without pay
-- INCOMEY2 : Employer from which spouse received most earnings during the past 12 months (Flag: INCO_EY2)
+- INCOMEY2 : Employer from which spouse received most earnings during the past 12 months (Flag: `INCO_EY2`)
     - 1 : Private company, business or individual
     - 2 : Federal government
     - 3 : State government
     - 4 : Local government
     - 5 : Self-employed in own business, professional practice or farm
     - 6 : Family business or farm, working without pay
-- INCWEEK1 : Number of weeks worked by reference person full or part time in last 12 months, including paid vacation and paid sick leave (Flag: INCW_EK1)
-- INCWEEK2 : Number of weeks worked by spouse full or part time in last 12 months, including paid vacation and paid sick leave (Flag: INCW_EK2)
+- INCWEEK1 : Number of weeks worked by reference person full or part time in last 12 months, including paid vacation and paid sick leave (Flag: `INCW_EK1`)
+- INCWEEK2 : Number of weeks worked by spouse full or part time in last 12 months, including paid vacation and paid sick leave (Flag: `INCW_EK2`)
 - INTERI : Interview number
-- INTRDVB : Range that best reflects the amount you received in interest or dividends during the past 12 months (Flag: INTRDVB_)
+- INTRDVB : Range that best reflects the amount you received in interest or dividends during the past 12 months (Flag: `INTRDVB_`)
     - 01 : $0-$999
     - 02 : $1,000-$1,999
     - 03 : $2,000-$2,999
@@ -484,40 +484,40 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
     - 10 : $30,000-$39,999
     - 11 : $40,000-$49,999
     - 12 : $50,000 and over
-- INTRDVBX : Median of Bracket Range (Flag: INTR_VBX)
-- INTRDVX : Amount of income received from interest and dividends (Flag: INTRDVX_)
+- INTRDVBX : Median of Bracket Range (Flag: `INTR_VBX`)
+- INTRDVX : Amount of income received from interest and dividends (Flag: `INTRDVX_`)
 - INTRDVX1 : Imputation Iteration #1 - INTRDIVX
 - INTRDVX2 : Imputation Iteration #2 - INTRDIVX
 - INTRDVX3 : Imputation Iteration #3 - INTRDIVX
 - INTRDVX4 : Imputation Iteration #4 - INTRDIVX
 - INTRDVX5 : Imputation Iteration #5 - INTRDIVX
 - INTRDVXI : Indicator/descriptor variable for income imputation.
-- INTRDVXM : Amount of income received from interest and dividends, mean of the iterations (Flag: INTR_VXM)
-- IRA : Do you have any retirement accounts such as 401(k0s, IRAS, Thrift Saving Plans? (Flag: IRA_)
+- INTRDVXM : Amount of income received from interest and dividends, mean of the iterations (Flag: `INTR_VXM`)
+- IRA : Do you have any retirement accounts such as 401(k0s, IRAS, Thrift Saving Plans? (Flag: `IRA_`)
     - 1 : Yes
     - 2 : No
-- IRAB : Could you tell me which range that best reflects the total value of all retirement accounts such as 401(k)s, IRAs, and Thrift Savings Plans? (Flag: IRAB_)
+- IRAB : Could you tell me which range that best reflects the total value of all retirement accounts such as 401(k)s, IRAs, and Thrift Savings Plans? (Flag: `IRAB_`)
     - 1 : $0 - $1999
     - 2 : $2,000 - $9,999
     - 3 : $10,000 - $49,999
     - 4 : $50,000 - $199,999
     - 5 : $200,000 - $449,999
     - 6 : $450,000 and over
-- IRABX : Median of Bracket Range (Flag: IRABX_)
-- IRAX : As of today, what is the total value of all retirement accounts, such as 401(k)s, IRAs, and Thrift Savings Plans that you own? (Flag: IRAX_)
-- IRAYR : Did you have any retirement accounts such as 401(k)s, IRAs, Thrift Savings Plans ONE YEAR AGO TODAY? (Flag: IRAYR_)
+- IRABX : Median of Bracket Range (Flag: `IRABX_`)
+- IRAX : As of today, what is the total value of all retirement accounts, such as 401(k)s, IRAs, and Thrift Savings Plans that you own? (Flag: `IRAX_`)
+- IRAYR : Did you have any retirement accounts such as 401(k)s, IRAs, Thrift Savings Plans ONE YEAR AGO TODAY? (Flag: `IRAYR_`)
     - 1 : Yes
     - 2 : No
-- IRAYRB : Range which best reflects the total value of all retirement accounts one year ago today (Flag: IRAYRB_)
+- IRAYRB : Range which best reflects the total value of all retirement accounts one year ago today (Flag: `IRAYRB_`)
     - 1 : $0 - $1999
     - 2 : $2,000 - $9,999
     - 3 : $10,000 - $49,999
     - 4 : $50,000 - $199,999
     - 5 : $200,000 - $449,999
     - 6 : $450,000 and over
-- IRAYRBX : Median of Bracket Range (Flag: IRAYRBX_)
-- IRAYRX : What was the total value of all retirement accounts one year ago today? (Flag: IRAYRX_)
-- JFS_AMT : Annual value of food stamps (Flag: JFS_AMT_)
+- IRAYRBX : Median of Bracket Range (Flag: `IRAYRBX_`)
+- IRAYRX : What was the total value of all retirement accounts one year ago today? (Flag: `IRAYRX_`)
+- JFS_AMT : Annual value of food stamps (Flag: `JFS_AMT_`)
 - JFS_AMT1 : Imputation Iteration #1 - JFS_AMT
 - JFS_AMT2 : Imputation Iteration #2 - JFS_AMT
 - JFS_AMT3 : Imputation Iteration #3 - JFS_AMT
@@ -526,32 +526,32 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
 - JFS_AMTM : Annual value of food stamps, mean of imputation iterations.
 - LIFINSCQ : Life and other personal insurance this quarter
 - LIFINSPQ : Life and other personal insurance last quarter
-- LIQDYRBX : Median of Bracket Range (Flag: LIQD_RBX)
-- LIQUDYR : Did you have any checking savings money market accounts, or certificates of deposit or CDs one year ago? (Flag: LIQUDYR_)
+- LIQDYRBX : Median of Bracket Range (Flag: `LIQD_RBX`)
+- LIQUDYR : Did you have any checking savings money market accounts, or certificates of deposit or CDs one year ago? (Flag: `LIQUDYR_`)
     - 1 : Yes
     - 2 : No
-- LIQUDYRB : Could you tell me which range that best reflects the total value of all checking, savings, money market accounts, and certificates of deposit or CDs ONE YEAR AGO TODAY? (Flag: LIQU_YRB)
+- LIQUDYRB : Could you tell me which range that best reflects the total value of all checking, savings, money market accounts, and certificates of deposit or CDs ONE YEAR AGO TODAY? (Flag: `LIQU_YRB`)
     - 1 : $0 - $499
     - 2 : $500 - $999
     - 3 : $1000 - $2,499
     - 4 : $2,500 - $9,999
     - 5 : $10,000 - $34,999
     - 6 : $35,000 and over
-- LIQUDYRX : What was the total value of all checking, savings, money market accounts, and certificated of deposit or CDs one year ago today? (Flag: LIQU_YRX)
-- LIQUID : Do you have any checking, saving, money market accounts, or certificates of deposit or CDs? (Flag: LIQUID_)
+- LIQUDYRX : What was the total value of all checking, savings, money market accounts, and certificated of deposit or CDs one year ago today? (Flag: `LIQU_YRX`)
+- LIQUID : Do you have any checking, saving, money market accounts, or certificates of deposit or CDs? (Flag: `LIQUID_`)
     - 1 : Yes
     - 2 : No
-- LIQUIDB : Could you tell me which range best reflects the total value of checking, savings, money market accounts, certificates of deposit or cds? (Flag: LIQUIDB_)
+- LIQUIDB : Could you tell me which range best reflects the total value of checking, savings, money market accounts, certificates of deposit or cds? (Flag: `LIQUIDB_`)
     - 1 : $0 - $499
     - 2 : $500 - $999
     - 3 : $1000 - $2,499
     - 4 : $2,500 - $9,999
     - 5 : $10,000 - $34,999
     - 6 : $35,000 and over
-- LIQUIDBX : Median of Bracket Range (Flag: LIQU_DBX)
-- LIQUIDX : As of today, what is the total value of all checking, savings, money market accounts, and certificated of deposit or CDs you have? (Flag: LIQUIDX_)
-- LMPSUMBX : Median of bracket range (Flag: LMPS_MBX)
-- LUMPSUMB : Range that best reflects the total lump sum payments from insurance, estates, trusts, royalties, alimony, prizes or games of chance, or from persons outside your CU received during the last twelve months (Flag: LUMP_UMB)
+- LIQUIDBX : Median of Bracket Range (Flag: `LIQU_DBX`)
+- LIQUIDX : As of today, what is the total value of all checking, savings, money market accounts, and certificated of deposit or CDs you have? (Flag: `LIQUIDX_`)
+- LMPSUMBX : Median of bracket range (Flag: `LMPS_MBX`)
+- LUMPSUMB : Range that best reflects the total lump sum payments from insurance, estates, trusts, royalties, alimony, prizes or games of chance, or from persons outside your CU received during the last twelve months (Flag: `LUMP_UMB`)
     - 01 : $0-$999
     - 02 : $1,000 - $1,999
     - 03 : $2,000 - $2,999
@@ -564,18 +564,18 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
     - 10 : $30,000 - $39,999
     - 11 : $40,000 - $49,999
     - 12 : $50,000 and over
-- LUMPSUMX : Amount of lump sum payments from estates, trusts, royalties, alimony, prizes, or games of chance or from persons outside CU (Flag: LUMP_UMX)
+- LUMPSUMX : Amount of lump sum payments from estates, trusts, royalties, alimony, prizes, or games of chance or from persons outside CU (Flag: `LUMP_UMX`)
 - MAINRPCQ : Maintenance and repairs this quarter
 - MAINRPPQ : Maintenance and repairs last quarter
 - MAJAPPCQ : Major appliances this quarter
 - MAJAPPPQ : Major appliances last quarter
-- MARITAL1 : Marital status of reference person (Flag: MARI_AL1)
+- MARITAL1 : Marital status of reference person (Flag: `MARI_AL1`)
     - 1 : Married
     - 2 : Widowed
     - 3 : Divorced
     - 4 : Separated
     - 5 : Never married
-- MEALSPAY : Have you received any free meals at work as part of your pay? (Flag: MEAL_PAY)
+- MEALSPAY : Have you received any free meals at work as part of your pay? (Flag: `MEAL_PAY`)
     - 1 : Yes
     - 2 : No
 - MEDSRVCQ : Medical services this quarter
@@ -594,12 +594,12 @@ Between April 2013 and July 2015, the code 11 includes also single family detach
 - MISCEQCQ : Miscellaneous household equipment this quarter
 - MISCEQPQ : Miscellaneous household equipment last quarter
 - MISCPQ : Miscellaneous expenditures last quarter
-- MISCTAXX : Amount of other taxes paid which were not reported elsewhere during past 12 months (Flag: MISC_AXX)
+- MISCTAXX : Amount of other taxes paid which were not reported elsewhere during past 12 months (Flag: `MISC_AXX`)
 - MISCX4CQ : Adjusted miscellaneous expenditures this quarter (To be used for population estimates - see information under Summary Expenditure Data heading.) 
 MISC1CQ + (4*MISC2CQ)
 - MISCX4PQ : Adjusted miscellaneous expenditures last quarter (To be used for population estimates
-- MLPAYWKX : About what was the weekly dollar value of these meals? (Flag: MLPA_WKX)
-- MLPYQWKS : For how many weeks did members of your household receive these meals during the past 12 months? (Flag: MLPY_WKS)
+- MLPAYWKX : About what was the weekly dollar value of these meals? (Flag: `MLPA_WKX`)
+- MLPYQWKS : For how many weeks did members of your household receive these meals during the past 12 months? (Flag: `MLPY_WKS`)
 - MRPINSCQ : Maintenance, repairs, insurance, and other expenses this quarter
 - MRPINSPQ : Maintenance, repairs, insurance, and other expenses last quarter
 - MRTINTCQ : Mortgage interest this quarter
@@ -611,7 +611,7 @@ MISC1CQ + (4*MISC2CQ)
 - NETRENT3 : Imputation Iteration #3 - NETRENTX
 - NETRENT4 : Imputation Iteration #4 - NETRENTX
 - NETRENT5 : Imputation Iteration #5 - NETRENTX
-- NETRENTB : Range that best reflects the total net rental income or loss during the past 12 months (Flag: NETR_NTB)
+- NETRENTB : Range that best reflects the total net rental income or loss during the past 12 months (Flag: `NETR_NTB`)
     - 00 : Loss
     - 01 : $0-$999
     - 02 : $1,000-$1,999
@@ -626,17 +626,17 @@ MISC1CQ + (4*MISC2CQ)
     - 11 : $40,000-$49,999
     - 12 : $50,000 and over
 - NETRENTI : Indicator/descriptor variable for income imputation.
-- NETRENTM : Amount of income received from net rental income or loss, mean of the iterations (Flag: NETR_NTM)
-- NETRENTX : What was the amount of net rental income or loss? (Flag: NETR_NTX)
-- NETRNTBX : Median of Bracket Range (Flag: NETR_TBX)
+- NETRENTM : Amount of income received from net rental income or loss, mean of the iterations (Flag: `NETR_NTM`)
+- NETRENTX : What was the amount of net rental income or loss? (Flag: `NETR_NTX`)
+- NETRNTBX : Median of Bracket Range (Flag: `NETR_TBX`)
 - NEWID : Public use microdata identifier
-- NO_EARNR : Number of CU members reported as income earners (Flag: NO_E_RNR)
-- NONINCMX : Total amount of family income other than money receipts before taxes (Flag: NONI_CMX)
+- NO_EARNR : Number of CU members reported as income earners (Flag: `NO_E_RNR`)
+- NONINCMX : Total amount of family income other than money receipts before taxes (Flag: `NONI_CMX`)
 - NTLGASCQ : Natural gas this quarter
 - NTLGASPQ : Natural gas last quarter
-- NUM_AUTO : Total number of owned cars (Flag: NUM__UTO)
-- NUM_TVAN : Total number of owned trucks and vans (Flag: NUM__VAN)
-- OCCUCOD1 : The job in which reference person received the most earnings during the past 12 months (Flag: OCCU_OD1)
+- NUM_AUTO : Total number of owned cars (Flag: `NUM__UTO`)
+- NUM_TVAN : Total number of owned trucks and vans (Flag: `NUM__VAN`)
+- OCCUCOD1 : The job in which reference person received the most earnings during the past 12 months (Flag: `OCCU_OD1`)
     - 01 : Manager, Professional Administrator
     - 02 : Teacher
     - 03 : Professional
@@ -655,7 +655,7 @@ MISC1CQ + (4*MISC2CQ)
     - 16 : Farming
     - 17 : Forestry, fishing, groundskeeping
     - 18 : Armed Forces
-- OCCUCOD2 : The job in which reference person received the most earnings during the past 12 months (Flag: OCCU_OD2)
+- OCCUCOD2 : The job in which reference person received the most earnings during the past 12 months (Flag: `OCCU_OD2`)
     - 01 : Manager, Professional Administrator
     - 02 : Teacher
     - 03 : Professional
@@ -674,56 +674,56 @@ MISC1CQ + (4*MISC2CQ)
     - 16 : Farming
     - 17 : Forestry, fishing, groundskeeping
     - 18 : Armed Forces
-- OFSTPARK : See SWIMPOOL for question and source. (Flag: OFST_ARK)
+- OFSTPARK : See SWIMPOOL for question and source. (Flag: `OFST_ARK`)
     - 02 : Off Street Parking
     - 10 : Off Street Parking
 - OTHAPLCQ : OTHAPLCQ Other apparel products and services this quarter
 - OTHAPLPQ : OTHAPLPQ Other apparel products and services last quarter
-- OTHASTB : Range which best reflects the total value of these other financial assets (Flag: OTHASTB_)
+- OTHASTB : Range which best reflects the total value of these other financial assets (Flag: `OTHASTB_`)
     - 1 : $0 - $1999
     - 2 : $2,000 - $9,999
     - 3 : $10,000 - $49,999
     - 4 : $50,000 - $199,999
     - 5 : $200,000 - $449,999
     - 6 : $450,000 and over
-- OTHASTBX : Median of Bracket Edit (Flag: OTHA_TBX)
-- OTHASTX : As of today, what is the total value of these other financial assets? (Flag: OTHASTX_)
+- OTHASTBX : Median of Bracket Edit (Flag: `OTHA_TBX`)
+- OTHASTX : As of today, what is the total value of these other financial assets? (Flag: `OTHASTX_`)
 - OTHENTCQ : Other entertainment this quarter
 - OTHENTPQ : Other entertainment last quarter
 - OTHEQPCQ : Other equipment and services this quarter
 - OTHEQPPQ : Other equipment and services last quarter
-- OTHFINX : What was the total amount paid in finance, late charges, and interest for all other loans in the last month? (Flag: OTHFINX_)
+- OTHFINX : What was the total amount paid in finance, late charges, and interest for all other loans in the last month? (Flag: `OTHFINX_`)
 - OTHFLSCQ : Other fuels this quarter
 - OTHFLSPQ : Other fuels last quarter
 - OTHHEXCQ : Other household expenses this quarter
 - OTHHEXPQ : Other household expenses last quarter
-- OTHLNYR : Did you have any other debt such as medical loans or personal loans one year ago today? (Flag: OTHLNYR_)
+- OTHLNYR : Did you have any other debt such as medical loans or personal loans one year ago today? (Flag: `OTHLNYR_`)
     - 1 : Yes
     - 2 : No
-- OTHLNYRB : Range which best reflects the total amount owed on all other loans one year ago today (Flag: OTHL_YRB)
+- OTHLNYRB : Range which best reflects the total amount owed on all other loans one year ago today (Flag: `OTHL_YRB`)
     - 1 : $0 - $499
     - 2 : $500 - $999
     - 3 : $1,000 - $2,499
     - 4 : $2,500 - $9,999
     - 5 : $10,000 - $34,999
     - 6 : $35,000 and over
-- OTHLNYRX : What was the total amount owed on all other loans one year ago today? (Flag: OTHL_YRX)
-- OTHLOAN : As of today, do you have any other debt such as medical loans or personal loans? (Flag: OTHLOAN_)
+- OTHLNYRX : What was the total amount owed on all other loans one year ago today? (Flag: `OTHL_YRX`)
+- OTHLOAN : As of today, do you have any other debt such as medical loans or personal loans? (Flag: `OTHLOAN_`)
     - 1 : Yes
     - 2 : No
 - OTHLODCQ : Other lodging this quarter
 - OTHLODPQ : Other lodging last quarter
-- OTHLONB : Range which best reflects the total amount owed on all other loans (Flag: OTHLONB_)
+- OTHLONB : Range which best reflects the total amount owed on all other loans (Flag: `OTHLONB_`)
     - 1 : $0 - $499
     - 2 : $500 - $999
     - 3 : $1,000 - $2,499
     - 4 : $2,500 - $9,999
     - 5 : $10,000 - $34,999
     - 6 : $35,000 and over
-- OTHLONBX : Median of Bracket Range (Flag: OTHL_NBX)
-- OTHLONX : What is the total amount owed on all other loans? (Flag: OTHLONX_)
-- OTHLYRBX : Median of Bracket Range (Flag: OTHL_RBX)
-- OTHREGB : Range which best reflects the total amount received in Veteran's Administration (VA) payments, unemployment compensation, child support, or alimony during the past 12 months (Flag: OTHREGB_)
+- OTHLONBX : Median of Bracket Range (Flag: `OTHL_NBX`)
+- OTHLONX : What is the total amount owed on all other loans? (Flag: `OTHLONX_`)
+- OTHLYRBX : Median of Bracket Range (Flag: `OTHL_RBX`)
+- OTHREGB : Range which best reflects the total amount received in Veteran's Administration (VA) payments, unemployment compensation, child support, or alimony during the past 12 months (Flag: `OTHREGB_`)
     - 01 : $0-$999
     - 02 : $1,000-$1,999
     - 03 : $2,000-$2,999
@@ -736,21 +736,21 @@ MISC1CQ + (4*MISC2CQ)
     - 10 : $30,000-$39,999
     - 11 : $40,000-$49,999
     - 12 : $50,000 and over
-- OTHREGBX : Median of Bracket Range (Flag: OTHR_GBX)
-- OTHREGX : Amount of income received from any other source such as Veteran’s Administration (VA) payments, unemployment compensation, child support, or alimony (Flag: OTHREGX_)
+- OTHREGBX : Median of Bracket Range (Flag: `OTHR_GBX`)
+- OTHREGX : Amount of income received from any other source such as Veteran’s Administration (VA) payments, unemployment compensation, child support, or alimony (Flag: `OTHREGX_`)
 - OTHREGX1 : Imputation Iteration #1 - OTHREGX
 - OTHREGX2 : Imputation Iteration #2 - OTHREGX
 - OTHREGX3 : Imputation Iteration #3 - OTHREGX
 - OTHREGX4 : Imputation Iteration #4 - OTHREGX
 - OTHREGX5 : Imputation Iteration #5 - OTHREGX
 - OTHREGXI : Indicator/descriptor variable for income imputation.
-- OTHREGXM : Amount of income received from any other source such as Veteran’s Administration (VA) payments, unemployment compensation, child support, or alimony, mean of the iterations (Flag: OTHR_GXM)
+- OTHREGXM : Amount of income received from any other source such as Veteran’s Administration (VA) payments, unemployment compensation, child support, or alimony, mean of the iterations (Flag: `OTHR_GXM`)
 - OTHRINC1 : Imputation Iteration #1 - OTHRINCX
 - OTHRINC2 : Imputation Iteration #2 - OTHRINCX
 - OTHRINC3 : Imputation Iteration #3 - OTHRINCX
 - OTHRINC4 : Imputation Iteration #4 - OTHRINCX
 - OTHRINC5 : Imputation Iteration #5 - OTHRINCX
-- OTHRINCB : Range that best reflects the total amount of other money income received during the last twelve months (Flag: OTHR_NCB)
+- OTHRINCB : Range that best reflects the total amount of other money income received during the last twelve months (Flag: `OTHR_NCB`)
     - 01 : $0-$999
     - 02 : $1,000 - $1,999
     - 03 : $2,000 - $2,999
@@ -764,23 +764,23 @@ MISC1CQ + (4*MISC2CQ)
     - 11 : $40,000 - $49,999
     - 12 : $50,000 and over
 - OTHRINCI : Indicator/descriptor variable for income imputation.
-- OTHRINCM : Amount received in other money income including money received from care of foster children, mean of imputation iterations. (Flag: OTHR_NCM)
-- OTHRINCX : Amount received in other money income including money received from care of foster children, cash scholarships and fellowships, or stipends not based on working (Flag: OTHR_NCX)
-- OTHSTYR : Did you have any other financial assets, such as annuities, trusts, and royalties on year ago today? (Flag: OTHSTYR_)
+- OTHRINCM : Amount received in other money income including money received from care of foster children, mean of imputation iterations. (Flag: `OTHR_NCM`)
+- OTHRINCX : Amount received in other money income including money received from care of foster children, cash scholarships and fellowships, or stipends not based on working (Flag: `OTHR_NCX`)
+- OTHSTYR : Did you have any other financial assets, such as annuities, trusts, and royalties on year ago today? (Flag: `OTHSTYR_`)
     - 1 : Yes
     - 2 : No
-- OTHSTYRB : Range which best reflects the total value of these other financial assets one year ago today. (Flag: OTHS_YRB)
+- OTHSTYRB : Range which best reflects the total value of these other financial assets one year ago today. (Flag: `OTHS_YRB`)
     - 1 : $0 - $1999
     - 2 : $2,000 - $9,999
     - 3 : $10,000 - $49,999
     - 4 : $50,000 - $199,999
     - 5 : $200,000 - $449,999
     - 6 : $450,000 and over
-- OTHSTYRX : What was the value of these other financial assets one year ago today? (Flag: OTHS_YRX)
-- OTHSYRBX : Median of Bracket Range (Flag: OTHS_RBX)
+- OTHSTYRX : What was the value of these other financial assets one year ago today? (Flag: `OTHS_YRX`)
+- OTHSYRBX : Median of Bracket Range (Flag: `OTHS_RBX`)
 - OTHVEHCQ : Other vehicles this quarter
 - OTHVEHPQ : Other vehicles last quarter
-- OTRINCBX : Median of bracket range (Flag: OTRI_CBX)
+- OTRINCBX : Median of bracket range (Flag: `OTRI_CBX`)
 - OWNDWECQ : Owned dwellings this quarter
 - OWNDWEPQ : Owned dwellings last quarter
 - OWNVACC : Expenditures on owned vacation homes this quarter including mortgage interest, insurance, taxes, maintenance, and
@@ -797,8 +797,8 @@ This variable includes expenditures related to vacation homes. Because these typ
 - PERINSPQ : heading prior to this list of variables. Personal insurance and pensions last quarter
 - PERSCACQ : Personal care this quarter
 - PERSCAPQ : Personal care last quarter
-- PERSLT18 : # of CU Members less than 18 AGE < 18 (Flag: PERS_T18)
-- PERSOT64 : Number of persons over 64 SUM OF MEMBERS WHERE AGE > 64 BY CU (Flag: PERS_T64)
+- PERSLT18 : # of CU Members less than 18 AGE < 18 (Flag: `PERS_T18`)
+- PERSOT64 : Number of persons over 64 SUM OF MEMBERS WHERE AGE > 64 BY CU (Flag: `PERS_T64`)
 - PETTOYCQ : Pets, toys, and playground equipment this quarter
 - PETTOYPQ : Pets, toys, and playground equipment last quarter
 - POPSIZE : Population size of the PSU
@@ -808,17 +808,17 @@ This variable includes expenditures related to vacation homes. Because these typ
     - 4 : 125 - 329.9 thousand
     - 5 : Less than 125 thousand
     - 6 : Suppressed
-- PORCH : Does this unit have a porch (Flag: PORCH_)
+- PORCH : Does this unit have a porch (Flag: `PORCH_`)
     - 03 : Porch, terrace, patio, or balcony
 - PREDRGCQ : Prescription drugs this quarter
 - PREDRGPQ : Prescription drugs last quarter
-- PRINEARN : Principal Earner (Flag: PRIN_ARN)
+- PRINEARN : Principal Earner (Flag: `PRIN_ARN`)
 - PRINERN1 : Imputation Iteration #1 - PRINEARN
 - PRINERN2 : Imputation Iteration #2 - PRINEARN
 - PRINERN3 : Imputation Iteration #3 - PRINEARN
 - PRINERN4 : Imputation Iteration #4 - PRINEARN
 - PRINERN5 : Imputation Iteration #5 - PRINEARN
-- PRINERNM : Principal Earner based on mean imputed income. (Flag: PRIN_RNM)
+- PRINERNM : Principal Earner based on mean imputed income. (Flag: `PRIN_RNM`)
 - PROPTXCQ : Property taxes this quarter
 - PROPTXPQ : Property taxes last quarter
 - PSU : Primary Sampling Unit
@@ -882,7 +882,7 @@ This variable includes expenditures related to vacation homes. Because these typ
     - 11 : November
     - 12 : December
 - QINTRVYR : Interview year
-- RACE2 : Race of spouse (Flag: RACE2_)
+- RACE2 : Race of spouse (Flag: `RACE2_`)
     - 1 : White
     - 2 : African American or Black
     - 3 : American Indian, Aleut, or Eskimo
@@ -891,7 +891,7 @@ This variable includes expenditures related to vacation homes. Because these typ
     - 6 : Multi-race
 - READCQ : Reading this quarter
 - READPQ : Reading last quarter
-- REF_RACE : Race of reference person (Flag: REF__ACE)
+- REF_RACE : Race of reference person (Flag: `REF__ACE`)
     - 1 : White
     - 2 : Black
     - 3 : Native American
@@ -915,11 +915,11 @@ Create five values for generation based on the birth year of the reference perso
 - RELECTRP : Expenditures on electricity for rented vacation homes last quarter 260114
 - RENDWECQ : Rented dwelling this quarter
 - RENDWEPQ : Rented dwelling last quarter
-- RENTEQVX : If someone were to rent your home today, how much do you think it would rent for monthly, unfurnished and without utilities? (Flag: RENT_QVX)
+- RENTEQVX : If someone were to rent your home today, how much do you think it would rent for monthly, unfurnished and without utilities? (Flag: `RENT_QVX`)
 - RETPENCQ : Retirement, pensions, Social Security this quarter
 - RETPENPQ : Retirement, pensions, Social Security last quarter
-- RETSRVBX : Median of Bracket Range (Flag: RETS_VBX)
-- RETSURV : Amount of income received from retirement, survivor, or disability pensions (Flag: RETSURV_)
+- RETSRVBX : Median of Bracket Range (Flag: `RETS_VBX`)
+- RETSURV : Amount of income received from retirement, survivor, or disability pensions (Flag: `RETSURV_`)
     - 1 : Yes
     - 2 : No
 - RETSURV1 : Imputation Iteration #1 - RETSURVX
@@ -927,7 +927,7 @@ Create five values for generation based on the birth year of the reference perso
 - RETSURV3 : Imputation Iteration #3 - RETSURVX
 - RETSURV4 : Imputation Iteration #4 - RETSURVX
 - RETSURV5 : Imputation Iteration #5 - RETSURVX
-- RETSURVB : Range that best reflects the total amount received in retirement, survivor, or disability pensions during the past 12 months (Flag: RETS_RVB)
+- RETSURVB : Range that best reflects the total amount received in retirement, survivor, or disability pensions during the past 12 months (Flag: `RETS_RVB`)
     - 01 : $0-$999
     - 02 : $1,000-$1,999
     - 03 : $2,000-$2,999
@@ -941,10 +941,10 @@ Create five values for generation based on the birth year of the reference perso
     - 11 : $40,000-$49,999
     - 12 : $50,000 and over
 - RETSURVI : Indicator/descriptor variable for income imputation.
-- RETSURVM : Amount of income received from retirement, survivor, or disability pensions, mean of the iterations (Flag: RETS_RVM)
+- RETSURVM : Amount of income received from retirement, survivor, or disability pensions, mean of the iterations (Flag: `RETS_RVM`)
 - RETSURVX : What was the amount received in retirement, survivor, or disability pensions during the past 12 months. 
 
-NOTE: Because this information is only collected from respondents in the 5th interview, the reported values have been multiplied by four to produce s (Flag: RETS_RVX)
+NOTE: Because this information is only collected from respondents in the 5th interview, the reported values have been multiplied by four to produce s (Flag: `RETS_RVX`)
 - RFUELOIC : Expenditures on fuel oil for rented vacation homes this quarter
 - RFUELOIP : Expenditures on fuel oil for rented vacation homes last quarter
 - RNATLGAC : Expenditures on natural gas for rented vacation homes this quarter
@@ -953,10 +953,10 @@ NOTE: Because this information is only collected from respondents in the 5th int
 - RNTAPYPQ : Rent as pay last quarter
 - RNTXRPCQ : Rent excluding rent as pay this quarter
 - RNTXRPPQ : Rent excluding rent as pay last quarter
-- ROOMSQ : Number of rooms in CU living quarters, including finished living areas, excluding all baths (Flag: ROOMSQ_)
+- ROOMSQ : Number of rooms in CU living quarters, including finished living areas, excluding all baths (Flag: `ROOMSQ_`)
 - ROTHRFLC : Expenditures on other fuels for rented vacation homes this quarter
 - ROTHRFLP : Expenditures on other fuels for rented vacation homes last quarter
-- ROYESTB : Range that best reflects the total amount received in royalty income or income from estates and trusts during the past 12 months (Flag: ROYESTB_)
+- ROYESTB : Range that best reflects the total amount received in royalty income or income from estates and trusts during the past 12 months (Flag: `ROYESTB_`)
     - 01 : $0-$999
     - 02 : $1,000-$1,999
     - 03 : $2,000-$2,999
@@ -969,21 +969,21 @@ NOTE: Because this information is only collected from respondents in the 5th int
     - 10 : $30,000-$39,999
     - 11 : $40,000-$49,999
     - 12 : $50,000 and over
-- ROYESTBX : Median of Bracket Range (Flag: ROYE_TBX)
-- ROYESTX : Amount of income received from royalty income or income from estates and trusts (Flag: ROYESTX_)
+- ROYESTBX : Median of Bracket Range (Flag: `ROYE_TBX`)
+- ROYESTX : Amount of income received from royalty income or income from estates and trusts (Flag: `ROYESTX_`)
 - ROYESTX1 : Imputation Iteration #1 - ROYESTX
 - ROYESTX2 : Imputation Iteration #2 - ROYESTX
 - ROYESTX3 : Imputation Iteration #3 - ROYESTX
 - ROYESTX4 : Imputation Iteration #4 - ROYESTX
 - ROYESTX5 : Imputation Iteration #5 - ROYESTX
 - ROYESTXI : Indicator/descriptor variable for income imputation.
-- ROYESTXM : Amount of income received from royalty income or income from estates and trusts, mean of the iterations (Flag: ROYE_TXM)
+- ROYESTXM : Amount of income received from royalty income or income from estates and trusts, mean of the iterations (Flag: `ROYE_TXM`)
 - RWATERPC : Expenditures on water and public services for rented vacation homes this quarter
 - RWATERPP : Expenditures on water and public services for rented vacation homes
-- SEX_REF : Sex of reference person (Flag: SEX_REF_)
+- SEX_REF : Sex of reference person (Flag: `SEX_REF_`)
     - 1 : Reference person is male
     - 2 : Reference person is female
-- SEX2 : Sex of spouse person (Flag: SEX2_)
+- SEX2 : Sex of spouse person (Flag: `SEX2_`)
     - 1 : Male
     - 2 : Female
 - SHELTCQ : Shelter this quarter
@@ -993,9 +993,9 @@ NOTE: Because this information is only collected from respondents in the 5th int
 - SMSASTAT : Does CU reside inside a Metropolitan Statistical Area (MSA)?
     - 1 : Yes
     - 2 : No
-- SOLARPNL : Solar panels (Flag: SOLA_PNL)
+- SOLARPNL : Solar panels (Flag: `SOLA_PNL`)
     - 08 : Solar panels
-- ST_HOUS : Are these living quarters presently used as student housing by a college or university? (Flag: ST_HOUS_)
+- ST_HOUS : Are these living quarters presently used as student housing by a college or university? (Flag: `ST_HOUS_`)
     - 1 : Student housing
     - 2 : Not student housing
 - STATE : The 2010 Federal information processing standard state code
@@ -1065,50 +1065,50 @@ NOTE: Because this information is only collected from respondents in the 5th int
     - 93 : California
     - 94 : Alaska
     - 95 : Hawaii
-- STCKYRBX : Median of Bracket Range (Flag: STCK_RBX)
-- STDNTYR : Did you have student loans one years ago today? (Flag: STDNTYR_)
+- STCKYRBX : Median of Bracket Range (Flag: `STCK_RBX`)
+- STDNTYR : Did you have student loans one years ago today? (Flag: `STDNTYR_`)
     - 1 : Yes
     - 2 : No
-- STDNTYRB : Range which best reflects the total amount owed on all student loans one year ago today (Flag: STDN_YRB)
+- STDNTYRB : Range which best reflects the total amount owed on all student loans one year ago today (Flag: `STDN_YRB`)
     - 1 : $0 - $499
     - 2 : $500 - $999
     - 3 : $1,000 - $2,499
     - 4 : $2,500 - $9,999
     - 5 : $10,000 - $34,999
     - 6 : $35,000 and over
-- STDNTYRX : What was the total amount owed on all student loans one year ago today? (Flag: STDN_YRX)
-- STDTYRBX : Median of Bracket Range (Flag: STDT_RBX)
-- STOCKB : Range which best reflects the total value of all directly-held stocks, bonds, and mutual funds (Flag: STOCKB_)
+- STDNTYRX : What was the total amount owed on all student loans one year ago today? (Flag: `STDN_YRX`)
+- STDTYRBX : Median of Bracket Range (Flag: `STDT_RBX`)
+- STOCKB : Range which best reflects the total value of all directly-held stocks, bonds, and mutual funds (Flag: `STOCKB_`)
     - 1 : $0 - $1999
     - 2 : $2,000 - $9,999
     - 3 : $10,000 - $49,999
     - 4 : $50,000 - $199,999
     - 5 : $200,000 - $449,999
     - 6 : $450,000 and over
-- STOCKBX : Median of Bracket Range (Flag: STOCKBX_)
-- STOCKX : As of today, what is the total value of all directly-held stocks, bonds, and mutual funds? (Flag: STOCKX_)
-- STOCKYR : Did you have any directly-held stocks, bonds, or mutual funds one year ago? (Flag: STOCKYR_)
+- STOCKBX : Median of Bracket Range (Flag: `STOCKBX_`)
+- STOCKX : As of today, what is the total value of all directly-held stocks, bonds, and mutual funds? (Flag: `STOCKX_`)
+- STOCKYR : Did you have any directly-held stocks, bonds, or mutual funds one year ago? (Flag: `STOCKYR_`)
     - 1 : Yes
     - 2 : No
-- STOCKYRB : Range which best reflects the total value of all directly-held stocks, bonds, and mutual funds one year ago today (Flag: STOC_YRB)
+- STOCKYRB : Range which best reflects the total value of all directly-held stocks, bonds, and mutual funds one year ago today (Flag: `STOC_YRB`)
     - 1 : $0 - $1999
     - 2 : $2,000 - $9,999
     - 3 : $10,000 - $49,999
     - 4 : $50,000 - $199,999
     - 5 : $200,000 - $449,999
     - 6 : $450,000 and over
-- STOCKYRX : What was the total value of all directly-held stocks, bonds, and mutual funds one year ago today? (Flag: STOC_YRX)
-- STUDFINX : What was the total amount paid in finance, late charges, and interest for all student loans in the last month? (Flag: STUD_INX)
-- STUDNTB : Range which best reflects the total amount owed on all student loans (Flag: STUDNTB_)
+- STOCKYRX : What was the total value of all directly-held stocks, bonds, and mutual funds one year ago today? (Flag: `STOC_YRX`)
+- STUDFINX : What was the total amount paid in finance, late charges, and interest for all student loans in the last month? (Flag: `STUD_INX`)
+- STUDNTB : Range which best reflects the total amount owed on all student loans (Flag: `STUDNTB_`)
     - 1 : $0 - $499
     - 2 : $500 - $999
     - 3 : $1,000 - $2,499
     - 4 : $2,500 - $9,999
     - 5 : $10,000 - $34,999
     - 6 : $35,000 and over
-- STUDNTBX : Median of Bracket Range (Flag: STUD_TBX)
-- STUDNTX : What is the total amount owed on all student loans? (Flag: STUDNTX_)
-- SWIMPOOL : Does this unit have a swimming pool (Flag: SWIM_OOL)
+- STUDNTBX : Median of Bracket Range (Flag: `STUD_TBX`)
+- STUDNTX : What is the total amount owed on all student loans? (Flag: `STUDNTX_`)
+- SWIMPOOL : Does this unit have a swimming pool (Flag: `SWIM_OOL`)
     - 01 : Swimming pool
     - 1 : Swimming pool
 - TAIRFARC : Trip expenditures on airfare this quarter
@@ -1178,7 +1178,7 @@ TFAREP+TLOCALTP
 TCARTRKC+TOTHVHRC+TOTHTREC
 - TVRENTLP : Trip expenditures on vehicle rentals and other fees last quarter
 TCARTRKP+TOTHVHRP+TOTHTREP
-- UNISTRQ : How many housing units, both occupied and vacant, are there in this structure? (Flag: UNISTRQ_)
+- UNISTRQ : How many housing units, both occupied and vacant, are there in this structure? (Flag: `UNISTRQ_`)
     - 01 : Only OTHER units
     - 02 : Mobile home or trailer
     - 03 : One, detached
@@ -1208,8 +1208,8 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
 - VEHICTAX : Personal property taxes for vehicles
 - VEHINSCQ : Vehicle insurance this quarter
 - VEHINSPQ : Vehicle insurance last quarter
-- VEHQ : Total number of owned vehicles (Flag: VEHQ_)
-- VEHQL : Total number of leased autos, trucks, and vans (Flag: VEHQL_)
+- VEHQ : Total number of owned vehicles (Flag: `VEHQ_`)
+- VEHQL : Total number of leased autos, trucks, and vans (Flag: `VEHQL_`)
 - VELECTRC : Expenditures on electricity for owned vacation homes this quarter
 - VELECTRP : Expenditures on electricity for owned vacation homes last quarter
 - VFUELOIC : Expenditures on fuel oil for owned vacation homes this quarter
@@ -1234,31 +1234,31 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
 - WELFARE4 : Imputation Iteration #4 - WELFAREX
 - WELFARE5 : Imputation Iteration #5 - WELFAREX
 - WELFAREI : Indicator/descriptor variable for income imputation.
-- WELFAREM : Amount received from public assistance or welfare including money received from job training grants such as Job Corps, mean of imputation iterations. (Flag: WELF_REM)
-- WELFAREX : Amount received from public assistance or welfare including money received from job training grants such as Job Corps (Flag: WELF_REX)
-- WELFREBX : Median of bracket range (Flag: WELF_EBX)
-- WHLFYR : Did you own any whole life insurance or other life insurance policies that can be surrendered for cash or borrowed against prior to the death of the person insured one year ago today? (Flag: WHLFYR_)
+- WELFAREM : Amount received from public assistance or welfare including money received from job training grants such as Job Corps, mean of imputation iterations. (Flag: `WELF_REM`)
+- WELFAREX : Amount received from public assistance or welfare including money received from job training grants such as Job Corps (Flag: `WELF_REX`)
+- WELFREBX : Median of bracket range (Flag: `WELF_EBX`)
+- WHLFYR : Did you own any whole life insurance or other life insurance policies that can be surrendered for cash or borrowed against prior to the death of the person insured one year ago today? (Flag: `WHLFYR_`)
     - 1 : Yes
     - 2 : No
-- WHLFYRB : Range which best reflects the total surrender value of these policies one year ago today. (Flag: WHLFYRB_)
+- WHLFYRB : Range which best reflects the total surrender value of these policies one year ago today. (Flag: `WHLFYRB_`)
     - 1 : $0 - $499
     - 2 : $500 - $999
     - 3 : $1,000 - $2,499
     - 4 : $2,500 - $9,999
     - 5 : $10,000 - $34,999
     - 6 : $35,000 and over
-- WHLFYRBX : Median of Bracket Range (Flag: WHLF_RBX)
-- WHLFYRX : What was the total surrender value of these policies one year ago today? (Flag: WHLFYRX_)
-- WHOLIFB : Range which best reflects the total surrender value of these policies. (Flag: WHOLIFB_)
+- WHLFYRBX : Median of Bracket Range (Flag: `WHLF_RBX`)
+- WHLFYRX : What was the total surrender value of these policies one year ago today? (Flag: `WHLFYRX_`)
+- WHOLIFB : Range which best reflects the total surrender value of these policies. (Flag: `WHOLIFB_`)
     - 1 : $0 - $499
     - 2 : $500 - $999
     - 3 : $1,000 - $2,499
     - 4 : $2,500 - $9,999
     - 5 : $10,000 - $34,999
     - 6 : $35,000 and over
-- WHOLIFBX : Median of Bracket Range (Flag: WHOL_FBX)
-- WHOLIFX : As of today, what is the total surrender value of these policies? (Flag: WHOLIFX_)
-- WINDOWAC : Does this unit have a window AC unit? (Flag: WIND_WAC)
+- WHOLIFBX : Median of Bracket Range (Flag: `WHOL_FBX`)
+- WHOLIFX : As of today, what is the total surrender value of these policies? (Flag: `WHOLIFX_`)
+- WINDOWAC : Does this unit have a window AC unit? (Flag: `WIND_WAC`)
     - 06 : Window Air Conditioner
     - 11 : Window Air Conditioner
 - WOMGRLCQ : Clothing for women and girls this quarter WOMSIXCQ + GRLFIFCQ
@@ -1402,17 +1402,17 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
 ### MEMI - Member Level Interview
 
 
-- AGE : What is the member's age? (Flag: AGE_)
-- ANGOVRTM : Annual amount of government retirement deducted from pay, based on SALARYM. (Flag: ANGO_RTM)
-- ANGOVRTX : Annual amount of government retirement deducted from pay (Flag: ANGO_RTX)
-- ANPRVPNM : Annual amount of private pensions deducted from pay, based on SALARYM. (Flag: ANPR_PNM)
-- ANPRVPNX : Annual amount of private pensions deducted from pay (Flag: ANPR_PNX)
-- ANRRDEDM : Annual amount of railroad retirement deducted from pay, based on SALARYM. (Flag: ANRR_EDM)
-- ANRRDEDX : Annual amount of Railroad retirement deducted from pay (Flag: ANRR_EDX)
-- ARM_FORC : Is member now in the Armed Forces? (Flag: ARM__ORC)
+- AGE : What is the member's age? (Flag: `AGE_`)
+- ANGOVRTM : Annual amount of government retirement deducted from pay, based on SALARYM. (Flag: `ANGO_RTM`)
+- ANGOVRTX : Annual amount of government retirement deducted from pay (Flag: `ANGO_RTX`)
+- ANPRVPNM : Annual amount of private pensions deducted from pay, based on SALARYM. (Flag: `ANPR_PNM`)
+- ANPRVPNX : Annual amount of private pensions deducted from pay (Flag: `ANPR_PNX`)
+- ANRRDEDM : Annual amount of railroad retirement deducted from pay, based on SALARYM. (Flag: `ANRR_EDM`)
+- ANRRDEDX : Annual amount of Railroad retirement deducted from pay (Flag: `ANRR_EDX`)
+- ARM_FORC : Is member now in the Armed Forces? (Flag: `ARM__ORC`)
     - 1 : Yes
     - 2 : No
-- ASIAN : Country of Asian origin (Flag: ASIAN_)
+- ASIAN : Country of Asian origin (Flag: `ASIAN_`)
     - 1 : Chinese
     - 2 : Filipino
     - 3 : Japanese
@@ -1431,15 +1431,15 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
     - 7 : Mother or father
     - 8 : Other related persons
     - 9 : Unrelated persons
-- EARNER : Indicates whether the member earned income or not (Flag: EARNER_)
+- EARNER : Indicates whether the member earned income or not (Flag: `EARNER_`)
     - 1 : Member Earns Income AGE >= 14 and INCWEEKQ > 0 and INCOMEY=1, 2, 3, 4, or 5
     - 2 : Member earns no income AGE < 14 or AGE >= 14 and INCWEEKQ > 0 and INCOMEY=6 or AGE >= 14 and INCWEEKQ=0
-- EARNTYPE : Type of earner (Flag: EARN_YPE)
+- EARNTYPE : Type of earner (Flag: `EARN_YPE`)
     - 1 : Member worked full time for a full year
     - 2 : Member worked part time for a full year
     - 3 : Member worked full time for part of year
     - 4 : Member worked part time for part of year
-- EDUCA : What is the highest level of school the member has completed or the highest degree the member has received? (Flag: EDUCA_)
+- EDUCA : What is the highest level of school the member has completed or the highest degree the member has received? (Flag: `EDUCA_`)
     - 00 : Never attended
     - 01 : 1st grade
     - 02 : 2nd grade
@@ -1484,12 +1484,12 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
     - 6 : Associate's degree in college
     - 7 : Bachelor's degree (BA, AB, BS, etc.)
     - 8 : Master's, professional, or doctorate degree (MA, MS, MBA, MD, JD, PhD, etc.)
-- EMPLCONT : Other than Social Security, did any employer or union that the member worked for during the last 12 months contribute to a pension or retirement plan that the member was enrolled in? (Flag: EMPL_ONT)
+- EMPLCONT : Other than Social Security, did any employer or union that the member worked for during the last 12 months contribute to a pension or retirement plan that the member was enrolled in? (Flag: `EMPL_ONT`)
     - 1 : Yes, employer contributed to pension
     - 2 : No, employer did not contribute to pension
-- GOVRETX : Amount of government retirement deducted from last pay (Flag: GOVRETX_)
-- GROSPAYX : Amount of last gross pay (Flag: GROS_AYX)
-- HISPANIC : Country of Hispanic Origin (Flag: HISP_NIC)
+- GOVRETX : Amount of government retirement deducted from last pay (Flag: `GOVRETX_`)
+- GROSPAYX : Amount of last gross pay (Flag: `GROS_AYX`)
+- HISPANIC : Country of Hispanic Origin (Flag: `HISP_NIC`)
     - 1 : Mexican
     - 2 : Mexican-American
     - 3 : Chicano
@@ -1501,44 +1501,44 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
 - HORIGIN : Are you Spanish, Hispanic, or Latino?
     - 1 : Yes
     - 2 : No
-- IN_COLL : Is the member currently enrolled in a college or university either . . .? (Flag: IN_COLL_)
+- IN_COLL : Is the member currently enrolled in a college or university either . . .? (Flag: `IN_COLL_`)
     - 1 : Full time
     - 2 : Part time
     - 3 : Not at all
-- INC_HRSQ : Number of hours worked per week (Flag: INC__RSQ)
-- INCMEDCR : Is the amount of the last Social Security or Railroad Retirement payment received AFTER the deduction for a Medicare premium? (Flag: INCM_DCR)
+- INC_HRSQ : Number of hours worked per week (Flag: `INC__RSQ`)
+- INCMEDCR : Is the amount of the last Social Security or Railroad Retirement payment received AFTER the deduction for a Medicare premium? (Flag: `INCM_DCR`)
     - 1 : Yes, includes Medicare deduction
     - 2 : No, does not include Medicare deduction
-- INCNONWK : What was the main reason the member did not work during the past 12 months? Was the member . . .? (Flag: INCN_NWK)
+- INCNONWK : What was the main reason the member did not work during the past 12 months? Was the member . . .? (Flag: `INCN_NWK`)
     - 1 : Retired
     - 2 : Taking care of home/family
     - 3 : Going to school
     - 4 : Ill, disabled, unable to work
     - 5 : Unable to find work
     - 6 : Doing something else
-- INCOMEY : Was the member . . . ? (Type of employee) Refers to job where member received the most earnings in the past 12 months. (Flag: INCOMEY_)
+- INCOMEY : Was the member . . . ? (Type of employee) Refers to job where member received the most earnings in the past 12 months. (Flag: `INCOMEY_`)
     - 1 : An employee of a private company, business or individual working for wages or salary
     - 2 : A federal government employee
     - 3 : A state government employee
     - 4 : A local government employee
     - 5 : Self-employed in own business, professional practice or farm
     - 6 : Working w/o pay in family business or farm
-- INCWEEKQ : Number of weeks worked full time or part time (last 12 months) (Flag: INCW_EKQ)
-- INDRETX : Amount of money placed in a retirement plan in the past year (Flag: INDRETX_)
-- JSSDEDX : Estimated amount of income contributed to Social Security by member in past 12 months (Flag: JSSDEDX_)
+- INCWEEKQ : Number of weeks worked full time or part time (last 12 months) (Flag: `INCW_EKQ`)
+- INDRETX : Amount of money placed in a retirement plan in the past year (Flag: `INDRETX_`)
+- JSSDEDX : Estimated amount of income contributed to Social Security by member in past 12 months (Flag: `JSSDEDX_`)
 - JSSDEDX1 : Imputation Iteration #1 - JSSDEDX
 - JSSDEDX2 : Imputation Iteration #2 - JSSDEDX
 - JSSDEDX3 : Imputation Iteration #3 - JSSDEDX
 - JSSDEDX4 : Imputation Iteration #4 - JSSDEDX
 - JSSDEDX5 : Imputation Iteration #5 - JSSDEDX
-- JSSDEDXM : Social Security payment during the past 12 months, mean of imputation iterations. (Flag: JSSD_DXM)
+- JSSDEDXM : Social Security payment during the past 12 months, mean of imputation iterations. (Flag: `JSSD_DXM`)
 - MARITAL : Marital status of member
     - 1 : Married
     - 2 : Widowed
     - 3 : Divorced
     - 4 : Separated
     - 5 : Never married
-- MEDICOV : Does the money deducted for Social Security cover only the Medicare portion of Social Security? (Flag: MEDICOV_)
+- MEDICOV : Does the money deducted for Social Security cover only the Medicare portion of Social Security? (Flag: `MEDICOV_`)
     - 1 : Yes, the money deducted for Social Security covers only the Medicare portion.
     - 2 : No, the money deducted for Social Security does not cover only the Medicare portion.
 - MEMBNO : Member Number
@@ -1551,7 +1551,7 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
     - 6 : Multi-race
     - 7 : Other
 - NEWID : Public use microdata identifier
-- OCCUCODE : The job in which the member received the most earnings during the past 12 months fits best in the following category. (Flag: OCCU_ODE)
+- OCCUCODE : The job in which the member received the most earnings during the past 12 months fits best in the following category. (Flag: `OCCU_ODE`)
     - 01 : Manager, Professional Administrator
     - 02 : Teacher
     - 03 : Professional
@@ -1570,7 +1570,7 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
     - 16 : Farming
     - 17 : Forestry, fishing, groundskeeping
     - 18 : Armed Forces
-- PAYPERD : What period of time did this last gross pay cover? (Flag: PAYPERD_)
+- PAYPERD : What period of time did this last gross pay cover? (Flag: `PAYPERD_`)
     - 1 : One week
     - 2 : Two weeks
     - 3 : Month
@@ -1578,31 +1578,31 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
     - 5 : Year
     - 6 : Other
     - 7 : Other
-- PAYSTUB : Does the respondent have a paper or electronic pay check record for the last paycheck? (Flag: PAYSTUB_)
+- PAYSTUB : Does the respondent have a paper or electronic pay check record for the last paycheck? (Flag: `PAYSTUB_`)
     - 1 : Yes
     - 2 : No
-- PRIVPENX : Amount of private pension deducted from last pay (Flag: PRIV_ENX)
-- RC_ASIAN : Race as reported by respondent. (Flag: RC_A_IAN)
+- PRIVPENX : Amount of private pension deducted from last pay (Flag: `PRIV_ENX`)
+- RC_ASIAN : Race as reported by respondent. (Flag: `RC_A_IAN`)
     - 4 : Asian
-- RC_BLACK : Race as reported by respondent. (Flag: RC_B_ACK)
+- RC_BLACK : Race as reported by respondent. (Flag: `RC_B_ACK`)
     - 2 : Black
-- RC_DK : Race as reported by respondent. (Flag: RC_DK_)
+- RC_DK : Race as reported by respondent. (Flag: `RC_DK_`)
     - 7 : Don’t Know
-- RC_NATAM : Race as reported by respondent. (Flag: RC_N_TAM)
+- RC_NATAM : Race as reported by respondent. (Flag: `RC_N_TAM`)
     - 3 : Native American
-- RC_OTHER : Race as reported by respondent. (Flag: RC_O_HER)
+- RC_OTHER : Race as reported by respondent. (Flag: `RC_O_HER`)
     - 6 : Other
-- RC_PACIL : Race as reported by respondent. (Flag: RC_P_CIL)
+- RC_PACIL : Race as reported by respondent. (Flag: `RC_P_CIL`)
     - 5 : Pacific Islander
-- RC_WHITE : Race as reported by respondent. (Flag: RC_W_ITE)
+- RC_WHITE : Race as reported by respondent. (Flag: `RC_W_ITE`)
     - 1 : White
-- RRRDEDX : Amount of Railroad Retirement deducted from last pay (Flag: RRRDEDX_)
+- RRRDEDX : Amount of Railroad Retirement deducted from last pay (Flag: `RRRDEDX_`)
 - RRRETIR1 : Imputation Iteration #1 - RRRETIRX
 - RRRETIR2 : Imputation Iteration #2 - RRRETIRX
 - RRRETIR3 : Imputation Iteration #3 - RRRETIRX
 - RRRETIR4 : Imputation Iteration #4 - RRRETIRX
 - RRRETIR5 : Imputation Iteration #5 - RRRETIRX
-- RRRETIRB : Range that best reflects the amount of your last Social Security or Railroad Retirement payment during the last 12 months (Flag: RRRE_IRB)
+- RRRETIRB : Range that best reflects the amount of your last Social Security or Railroad Retirement payment during the last 12 months (Flag: `RRRE_IRB`)
     - 1 : Less than $300
     - 10 : $1500 and over
     - 2 : $300-$399
@@ -1614,10 +1614,10 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
     - 8 : $900-$999
     - 9 : $1000-$1499
 - RRRETIRI : Indicator/descriptor variable for income imputation.
-- RRRETIRM : Amount of last Social Security or Railroad Retirement check, mean of imputation iterations. (Flag: RRRE_IRM)
-- RRRETIRX : Amount of last Social Security or Railroad Retirement check (Flag: RRRE_IRX)
-- RRRETRBX : Median of bracket range (Flag: RRRE_RBX)
-- SALARYB : Range that best reflects the total wages and salaries for all jobs during the last 12 months (Flag: SALARYB_)
+- RRRETIRM : Amount of last Social Security or Railroad Retirement check, mean of imputation iterations. (Flag: `RRRE_IRM`)
+- RRRETIRX : Amount of last Social Security or Railroad Retirement check (Flag: `RRRE_IRX`)
+- RRRETRBX : Median of bracket range (Flag: `RRRE_RBX`)
+- SALARYB : Range that best reflects the total wages and salaries for all jobs during the last 12 months (Flag: `SALARYB_`)
     - 01 : $0-$4,999
     - 02 : $5,000-$9,999
     - 03 : $10,000-$14,999
@@ -1629,32 +1629,32 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
     - 09 : $70,000-$89,999
     - 10 : $90,000-$119,999
     - 11 : $120,000 and over
-- SALARYBX : Median of bracket range (Flag: SALA_YBX)
-- SALARYX : During the past 12 months, what was the amount of wages or salary income received, before any deductions? (Flag: SALARYX_)
+- SALARYBX : Median of bracket range (Flag: `SALA_YBX`)
+- SALARYX : During the past 12 months, what was the amount of wages or salary income received, before any deductions? (Flag: `SALARYX_`)
 - SALARYX1 : Imputation Iteration #1 - SALARYX
 - SALARYX2 : Imputation Iteration #2 - SALARYX
 - SALARYX3 : Imputation Iteration #3 - SALARYX
 - SALARYX4 : Imputation Iteration #4 - SALARYX
 - SALARYX5 : Imputation Iteration #5 - SALARYX
 - SALARYXI : Indicator/descriptor variable for income imputation.
-- SALARYXM : Amount of income received before from wages or salary deductions, mean of imputation iterations. (Flag: SALA_YXM)
-- SCHLMLPD : Time period of expense (Flag: SCHL_LPD)
+- SALARYXM : Amount of income received before from wages or salary deductions, mean of imputation iterations. (Flag: `SALA_YXM`)
+- SCHLMLPD : Time period of expense (Flag: `SCHL_LPD`)
     - 1 : Day
     - 2 : Week
     - 3 : Two weeks
     - 4 : Month
     - 5 : Other, specify
-- SCHLMLRX : How much was paid since the first of the reference month, not including this month? (Flag: SCHL_LRX)
-- SCHLMLX : Since the beginning of the reference period, not including the current month, what has been the usual expense for the meals purchased at school? (Flag: SCHLMLX_)
-- SCHMLWKQ : Number of weeks (Flag: SCHM_WKQ)
+- SCHLMLRX : How much was paid since the first of the reference month, not including this month? (Flag: `SCHL_LRX`)
+- SCHLMLX : Since the beginning of the reference period, not including the current month, what has been the usual expense for the meals purchased at school? (Flag: `SCHLMLX_`)
+- SCHMLWKQ : Number of weeks (Flag: `SCHM_WKQ`)
 - SEMPFRM1 : Imputation Iteration #1 - SEMPFRMX
 - SEMPFRM2 : Imputation Iteration #2 - SEMPFRMX
 - SEMPFRM3 : Imputation Iteration #3 - SEMPFRMX
 - SEMPFRM4 : Imputation Iteration #4 - SEMPFRMX
 - SEMPFRM5 : Imputation Iteration #5 - SEMPFRMX
 - SEMPFRMI : Indicator/descriptor variable for income imputation.
-- SEMPFRMM : Amount of income received from self-employment, mean of the iterations (Flag: SEMP_RMM)
-- SEMPFRMX : What was the amount of self-employment income or loss? (Flag: SEMP_RMX)
+- SEMPFRMM : Amount of income received from self-employment, mean of the iterations (Flag: `SEMP_RMM`)
+- SEMPFRMX : What was the amount of self-employment income or loss? (Flag: `SEMP_RMX`)
 - SEX : Sex of Member
     - 1 : Male
     - 2 : Female
@@ -1663,9 +1663,9 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
 - SLFEMPS3 : Imputation Iteration #3 - SLFEMPSS
 - SLFEMPS4 : Imputation Iteration #4 - SLFEMPSS
 - SLFEMPS5 : Imputation Iteration #5 - SLFEMPSS
-- SLFEMPSM : Self-employment social security contribution, mean of imputation iterations. (Flag: SLFE_PSM)
-- SLFEMPSS : Self-employment social security contribution (Flag: SLFE_PSS)
-- SMPFRMB : Range that best reflects the income or loss from self-employment during the past 12 months (Flag: SMPFRMB_)
+- SLFEMPSM : Self-employment social security contribution, mean of imputation iterations. (Flag: `SLFE_PSM`)
+- SLFEMPSS : Self-employment social security contribution (Flag: `SLFE_PSS`)
+- SMPFRMB : Range that best reflects the income or loss from self-employment during the past 12 months (Flag: `SMPFRMB_`)
     - 00 : LOSS
     - 01 : $0-$4,999
     - 02 : $5,000-$9,999
@@ -1678,19 +1678,19 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
     - 09 : $70,000-$89,999
     - 10 : $90,000-$119,999
     - 11 : $120,000 and over
-- SMPFRMBX : Median of Bracket Range (Flag: SMPF_MBX)
-- SOCRRX : Amount of Social Security and Railroad Retirement income received by member in past 12 months (Flag: SOCRRX_)
+- SMPFRMBX : Median of Bracket Range (Flag: `SMPF_MBX`)
+- SOCRRX : Amount of Social Security and Railroad Retirement income received by member in past 12 months (Flag: `SOCRRX_`)
 - SOCRRX1 : Imputation Iteration #1 - SOCRRX
 - SOCRRX2 : Imputation Iteration #2 - SOCRRX
 - SOCRRX3 : Imputation Iteration #3 - SOCRRX
 - SOCRRX4 : Imputation Iteration #4 - SOCRRX
 - SOCRRX5 : Imputation Iteration #5 - SOCRRX
-- SOCRRXM : Annual amount received from Social Security benefits and Railroad payments, mean of imputation iterations. (Flag: SOCRRXM_)
-- SOCSRRET : During the past 12 months, did you receive any Social Security or Railroad Retirement benefits? (Flag: SOCS_RET)
+- SOCRRXM : Annual amount received from Social Security benefits and Railroad payments, mean of imputation iterations. (Flag: `SOCRRXM_`)
+- SOCSRRET : During the past 12 months, did you receive any Social Security or Railroad Retirement benefits? (Flag: `SOCS_RET`)
     - 1 : Yes
     - 2 : No
-- SS_RRQ : During the past 12 months, how many Social Security or Railroad Retirement payments did the member receive? (Flag: SS_RRQ_)
-- SSIB : Range that best reflects the amount you received in Supplemental Security income from all government sources during the last 12 months (Flag: SSIB_)
+- SS_RRQ : During the past 12 months, how many Social Security or Railroad Retirement payments did the member receive? (Flag: `SS_RRQ_`)
+- SSIB : Range that best reflects the amount you received in Supplemental Security income from all government sources during the last 12 months (Flag: `SSIB_`)
     - 01 : $0-$999
     - 02 : $1,000 - $1,999
     - 03 : $2,000 - $2,999
@@ -1703,31 +1703,31 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
     - 10 : $30,000 - $39,999
     - 11 : $40,000 - $49,999
     - 12 : $50,000 and over
-- SSIBX : Median of bracket range (Flag: SSIBX_)
-- SSIX : Amount received in supplemental security income checks combined (Flag: SSIX_)
+- SSIBX : Median of bracket range (Flag: `SSIBX_`)
+- SSIX : Amount received in supplemental security income checks combined (Flag: `SSIX_`)
 - SSIX1 : Imputation Iteration #1 - SSIX
 - SSIX2 : Imputation Iteration #2 - SSIX
 - SSIX3 : Imputation Iteration #3 - SSIX
 - SSIX4 : Imputation Iteration #4 - SSIX
 - SSIX5 : Imputation Iteration #5 - SSIX
 - SSIXI : Indicator/descriptor variable for income imputation.
-- SSIXM : Amount received in supplemental security income checks combined, mean of imputation iterations. (Flag: SSIXM_)
-- SSNORM : Are Social Security payments normally deducted from your paycheck? (Flag: SSNORM_)
+- SSIXM : Amount received in supplemental security income checks combined, mean of imputation iterations. (Flag: `SSIXM_`)
+- SSNORM : Are Social Security payments normally deducted from your paycheck? (Flag: `SSNORM_`)
     - 1 : Yes, Social Security including medicare payments normally deducted from paychecks
     - 2 : No, Social Security including medicare payments normally not deducted from paycheck
-- TAX_UNIT : Identifies which tax unit the member was placed in (Flag: TAX__NIT)
-- TRANAMTX : What is the usual out-of-pocket cost? (Flag: TRAN_MTX)
-- TRANDAYX : How many days per week usually? (Flag: TRAN_AYX)
-- TRANPD : What is the time period? (Flag: TRANPD_)
+- TAX_UNIT : Identifies which tax unit the member was placed in (Flag: `TAX__NIT`)
+- TRANAMTX : What is the usual out-of-pocket cost? (Flag: `TRAN_MTX`)
+- TRANDAYX : How many days per week usually? (Flag: `TRAN_AYX`)
+- TRANPD : What is the time period? (Flag: `TRANPD_`)
     - 1 : Day
     - 2 : Week
     - 3 : Month
-- TU_CODE : Identifies the code of the taxpayer (Taxpayer, Spouse, dependent) (Flag: TU_CODE_)
+- TU_CODE : Identifies the code of the taxpayer (Taxpayer, Spouse, dependent) (Flag: `TU_CODE_`)
     - 1 : Taxpayer
     - 2 : Spouse
     - 3 : Dependent
-- TU_DPNDT : For dependent tax payers, this identifies the TAX_UNIT that the member is a dependent of (Flag: TU_D_NDT)
-- VETERAN : Did you ever serve on Active Duty in the U.S. Armed Forces? (Flag: VETERAN_)
+- TU_DPNDT : For dependent tax payers, this identifies the TAX_UNIT that the member is a dependent of (Flag: `TU_D_NDT`)
+- VETERAN : Did you ever serve on Active Duty in the U.S. Armed Forces? (Flag: `VETERAN_`)
     - 1 : Yes, served on active duty
     - 2 : Did not serve on active duty
 - WKSTATUS : Work Status of Member (Past Year)
@@ -1780,7 +1780,7 @@ Here are the meanings of each flag value.
 ### MTBI - Monthly Expenditures
 
 - ALCNO : Allocation Number
-- COST : Total cost of item, including sales tax (Flag: COST_)
+- COST : Total cost of item, including sales tax (Flag: `COST_`)
 - EXPNAME : Name of expense variable from which UCC mapped
 - GIFT : Was this item bought for someone outside the CU?
     - 1 : Yes
@@ -2829,7 +2829,7 @@ JOBS, FOR OWNED VACATION
     - 980340 : At least one vehicle leased
     - 980350 : At least one vehicle owned or leased
     - 980360 : Vehicles (leased)
-- VALUE : Value of UCC (Flag: VALUE_)
+- VALUE : Value of UCC (Flag: `VALUE_`)
 
 
 
@@ -2962,7 +2962,7 @@ JOBS, FOR OWNED VACATION
     - 980070 : Income after taxes
     - 980071 : Income after taxes
     - 980280 : White and other
-- VALUE : Value of UCC (Flag: VALUE_)
+- VALUE : Value of UCC (Flag: `VALUE_`)
 
 
 
@@ -2985,17 +2985,17 @@ JOBS, FOR OWNED VACATION
 - ADDTX_PY : Additional Child Tax Credit, prior year
 - AGE_SP : Age of spouse (or zero). Variable 6 in TaxSim model.
 - AGE_TP : Age of tax payer (or zero). Variable 6 in TaxSim model.
-- AMTDEDCT : Itemized deductions with Alternative Minimum Tax (AMT) preference (Flag: AMTD_DCT)
+- AMTDEDCT : Itemized deductions with Alternative Minimum Tax (AMT) preference (Flag: `AMTD_DCT`)
 - AMTIN_CY : Income for the Alternative Minimum Tax, current year
 - AMTIN_PY : Income for the Alternative Minimum Tax, prior year
 - AMTOW_CY : Alternative Minimum Tax (AMT) Liability, current year
 - AMTOW_PY : Alternative Minimum Tax (AMT) Liability, prior year
 - CHDTX_CY : Child Tax Credit, current year
 - CHDTX_PY : Child Tax Credit, prior year
-- CHLDCARE : Child care expenses (Flag: CHLD_ARE)
+- CHLDCARE : Child care expenses (Flag: `CHLD_ARE`)
 - DEPCNT : Count of dependents in tax unit
 - DEPUND13 : Count of dependents in the tax unit whose ages are less than 13
-- DEPUND17 : Count of dependents in the tax unit whose ages are less than 17 (Flag: DEPU_D17)
+- DEPUND17 : Count of dependents in the tax unit whose ages are less than 17 (Flag: `DEPU_D17`)
 - DEPUND18 : Count of dependents in the tax unit whose ages are less than 18
 - DIVINC : Dividend income
 - DPCAR_CY : Dependent Care Credit, current year
@@ -3019,19 +3019,19 @@ JOBS, FOR OWNED VACATION
 - FTXBC_CY : Federal Income tax before credits, current year (before credits and including AMT)
 - FTXBC_PY : Federal Income tax before credits, prior year (before credits and including AMT)
 - NEWID : Public use microdata identifier
-- NONTXINC : Other non-taxable transfer income (Flag: NONT_INC)
-- OTHDEDCT : Non AMT itemized deductions (Flag: OTHD_DCT)
-- OTHTXINC : Other taxable income (Flag: OTHT_INC)
-- PROPTXPD : Property taxes paid (Flag: PROP_XPD)
-- RNTPAID : Rent paid (used for calculating state property tax rebates) (Flag: RNTPAID_)
+- NONTXINC : Other non-taxable transfer income (Flag: `NONT_INC`)
+- OTHDEDCT : Non AMT itemized deductions (Flag: `OTHD_DCT`)
+- OTHTXINC : Other taxable income (Flag: `OTHT_INC`)
+- PROPTXPD : Property taxes paid (Flag: `PROP_XPD`)
+- RNTPAID : Rent paid (used for calculating state property tax rebates) (Flag: `RNTPAID_`)
 - SDCAR_CY : State dependent care credit, current year
 - SDCAR_PY : State dependent care credit, prior year
 - SEITC_CY : State earned income credit, current year
 - SEITC_PY : State earned income credit, prior year
 - SITDD_CY : State itemized deduction amount, current year
 - SITDD_PY : State itemized deduction amount, prior year
-- SOI_ST : Statistics of income state code (Flag: SOI_ST_)
-- SOSSECB : Social security benefits (Flag: SOSSECB_)
+- SOI_ST : Statistics of income state code (Flag: `SOI_ST_`)
+- SOSSECB : Social security benefits (Flag: `SOSSECB_`)
 - SPRCR_CY : State property tax credit, current year
 - SPRCR_PY : State property tax credit, prior year
 - SRATE_CY : State marginal rate current year
@@ -3043,14 +3043,14 @@ JOBS, FOR OWNED VACATION
 - STAXO_CY : State income tax liability after all credits, current year
 - STAXO_PY : State income tax liability after all credits, prior year
 - STAXOWE : Weighted estimate for State tax liabilities at the Tax Unit Level
-- TAX_UNIT : Identifies which tax unit the member was placed in (Flag: TAX__NIT)
-- TAXPENS : Taxable pensions (Flag: TAXPENS_)
+- TAX_UNIT : Identifies which tax unit the member was placed in (Flag: `TAX__NIT`)
+- TAXPENS : Taxable pensions (Flag: `TAXPENS_`)
 - TAXYR_CY : The year that tax will be calculated for, current year
 - TAXYR_PY : The year that tax will be calculated for, previous year
-- WAGE_HD : Wage and salary income of taxpayer (Flag: WAGE_HD_)
-- WAGE_SP : Wage and salary income of taxpayer's spouse (Flag: WAGE_SP_)
-- WAGE_SP : Wage and salary income of taxpayer's spouse (Flag: WAGE_SP_)
-- WAGE_SP : Wage and salary income of taxpayer's spouse (Flag: WAGE_SP_)
+- WAGE_HD : Wage and salary income of taxpayer (Flag: `WAGE_HD_`)
+- WAGE_SP : Wage and salary income of taxpayer's spouse (Flag: `WAGE_SP_`)
+- WAGE_SP : Wage and salary income of taxpayer's spouse (Flag: `WAGE_SP_`)
+- WAGE_SP : Wage and salary income of taxpayer's spouse (Flag: `WAGE_SP_`)
 
 
 
