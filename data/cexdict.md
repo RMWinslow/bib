@@ -16,7 +16,36 @@ placed into a simple list for ease of access and reference
 [The original Data Dictionary for the CEX can be found here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.bls.gov%2Fcex%2Fpumd%2Fce_pumd_interview_diary_dictionary.xlsx&wdOrigin=BROWSELINK)
 in Excel format.
 
-The below is a list of variables found in the FMLI and MEMI data files as of 2021.
+The below is a list of variables found in the data files as of 2021.
+Note that in some cases, the variable description/definition was slightly changed in some previous year.
+Again, see the full list for details.
+
+
+
+
+## Flag Values
+
+Some variables have secondary "Flag" variables associated with them.
+Here are the meanings of each flag value.
+
+- A : Valid blank; a blank field where a response is not anticipated
+- B : Invalid blank due to invalid nonresponse; nonresponse that is not consistent with other data reported by the CU
+- C : Blank due to "Don't know," refusal, or other nonresponse
+- D : Valid value; unadjusted
+- E : Valid value; allocated
+- F : Valid value; imputed or adjusted in some other way
+- G : Valid value; allocated and imputed
+- H : Valid blank for an expenditure that is a "parent record" where the expenditure was allocated to other records and the original expenditure was overwritten with a blank
+- T : Valid value; topcoded or suppressed
+- U : Valid value; allocated then topcoded or suppressed
+- V : Valid value; imputed or adjusted in some other way then topcoded or suppressed
+- W : Valid value; allocated and imputed or adjusted in some other way then topcoded or suppressed
+
+
+
+
+
+
 
 
 ## Summary Files
@@ -1743,23 +1772,6 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
 
 
 
-## Flag Values
-
-Some variables have secondary "Flag" variables associated with them.
-Here are the meanings of each flag value.
-
-- A : Valid blank; a blank field where a response is not anticipated
-- B : Invalid blank due to invalid nonresponse; nonresponse that is not consistent with other data reported by the CU
-- C : Blank due to "Don't know," refusal, or other nonresponse
-- D : Valid value; unadjusted
-- E : Valid value; allocated
-- F : Valid value; imputed or adjusted in some other way
-- G : Valid value; allocated and imputed
-- H : Valid blank for an expenditure that is a "parent record" where the expenditure was allocated to other records and the original expenditure was overwritten with a blank
-- T : Valid value; topcoded or suppressed
-- U : Valid value; allocated then topcoded or suppressed
-- V : Valid value; imputed or adjusted in some other way then topcoded or suppressed
-- W : Valid value; allocated and imputed or adjusted in some other way then topcoded or suppressed
 
 
 
