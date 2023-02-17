@@ -1,7 +1,7 @@
 ---
 title: PSID
 parent: Other
-has_children: true
+has_children: false
 ---
 
 # Panel Study of Income Dynamics

@@ -1,7 +1,7 @@
 ---
 title: IPUMS ATUS-X
 parent: Other
-has_children: true
+has_children: false
 ---
 
 # IPUMS American Time Use Survey Extracts

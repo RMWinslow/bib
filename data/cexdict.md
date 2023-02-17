@@ -1789,7 +1789,7 @@ RFUELOIP+ROTHRFLP+RELECTRP+RNATLGAP+RWATERPP
 
 ## Detailed Income and Expenditures
 
-### MTBI - Monthly Expenditures
+### MTBI - Monthly Tablature
 
 - ALCNO : Allocation Number
 - COST : Total cost of item, including sales tax (Flag: `COST_`)
@@ -2707,7 +2707,7 @@ JOBS, FOR OWNED VACATION
 
 
 
-### ITBI - Deatailed Monthly Income
+### ITBI - Detailed Monthly Income Tablature
 
 
 - NEWID : Public use microdata identifier
@@ -2891,7 +2891,7 @@ JOBS, FOR OWNED VACATION
 
 
 
-### Imputed Monthly Income
+### Income Tablature post Imputation
 
 - IMPNUM : Income Imputation Iteration
     - 1 : First
