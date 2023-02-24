@@ -27,4 +27,7 @@ parent: Papers
 >  Using a plausible functional form assumption inan IV setting, we demonstrate that wage-optimizing sleep is approximately 9 hours pernight in the United States. This is higher than the average sleep amount reported in thedata—8.3 hours—and it is much higher than the 7 to 8 hours per night that the medicalliterature generally considers to result in lowest total mortality (Cappuccio et al., 2010)
 
 
+Biddle Hamermesh 1990 might be interesting to take a look at. SUpposed to be simple model of time use between work, leisure, and sleep. 
+Might be a good teaching example.
+
 
