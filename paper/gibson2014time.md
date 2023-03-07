@@ -31,3 +31,29 @@ Biddle Hamermesh 1990 might be interesting to take a look at. SUpposed to be sim
 Might be a good teaching example.
 
 
+Combine time and expenditures <!--leontief--> to get units of leisure.  
+Sleep enters linearly into wage and also utility.  
+Consumption not in budget constraint. They just assume leisure has a cost.
+
+
+>  Calculating sunset  relies  on  four  inputs:  the  date,  latitude,  longitude,  and  time  zone.   We  can approximate three of these four components using annual average sunset time,  solar declination (the angle of the sun relative to the equator) on the diary date, and the interaction of the two.
+
+
+> In a vacuum, we might expect residents of the eastern city to rise earlier.  Hamermesh et al. (2008), however, show that work scheduling  is  not  sensitive  to  solar  time,  and  workers  must  wake  up  in  time  for  a coordinated start—this is one reason for the widespread use of morning alarm clocks.
+
+
+>  Indeed, state and local governments may petition the Department of
+Transportation to switch time zones, which has resulted in a long-run westward movement of boundaries (USNO, 2014).
+This movement means that the precise location of the boundary is endogenous and research designs based on comparing nearby communities  on  opposite  sides  of  the  boundary  will  be  biased.   Note,  however,  that  the westward movement of boundaries is the opposite of what we expect if counties are choosing  their  time  zone  based  on  sleep-driven  productivity  considerations.
+
+
+> To assign locations to individuals in ATUS, we began by merging the ATUS datawith the corresponding CPS data (the match rate was 100%).  For a given individual,the  CPS  data  often  contain  location  at  the  county  level.   This  variable  is  censoredfor individuals living in counties with fewer than 100,000 residents.  When county isavailable, we assign the county centroid as an individual’s location.  We have countylocation  for  approximately  44%  of  ATUS  observations  and  42%  of  workers.   For  re-maining individuals,  ATUS contains location at the state level.  We assign the 2010population-weighted state centroid (computed by the Census) as the location for theseindividuals. 
+
+
+
+
+
+> This  is  exactly  the  prediction  of  a  sorting  model  like  Roback  (1982).   With  perfectworker and firm mobility, the gains from a productive location-specific amenity accrueto owners of land, the fixed factor.  Such a model predicts that locations with earlierlocal sunset times will have higher rents and house prices, even without worker sortingon ability.  Using county-level Census data from 2010, Table VI provides evidence thatthis is indeed so. 
+
+
+
