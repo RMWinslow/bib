@@ -42,6 +42,7 @@ workers being able to be more productive while WFH. Using the Decennial Censuses
 (GHII) documents wage penalties in the 1980 and 1990 censuses, and a small wage premium in 
 the 2000 census for home-based workers
 
+> **We define a “home-based teleworker” as a worker who works exclusively at home three or more days a week**, and an “occasional teleworker” as a worker who works exclusively at home at least once every two weeks and at most two days a week.Footnote9 An “office worker” is a worker who either never works exclusively from home or works exclusively at home less than once every two weeks.
 
 > We estimate that, in 2004, 15 percent of wage and salary workers in the US reported that they did some work at 
 home, but only 3 percent of workers worked exclusively at home at least one day every two weeks (Current Population Survey Data at NBER 2004). For additional findings from this supplement, see U.S. Bureau of Labor 
@@ -85,3 +86,13 @@ about an hour from not having to commute.1 (We calculate commuting time using th
 
 Less time on grooming, commuting, and food-prep.
 More time on working, eating, childcare, leisure
+
+
+> We multiply top-coded hourly wages and earnings by 1.5, a common practice in the literature (e.g., Autor et al., 2008).
+
+
+"Oster betas" with $delta=1$ and $R_{max}=1.3\tilde R$. 
+They say if $\beta^\star$ is opposite sign from OLS estimates, then 
+"the OLS estimates are not robust to correcting for omitted variable bias."
+
+$$\beta^\star = \tilde\beta -\delta[\dot\beta - \tilde\beta] \left( \frac{R_{max} - \tilde R}{\tilde R - \dot R} \right)$$
