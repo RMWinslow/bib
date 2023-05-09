@@ -89,7 +89,7 @@ Two decisions the consumer faces:
 
 Three more state variables are introduced: $s,\eta,\mu$.
 
-- Employment opportunity $s\in\{e,u\}$ represents whether the person has a job opportunity ($s=e$) or not ($s=u$).
+- Employment opportunity $s\in\set{e,u}$ represents whether the person has a job opportunity ($s=e$) or not ($s=u$).
     - $s$ evolves according to a 2x2 transition matrix $\chi$, calibrated like so:
 
 $$\chi = 
@@ -104,9 +104,9 @@ $$\chi =
 $$
 
 
-- employment status $\eta\in{0,1}$ represents whether the person is actually working. 
+- employment status $\eta\in\set{0,1}$ represents whether the person is actually working. 
     - Note that $s=u \implies \eta=0$. But if the person chooses not to accept an employment opportunity, $(s,\eta)=(e,0)$.
-- $\mu\in\{0,1\}$ indicates whether the person collects unemployment benefits.
+- $\mu\in\set{0,1}$ indicates whether the person collects unemployment benefits.
     - If $(s,\eta)=(e,0)$, there is a probability $\pi(t)$ that the person collects benefits and probability $1-\pi(t)$ they do not.
     - Otherwise, $\mu$ works as you'd expect. 
         - $(s,\eta)=(e,1) \implies \mu=0$, 
