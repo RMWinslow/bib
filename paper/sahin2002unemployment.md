@@ -112,11 +112,11 @@ $$
         - $(s,\eta)=(e,1) \implies \mu=0$, 
         - and $(s,\eta)=(u,0) \implies \mu=0$
 
-$$\Set{x}$$
+$$\\Set{x}$$
 
-$$\set{x}$$
+$$\\set{x}$$
 
-$$\set{x|x \leq 5}$$
+$$\\set{x|x \leq 5}$$
 
 --- 
 
