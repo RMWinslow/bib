@@ -112,17 +112,6 @@ $$
         - $(s,\eta)=(e,1) \implies \mu=0$, 
         - and $(s,\eta)=(u,0) \implies \mu=0$
 
-$$\frac{x}{y}$$
-
-$$\set{x}$$
-
-$$\set\{x\}$$
-
-$$\cancel{5}$$
-
-$$\cancel\{5\}$$
-
-
 --- 
 
 ### Value Function and State?
