@@ -104,7 +104,7 @@ $$\chi =
 $$
 
 
-- employment status $\eta\in\set{0,1}$ represents whether the person is actually working. 
+- employment status $\eta\in\Set{0,1}$ represents whether the person is actually working. 
     - Note that $s=u \implies \eta=0$. But if the person chooses not to accept an employment opportunity, $(s,\eta)=(e,0)$.
 - $\mu\in\set{0,1}$ indicates whether the person collects unemployment benefits.
     - If $(s,\eta)=(e,0)$, there is a probability $\pi(t)$ that the person collects benefits and probability $1-\pi(t)$ they do not.
@@ -112,6 +112,9 @@ $$
         - $(s,\eta)=(e,1) \implies \mu=0$, 
         - and $(s,\eta)=(u,0) \implies \mu=0$
 
+$$\Set{x}$$
+
+$$\set{x}$$
 
 
 --- 
