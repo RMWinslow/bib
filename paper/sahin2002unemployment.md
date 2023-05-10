@@ -94,8 +94,8 @@ Three more state variables are introduced: $s,\eta,\mu$.
 
 $$\chi = 
 \begin{bmatrix}
-   \Pr(s'=e|s=e) & \Pr(s'=u|s=e) \\
-   \Pr(s'=e|s=u) & \Pr(s'=u|s=u)
+   \chi(e,e) & \chi(e,u) \\
+   \chi(u,e) & \chi(u,u)
 \end{bmatrix} =
 \begin{bmatrix}
    0.9681 & 0.0319 \\
@@ -105,12 +105,16 @@ $$
 
 
 - employment status $\eta\in\Set{0,1}$ represents whether the person is actually working. 
-    - Note that $s=u \implies \eta=0$. But if the person chooses not to accept an employment opportunity, $(s,\eta)=(e,0)$.
 - $\mu\in\set{0,1}$ indicates whether the person collects unemployment benefits.
     - If $(s,\eta)=(e,0)$, there is a probability $\pi(t)$ that the person collects benefits and probability $1-\pi(t)$ they do not.
     - Otherwise, $\mu$ works as you'd expect. 
         - $(s,\eta)=(e,1) \implies \mu=0$, 
         - and $(s,\eta)=(u,0) \implies \mu=0$
+
+<!--
+- Note that $s=u \implies \eta=0$. But if the person chooses not to accept an employment opportunity, $(s,\eta)=(e,0)$.
+-->
+
 
 --- 
 
