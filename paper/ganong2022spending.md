@@ -23,9 +23,53 @@ parent: Papers
 > We show that the largest increase in unemployment benefits in U.S. history had large spending impacts and small job-finding impacts. This finding has three implications. First, increased benefits were important for explaining aggregate spending dynamics—but not employment dynamics—during the pandemic. Second, benefit expansions allow us to study the MPC of normally low-liquidity households in a high-liquidity state. These households still have high MPCs. This suggests a role for persistent behavioral characteristics, rather than just current liquidity, in driving spending behavior. Third, the mechanisms driving our results imply that temporary benefit supplements are a promising countercyclical tool.
 
 
+## My Notes and Excerpts
+
+> more than half of
+unemployed workers return to work before the $600 expires.
+
+Delays? Some households stop recieving paychecks in March, but don't get benefits until later.
+These delays are used to estimate impact of Pandemic bonus on spending.
+
+<!--
+Check for intensity of delays in a state by looking at average benefits per person.
+If elevations don't line up with bonus period, then delays?
+-->
+
+
+### Data:
+
+44 million households with a checking account in the JP-MorganChase Institute (JPMCI)
+
+Benefits extensions mean that exit from UI is typically exit to a job.
+So the two events are treated as interchangeable in the paper.
+
+
+
+
+
+### Estimating impact on job-finding rates.
+
+- Interrupted Time-series: "we study the change in the average job-finding rate in the two weeks prior to the policy change relative to the first four weeks after the policy change"
+  - Treats date of policy end as essentially random for the purpose of significance test
+- Difference in Difference based on different replacement rates
+  - compute change in benefits with/without program
+  - above median effect size has bigger change in exit rates from program, compared to those with below median effect size.
+
+Both techniques find a reduction in new job finding rate, but the rates are economically small.
+(That is, their model predicts only small effects on aggregate employment.)
+
+The effect on recalls is ambiguous and small.
+
+>  If anything recalls
+rise after the supplement takes effect.
+
+
+
+
+
 <!--
 
-## My Notes
 
 This paper contains some figures that might be good to mention in teaching.
 
