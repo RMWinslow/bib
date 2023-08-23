@@ -36,6 +36,16 @@ Check for intensity of delays in a state by looking at average benefits per pers
 If elevations don't line up with bonus period, then delays?
 -->
 
+> As a robustness exercise, we examine the spending response to the temporary $300 supplement known
+as “Lost Wages Assistance” (LWA). This policy was announced in August and applied to unemployment spells in August but was largely paid out in September. 
+... In particular, most states paid out the $300 payments
+in September, but New Jersey made these payments in October
+
+
+Figure A4 in the appendix shows that in both the JPMCI and DoL data, 
+the share of UI going to the accomodations and food services industry increased quite a bit.
+
+
 
 ### Data:
 
