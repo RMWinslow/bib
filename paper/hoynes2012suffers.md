@@ -2,7 +2,7 @@
 parent: Papers
 ---
 
-# TITLE
+# Who suffers during recessions?
 
 [Author's Webpage](https://www.hilaryhoynes.com/research),
 [direct pdf link](https://static1.squarespace.com/static/5ecd75a3c406d1318b20454d/t/5f45c30b500be76b442dcaff/1598407436928/Hoynes-Miller-Schaller-JEP-2012.pdf),
