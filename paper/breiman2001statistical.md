@@ -60,9 +60,6 @@ for publication in medical journals. That different
 survival models, equally well fitting, could give different conclusions is not an issue.
 
 
-This was written in 2001, so dtrees and nnets were the old stuff and suppport vector machines were the new hotness at the time.
-
-
 > [Rashomon] is closely onnected to what I call
 instability(Breiman, 1996a) that occurs when there
 are many different models crowded together that
@@ -90,7 +87,34 @@ But recent work has shown that
 dimensionality can be a blessing.
 
 
+Several interesting examples of the value of random forest models
+with permutation importance to identify important features.
+In fact, I wonder if a standard random forest is more amenable to this kind of interpretation,
+since each tree can't affect the other.
+Where with gradient boosting, 
 
+
+Oh, and "bagging" comes from "**b**oostrap **agg**regat**ing**", apparently.
+
+
+---
+
+
+This was written in 2001, so dtrees and nnets were the old stuff and suppport vector machines were the new hotness at the time.
+See:
+
+> Support vector machines can also be used to
+provide accurate predictions in other areas (e.g.,
+regression). It is an exciting idea that gives excellent performance and is beginning to supplant the
+use of neural nets. A readable introduction is in
+Cristianini and Shawe-Taylor (2000)
+
+Interesting that new ideas of how to wire together nnets brought them back as the new hotness.
+
+Also, some insight into the idea behind SVM:
+Turns the curse of dimensionality in your favor 
+because raising dimensions increases chance of separating hyperplane.
+(But difficult to balance with need for low generalization error.)
 
 
 
