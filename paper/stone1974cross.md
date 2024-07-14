@@ -23,7 +23,7 @@ parent: Papers
 ## Abstract
 
 > A generalized form of the cross-validation criterion is applied to the choice 
-and assessment of prediction using the data-analytic concept of a prescription. The examples used to illustrate the application are drawn from the 
+and assessment of prediction using the data-analytic concept of a prescription. The examples used to illustrate the application are drawn from the 
 problem areas of univariate estimation, linear regression and analysis of 
 variance. 
 
