@@ -59,7 +59,7 @@ $$
 \phi_{i}(f,x)=\sum_{z'\subseteq x'}\frac{\left|z'\right|!\,\left(\left|M\right|-\left|z'\right|-1\right)!}{\left|M\right|!}\left[f_{x}(z')-f_{x}(z'\backslash i)\right]
 $$
 
-$M$ is the number of simplified input features (the length of $z'$ I think?), $\left|z'\right|$ is the number that are non-zero, $z'\subseteq x'$ is all the $z'$ vectors where the non-zero entries are a subset of the non-zero entires in $x'$. Bit confused about what $M$ here means.
+$M$ is the number of simplified input features (the length of $z'$ I think?), $abs(z')$ is the number that are non-zero, $z'\subseteq x'$ is all the $z'$ vectors where the non-zero entries are a subset of the non-zero entires in $x'$. Bit confused about what $M$ here means.
 
 ----
 
