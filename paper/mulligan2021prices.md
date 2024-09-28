@@ -2,7 +2,7 @@
 parent: Papers
 ---
 
-# TITLE
+# Prices and Policies in Opioid Markets
 
 [final version link](https://www.journals.uchicago.edu/doi/abs/10.1086/730381)
 
