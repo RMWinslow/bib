@@ -7,6 +7,10 @@ subtitle: What Determines State Heterogeneity in Response to US Tariff Changes?
 [slides](https://www.dallasfed.org/-/media/Documents/research/events/2025/25peterson/25peterson-sposi)
 Though these slides differ from the ones I saw at the MVEA 2025 conference. 
 
+[authors website](https://people.smu.edu/msposi/main/working-papers/)
+
+[working paper link](https://bpb-us-w2.wpmucdn.com/people.smu.edu/dist/b/1355/files/2025/02/SSZ-US-State_Tariffs.pdf)
+
 
 ## BibTeX
 ```
