@@ -1,5 +1,6 @@
 ---
-parent: Papers
+parent: papers
+citekey: lou2013accurate
 ---
 
 # Accurate intelligible models with pairwise interactions
