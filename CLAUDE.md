@@ -15,6 +15,7 @@ This repository is a Jekyll-based bibliography tracker hosted on GitHub Pages. E
 ```
 bib/
   _config.yml          # Jekyll config: title, remote_theme, search, math: katex
+  _planning/           # Design documents and research notes (ignored by Jekyll)
   papers.md            # Nav parent page (has_children: true)
   books.md             # Nav parent page
   other.md             # Nav parent page (catch-all for articles, reports, data, etc.)
@@ -26,7 +27,8 @@ bib/
   report/              # 6 report entries
   data/                # 6 dataset entries (CEX has a child page: cexdict.md)
   collections/         # 1 test collection page (search_exclude: True)
-  zotero/              # 1 entry from Zotero Better Notes integration experiment
+  zotero/              # 1 entry from Zotero Better Notes experiment (to be retired)
+  test_file_links.html # Temporary test page for file:/// links (can be removed)
 ```
 
 ## Entry format
@@ -95,31 +97,57 @@ The `_config.yml` is minimal (11 lines):
 
 4. **Inconsistent use of `layout: post`:** Only 4 out of ~230 entries explicitly set `layout: post`. The rest use the default layout, which means they lack the title/subtitle header group and the optional TOC feature.
 
-## Redesign goals (2026-03-23)
+## Redesign (2026-03-23)
 
-The user wants to revisit and redesign this repo. Key motivations:
+The user wants to redesign this repo. Core motivations: Zotero's opaque storage (hashed folders + SQLite) is fragile; Markdown files are the durable, legible, version-controlled alternative. The goal is to leverage Zotero for PDF annotation and metadata management while using this repo as the permanent record.
 
-1. **Zotero integration:** The user likes Zotero's PDF reader and note-taking but dislikes its opaque storage (hashed folders + SQLite). The goal is to use Markdown files as the durable, legible layer — resilient to breaking software updates — while leveraging Zotero's strengths for PDF annotation and metadata management.
+### Confirmed design decisions
 
-2. **Local PDF links:** The user has PDFs synced via Google Drive across three computers. Bibliography entries should link to the corresponding local PDF when viewed on one of those machines.
+- **Layout name:** `bib` (not `bibentry` — shorter, unambiguous in context, matches repo name).
+- **Two layouts:** `bib` for individual entries, `collection` for curated/auto-generated topic pages.
+- **Authors in frontmatter:** Full names (e.g., `["Yin Lou", "Rich Caruana"]`).
+- **Tags:** Free-form. LLMs make post-hoc cleanup easy if tag drift becomes a problem.
+- **Navigation:** Individual `bib` entries should be `nav_exclude: true` — the current sidebar with ~195 papers is unusable. Entries are discoverable via Lunr search and collection pages. This can be set as a default in `_config.yml` per directory so entries don't need to specify it individually.
+- **Local PDF linking:** Browsers block `file:///` from `https://` origins (confirmed via test). The leading approach is a custom protocol handler (`openpdf://`) registered in the Windows registry on each machine. See `_planning/local_pdf_linking.md` for full research and details. Not yet implemented.
 
-3. **Structured entry format:** A new `bibentry` layout with rich YAML frontmatter (citekey, title, authors, year, tags, doi, pdf path, etc.) so that entries are easy to create and parse for both humans and AI agents.
+### Proposed entry frontmatter schema
 
-4. **Collection pages:** A `collection` layout that auto-lists entries matching specified tags, replacing the current stub. Manual curation with optional auto-generation.
+```yaml
+---
+layout: bib
+parent: Papers
 
-5. **Navigation cleanup:** Eliminate the "Other" catch-all; reorganize by type or lean on tag-based collections for discovery.
+# Identity
+citekey: lou2013accurate
+title: "Accurate intelligible models with pairwise interactions"
+authors: ["Yin Lou", "Rich Caruana", "Johannes Gehrke", "Giles Hooker"]
+year: 2013
 
-### Open design questions (awaiting user input)
+# Publication
+publication: "KDD '13"
+type: paper                  # paper | book | article | report | dataset
 
-- [ ] Two-layout structure (bibentry + collection) — confirmed or needs revision?
-- [ ] PDF linking approach: localhost-detection JS (option D) or something else?
-- [ ] Author format in frontmatter: compact "Last F" vs. full names vs. structured objects?
-- [ ] Tags: free-form or controlled vocabulary?
-- [ ] Break up "Other" nav group, or is sidebar hierarchy low-priority vs. tag-based collections?
-- [ ] Migration strategy: bulk script or incremental as entries are touched?
+# Links
+doi: "10.1145/2487575.2487579"
+url: "https://dl.acm.org/doi/10.1145/2487575.2487579"
+pdf: "papers/lou2013accurate.pdf"   # relative to configurable base path
 
-### Earlier TODOs (pre-redesign)
+# Organization
+tags: [machine-learning, interpretability, GAMs]
+---
+```
 
-- [ ] Fix `zotero/lou2013accurate.md` parent field (lowercase "papers" → "Papers") or migrate to new structure.
-- [ ] Decide fate of `collections/test_collection_page.md`.
-- [ ] Resolve inconsistent `layout: post` usage (4 of ~230 entries).
+Only `layout`, `citekey`, `title`, and `type` are required. Everything else is optional so stubs can be created quickly.
+
+### Open questions
+
+- [ ] Migration strategy: batched script (recommended), AI-assisted, incremental, or hybrid? See conversation notes for full pros/cons analysis.
+- [ ] Navigation restructuring: break up "Other" into separate parents, or rely entirely on tag-based collections for discovery?
+- [ ] `_config.yml` defaults: set `layout: bib` and `nav_exclude: true` per directory to minimize per-file frontmatter?
+
+### Cleanup TODOs
+
+- [ ] Remove or repurpose `test_file_links.html` (temporary experiment, confirmed `file:///` is blocked).
+- [ ] Retire `zotero/` directory — move `lou2013accurate.md` to `paper/` with new frontmatter (the `citekey` field is now standard on every entry).
+- [ ] Remove `collections/test_collection_page.md` or replace with a real collection page once the `collection` layout exists.
+- [ ] Fix the 4 entries with `layout: post` to use `layout: bib` once the layout is created.
