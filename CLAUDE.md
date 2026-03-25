@@ -1,3 +1,8 @@
+---
+nav_exclude: true
+search_exclude: true
+---
+
 # CLAUDE.md — bib repository
 
 **This file should be kept up to date** as work progresses. It serves as the canonical reference for Claude sessions working in this repo.
@@ -28,7 +33,6 @@ bib/
   data/                # 6 dataset entries (CEX has a child page: cexdict.md)
   collections/         # 1 test collection page (search_exclude: True)
   zotero/              # 1 entry from Zotero Better Notes experiment (to be retired)
-  test_file_links.html # Temporary test page for file:/// links (can be removed)
 ```
 
 ## Entry format
@@ -147,7 +151,12 @@ Only `layout`, `citekey`, `title`, and `type` are required. Everything else is o
 
 ### Cleanup TODOs
 
-- [ ] Remove or repurpose `test_file_links.html` (temporary experiment, confirmed `file:///` is blocked).
+- [x] ~~Remove `test_file_links.html`~~ (done 2026-03-24, confirmed `file:///` is blocked)
 - [ ] Retire `zotero/` directory — move `lou2013accurate.md` to `paper/` with new frontmatter (the `citekey` field is now standard on every entry).
 - [ ] Remove `collections/test_collection_page.md` or replace with a real collection page once the `collection` layout exists.
 - [ ] Fix the 4 entries with `layout: post` to use `layout: bib` once the layout is created.
+
+### Planning documents
+
+- `_planning/local_pdf_linking.md` — Research on linking to local PDFs from GitHub Pages. Custom protocol handler (`openpdf://`) is the leading approach.
+- `_planning/zotero_integration.md` — Full inventory of the local Zotero installation (351 items, 508 annotations, 5 plugins), overlap analysis with bib repo (93 shared, 132 bib-only, 258 Zotero-only), and four integration approaches (Better Notes sync, direct DB reader, BibTeX bridge, hybrid).
