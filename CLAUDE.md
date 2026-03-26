@@ -155,6 +155,7 @@ Only `layout`, `citekey`, `title`, and `type` are required. Everything else is o
 - [ ] Retire `zotero/` directory — move `lou2013accurate.md` to `paper/` with new frontmatter (the `citekey` field is now standard on every entry).
 - [ ] Remove `collections/test_collection_page.md` or replace with a real collection page once the `collection` layout exists.
 - [ ] Fix the 4 entries with `layout: post` to use `layout: bib` once the layout is created.
+- [ ] Add a "messy personal notes" disclaimer banner to the `bib` layout. The banner should be visible by default (for anyone who finds a page via Google) but hideable via a Jekyll environment variable or site config flag, so the user can suppress it locally.
 
 ### Planning documents
 
