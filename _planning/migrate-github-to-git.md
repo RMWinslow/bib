@@ -1,10 +1,11 @@
 # Migration plan: ~/Documents/GitHub/ to ~/git/
 
 Date: 2026-03-23
+**Status: Complete (2026-03-27)**
 
 ## Summary
 
-We investigated migrating `C:\Users\rober\Documents\GitHub\` to `C:\Users\rober\git\` to shorten file paths. The move is low-risk.
+We migrated `C:\Users\rober\Documents\GitHub\` to `C:\Users\rober\git\` to shorten file paths. The move is complete.
 
 ## Findings
 
@@ -51,7 +52,11 @@ done
 ## Other things to check after the move
 
 - **VS Code**: Re-open projects from `~/git/`. Workspace files with absolute paths may need updating.
-- **GitHub Desktop**: If used, re-add repos from the new location.
+- **GitHub Desktop**: The move will **not** automatically update GitHub Desktop's repo list. GHD will show the repos as missing on next launch. You'll need to re-add them manually (File > Add Local Repository) from the new location. As of 2026-03-27, the following 20 repos are tracked in GHD:
+  - **RMWinslow:** ATUS-aguiar2013time-extension, ATUS-Travel-Recoding, bib, claude_data_cleaning_test, JTD-RMW, papersdrafts, Peer-Review-Referee-Notes, posts, PSID-File-Merge, pui-data-repository, RMWinslow.github.io, scratchpad, slides, Teaching-Notes
+  - **RobertWinslow:** 2022-MEBDI-ML-Competition-Snippet, MEDBI-competition-2022
+  - **pjwinslow:** reduced_alphabet_finder
+  - **Other:** referee2
 - **Shell aliases or scripts**: Update any that reference `~/Documents/GitHub/`.
 - **Windows shortcuts / pinned items**: Update any that point into the old path.
 - **~/.claude/CLAUDE.md**: Update any path references in the global instructions file.
