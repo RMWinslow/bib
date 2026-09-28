@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "A Firm-Level Perspective on the Role of Rents in the Rise in Inequality"
+pub_authors:
+  - "Jason Furman"
+  - "Peter Orszag"
+pub_year: 2018
+date: 2022-08-19
+modified: 2022-08-19
 ---
 
-# A Firm-Level Perspective on the Role of Rents in the Rise in Inequality
 
 [pdf link](https://www.andrew.cmu.edu/course/88-737/dynamic/selection.pdf)
 

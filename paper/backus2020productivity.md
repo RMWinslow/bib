@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Why is productivity correlated with competition?"
+pub_authors:
+  - "Matthew Backus"
+pub_year: 2020
+date: 2024-10-20
+modified: 2024-10-27
 ---
 
-# Why is productivity correlated with competition?
 
 [NBER link](https://www.nber.org/system/files/working_papers/w25748/w25748.pdf)
 

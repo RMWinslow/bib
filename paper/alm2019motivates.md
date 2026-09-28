@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "What motivates tax compliance?"
+pub_authors:
+  - "James Alm"
+pub_year: 2019
+date: 2023-09-20
+modified: 2023-09-20
 ---
 
-# What motivates tax compliance?
 
 [pdf link](https://repec.tulane.edu/RePEc/pdf/tul1903.pdf)
 

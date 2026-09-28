@@ -1,8 +1,17 @@
 ---
-parent: Papers
+layout: bib
+title: "Really uncertain business cycles"
+pub_authors:
+  - "Nicholas Bloom"
+  - "Max Floetotto"
+  - "Nir Jaimovich"
+  - "Itay Saporta-Eksten"
+  - "Stephen J Terry"
+pub_year: 2018
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Really uncertain business cycles
 
 [pdf link](https://drive.google.com/file/d/118x7m_7cMB55OdO1TLfUWv_io7yfISyy/view)
 

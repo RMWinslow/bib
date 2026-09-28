@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Things could be better"
+pub_authors:
+  - "Adam Mastroianni"
+  - "Ethan Ludwin-Peery"
+pub_year: 2022
+date: 2022-11-27
+modified: 2022-11-27
 ---
 
-# Things could be better
 
 [PsyArXiv link](https://psyarxiv.com/2uxwk/)
 

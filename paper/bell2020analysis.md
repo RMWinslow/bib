@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "An analysis of unemployment insurance claims in California during the COVID-19 pandemic"
+pub_authors:
+  - "Alex Bell"
+  - "Thomas J Hedin"
+  - "Geoffrey Schnorr"
+  - "Till Von Wachter"
+pub_year: 2020
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# An analysis of unemployment insurance claims in California during the COVID-19 pandemic
 
 [pdf link](https://www.capolicylab.org/wp-content/uploads/2022/08/June-30th-Analysis-of-Unemployment-Insurance-Claims-in-California-During-the-COVID-19-Pandemic.pdf)
 

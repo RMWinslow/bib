@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "The macroeconomics of epidemics"
+pub_authors:
+  - "Martin S Eichenbaum"
+  - "Sergio Rebelo"
+  - "Mathias Trabandt"
+pub_year: 2021
+date: 2022-08-17
+modified: 2022-08-17
 ---
 
-# The macroeconomics of epidemics
 
 [link to paper](https://academic.oup.com/rfs/article/34/11/5149/6213914)
 

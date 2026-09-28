@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Heterogeneity in the Impact of Economic Cycles and the Great Recession: Effects within and across the Income Distribution"
+pub_authors:
+  - "Marianne Bitler"
+  - "Hilary Hoynes"
+pub_year: 2015
+date: 2024-05-29
+modified: 2024-05-29
 ---
 
-# Heterogeneity in the Impact of Economic Cycles and the Great Recession: Effects within and across the Income Distribution
 
 [Author's Webpage](https://www.hilaryhoynes.com/research),
 

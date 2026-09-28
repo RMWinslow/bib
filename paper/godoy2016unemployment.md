@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Unemployment insurance and underemployment"
+pub_authors:
+  - "Anna Godøy"
+  - "Knut Røed"
+pub_year: 2016
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# Unemployment insurance and underemployment
 
 [econstor link](https://www.econstor.eu/bitstream/10419/93290/1/dp7913.pdf)
 

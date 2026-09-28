@@ -1,8 +1,23 @@
 ---
-parent: Papers
+layout: bib
+title: "Fertility, mortality, migration, and population scenarios for 195 countries and territories from 2017 to 2100: a forecasting analysis for the Global Burden of Disease Study"
+pub_authors:
+  - "Stein Emil Vollset"
+  - "Emily Goren"
+  - "Chun-Wei Yuan"
+  - "Jackie Cao"
+  - "Amanda E Smith"
+  - "Thomas Hsiao"
+  - "Catherine Bisignano"
+  - "Gulrez S Azhar"
+  - "Emma Castro"
+  - "Julian Chalek"
+  - "others"
+pub_year: 2020
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Fertility, mortality, migration, and population scenarios for 195 countries and territories from 2017 to 2100: a forecasting analysis for the Global Burden of Disease Study
 
 [Lancet html link](https://www.thelancet.com/article/S0140-6736(20)30677-2/fulltext)
 

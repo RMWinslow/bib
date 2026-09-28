@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Wage inequality and segregation by skill"
+pub_authors:
+  - "Michael Kremer"
+  - "Eric Maskin"
+pub_year: 1996
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Wage inequality and segregation by skill
 
 [NBER link](https://www.nber.org/papers/w5718)
 

@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Working from home and income inequality: risks of a ‘new normal’with COVID-19"
+pub_authors:
+  - "Luca Bonacini"
+  - "Giovanni Gallo"
+  - "Sergio Scicchitano"
+pub_year: 2021
+date: 2022-11-30
+modified: 2022-11-30
 ---
 
-# Working from home and income inequality: risks of a ‘new normal’with COVID-19
 
 [Spring link](https://link.springer.com/article/10.1007/s00148-020-00800-7)
 

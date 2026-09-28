@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Heterogeneity in the marginal propensity to consume: evidence from Covid-19 stimulus payments"
+pub_authors:
+  - "Ezra Karger"
+  - "Aastha Rajan"
+pub_year: 2020
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# Heterogeneity in the marginal propensity to consume: evidence from Covid-19 stimulus payments
 
 [pdf link](https://www.econstor.eu/bitstream/10419/230393/1/1700287443.pdf)
 

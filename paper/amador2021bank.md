@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Bank runs, fragility, and credit easing"
+pub_authors:
+  - "Manuel Amador"
+  - "Javier Bianchi"
+pub_year: 2021
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Bank runs, fragility, and credit easing
 
 [NBER link](https://www.nber.org/papers/w29397)
 

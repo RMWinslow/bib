@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Isomorphic tessellations for musical keyboards"
+pub_authors:
+  - "Steven Maupin"
+  - "David Gerhard"
+  - "Brett Park"
+pub_year: 2011
+date: 2022-11-21
+modified: 2022-11-21
 ---
 
-# Isomorphic tessellations for musical keyboards
 
 [pdf link](http://smc.afim-asso.org/smc11/papers/smc2011_169.pdf)
 

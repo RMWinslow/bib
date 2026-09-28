@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Real-time inequality"
+pub_authors:
+  - "Thomas Blanchet"
+  - "Emmanuel Saez"
+  - "Gabriel Zucman"
+pub_year: 2022
+date: 2023-11-05
+modified: 2023-11-05
 ---
 
-# Real-time inequality
 
 [nber link](https://www.nber.org/papers/w30229)
 

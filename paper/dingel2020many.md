@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "How many jobs can be done at home?"
+pub_authors:
+  - "Jonathan I Dingel"
+  - "Brent Neiman"
+pub_year: 2020
+date: 2022-11-30
+modified: 2022-11-30
 ---
 
-# How many jobs can be done at home?
 
 [ScienceDirect link](https://www.sciencedirect.com/science/article/pii/S0047272720300992)
 

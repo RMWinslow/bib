@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Quantifying the losses from international trade"
+pub_authors:
+  - "Spencer Lyon"
+  - "Michael E Waugh"
+pub_year: 2019
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Quantifying the losses from international trade
 
 [pdf link](http://pseweb.eu/ydepot/seance/513030_lw_quant_losses.pdf)
 

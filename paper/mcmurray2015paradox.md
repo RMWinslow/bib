@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "The paradox of information and voter turnout"
+pub_authors:
+  - "Joseph McMurray"
+pub_year: 2015
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# The paradox of information and voter turnout
 
 [Springer html link](https://link.springer.com/article/10.1007/s11127-015-0288-1)
 

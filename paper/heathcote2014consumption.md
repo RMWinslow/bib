@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Consumption and labor supply with partial insurance: An analytical framework"
+pub_authors:
+  - "Jonathan Heathcote"
+  - "Kjetil Storesletten"
+  - "Giovanni L Violante"
+pub_year: 2014
+date: 2022-12-09
+modified: 2022-12-09
 ---
 
-# Consumption and labor supply with partial insurance: An analytical framework
 
 [AEA link](https://www.aeaweb.org/articles?id=10.1257/aer.104.7.2075)
 

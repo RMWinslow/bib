@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "A theory of disappointment aversion"
+pub_authors:
+  - "Faruk Gul"
+pub_year: 1991
+date: 2022-08-19
+modified: 2022-08-19
 ---
 
-# A theory of disappointment aversion
 
 [pdf link](http://www.princeton.edu/~fgul/g91.pdf)
 

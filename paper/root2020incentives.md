@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Incentives and Efficiency in Constrained Allocation Mechanisms"
+pub_authors:
+  - "Joseph Root"
+  - "David S Ahn"
+pub_year: 2020
+date: 2022-08-16
+modified: 2022-08-16
 ---
 
-# Incentives and Efficiency in Constrained Allocation Mechanisms
 
 [arxiv link](https://arxiv.org/abs/2006.06776)
 

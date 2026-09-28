@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "The macroeconomic impact of microeconomic shocks: Beyond Hulten's theorem"
+pub_authors:
+  - "David Rezza Baqaee"
+  - "Emmanuel Farhi"
+pub_year: 2019
+date: 2023-03-06
+modified: 2023-03-06
 ---
 
-# The macroeconomic impact of microeconomic shocks: Beyond Hulten's theorem
 
 [wiley link](https://onlinelibrary.wiley.com/doi/abs/10.3982/ecta15202?casa_token=i82lq4kvPvgAAAAA%3AeS3r0NFIcRxWkIiyqA4kLMtEfiDmiFdZYcvzV97cA3CV_vgd3TZhWZZ-ua71etsqzbxHbBe3kHFTpKg)
 

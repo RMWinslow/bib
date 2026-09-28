@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Statistical modeling: The two cultures (with comments and a rejoinder by the author)"
+pub_authors:
+  - "Leo Breiman"
+pub_year: 2001
+date: 2024-07-08
+modified: 2024-07-08
 ---
 
-# Statistical modeling: The two cultures
 
 [link at Project Euclid](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full)
 

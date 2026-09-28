@@ -1,8 +1,17 @@
 ---
-parent: Papers
+layout: bib
+title: "Income, liquidity, and the consumption response to the 2020 economic stimulus payments"
+pub_authors:
+  - "Scott R Baker"
+  - "Robert A Farrokhnia"
+  - "Steffen Meyer"
+  - "Michaela Pagel"
+  - "Constantine Yannelis"
+pub_year: 2020
+date: 2023-11-27
+modified: 2023-11-27
 ---
 
-# Income, liquidity, and the consumption response to the 2020 economic stimulus payments
 
 [NBER Link](https://www.nber.org/papers/w27097)
 

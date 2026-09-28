@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "COVID-19 is also a reallocation shock"
+pub_authors:
+  - "Jose Maria Barrero"
+  - "Nicholas Bloom"
+  - "Steven J Davis"
+pub_year: 2020
+date: 2022-11-30
+modified: 2022-11-30
 ---
 
-# COVID-19 is also a reallocation shock
 
 [NBER Link](https://www.nber.org/papers/w27137)
 

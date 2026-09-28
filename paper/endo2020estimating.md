@@ -1,8 +1,17 @@
 ---
-parent: Papers
+layout: bib
+title: "Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China"
+pub_authors:
+  - "Akira Endo"
+  - "Sam Abbott"
+  - "Adam J Kucharski"
+  - "Sebastian Funk"
+  - "others"
+pub_year: 2020
+date: 2022-08-17
+modified: 2022-08-17
 ---
 
-# Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China
 
 [PubMed html link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7338915/)
 

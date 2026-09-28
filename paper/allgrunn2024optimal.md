@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Optimal Timeout Choices in Clutch Situations in the NBA"
+pub_authors:
+  - "Michael Allgrunn"
+  - "Christopher Douglas"
+  - "Sebastian Wai"
+pub_year: 2024
+date: 2024-02-04
+modified: 2024-02-04
 ---
 
-# Optimal Timeout Choices in Clutch Situations in the NBA
 
 [SageJournals Link](https://journals.sagepub.com/doi/full/10.1177/15270025231217961)
 

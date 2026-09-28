@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Occupational characteristics and parents' childcare time"
+pub_authors:
+  - "Jennifer L Hook"
+  - "Leah Ruppanner"
+  - "Lynne M Casper"
+pub_year: 2022
+date: 2023-04-18
+modified: 2023-04-18
 ---
 
-# Occupational characteristics and parents' childcare time
 
 [html link](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12768)
 

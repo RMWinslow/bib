@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Meeting strangers and friends of friends: How random are social networks?"
+pub_authors:
+  - "Matthew O Jackson"
+  - "Brian W Rogers"
+pub_year: 2007
+date: 2022-08-18
+modified: 2022-08-18
 ---
 
-# Meeting strangers and friends of friends: How random are social networks?
 
 [aea link](https://www.aeaweb.org/articles?id=10.1257/aer.97.3.890)
 

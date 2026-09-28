@@ -1,8 +1,20 @@
 ---
-parent: Papers
+layout: bib
+title: "The US labor market during the beginning of the pandemic recession"
+pub_authors:
+  - "Tomaz Cajner"
+  - "Leland D Crane"
+  - "Ryan A Decker"
+  - "John Grigsby"
+  - "Adrian Hamins-Puertolas"
+  - "Erik Hurst"
+  - "Christopher Kurz"
+  - "Ahu Yildirmaz"
+pub_year: 2020
+date: 2023-11-27
+modified: 2023-11-27
 ---
 
-# The US labor market during the beginning of the pandemic recession
 
 [NBER PDF](https://www.nber.org/system/files/working_papers/w27159/w27159.pdf)
 

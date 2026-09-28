@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Production, information costs, and economic organization"
+pub_authors:
+  - "Armen A Alchian"
+  - "Harold Demsetz"
+pub_year: 1972
+date: 2024-07-23
+modified: 2024-07-23
 ---
 
-# Production, information costs, and economic organization
 
 [pdf link](https://www.aeaweb.org/aer/top20/62.5.777-795.pdf)
 

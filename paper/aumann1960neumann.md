@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Von Neumann-Morgenstern solutions to cooperative games without side payments"
+pub_authors:
+  - "Robert J Aumann"
+  - "Bezalel Peleg"
+pub_year: 1960
+date: 2022-08-17
+modified: 2022-08-19
 ---
 
-# Von Neumann-Morgenstern solutions to cooperative games without side payments
 
 PUT A LINK TO THE PAPER HERE
 

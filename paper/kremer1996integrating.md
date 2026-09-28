@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Integrating behavioral choice into epidemiological models of AIDS"
+pub_authors:
+  - "Michael Kremer"
+pub_year: 1996
+date: 2022-08-17
+modified: 2022-08-22
 ---
 
-# Integrating behavioral choice into epidemiological models of AIDS
 
 [QJE link](https://academic.oup.com/qje/article-abstract/111/2/549/1938412#no-access-message)
 

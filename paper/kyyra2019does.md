@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Does subsidized part-time employment help unemployed workers to find full-time employment?"
+pub_authors:
+  - "Tomi Kyyrä"
+  - "José M Arranz"
+  - "Carlos García-Serrano"
+pub_year: 2019
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# Does subsidized part-time employment help unemployed workers to find full-time employment?
 
 [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S092753711830126X)
 

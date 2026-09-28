@@ -1,8 +1,18 @@
 ---
-parent: Papers
+layout: bib
+title: "Who on earth can work from home?"
+pub_authors:
+  - "Daniel Garrote Sanchez"
+  - "Nicolas Gomez Parra"
+  - "Caglar Ozden"
+  - "Bob Rijkers"
+  - "Mariana Viollaz"
+  - "Hernan Winkler"
+pub_year: 2021
+date: 2022-11-30
+modified: 2022-11-30
 ---
 
-# Who on earth can work from home?
 
 [Web link](https://academic.oup.com/wbro/article/36/1/67/6158069)
 

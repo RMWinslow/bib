@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Unemployment insurance rules, joblessness, and part-time work"
+pub_authors:
+  - "Brian P McCall"
+pub_year: 1996
+date: 2023-08-14
+modified: 2023-08-14
 ---
 
-# Unemployment insurance rules, joblessness, and part-time work
 
 [https://www.jstor.org/stable/2171865](JSTOR link)
 

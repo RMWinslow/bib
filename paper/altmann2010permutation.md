@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "Permutation importance: a corrected feature importance measure"
+pub_authors:
+  - "André Altmann"
+  - "Laura Toloşi"
+  - "Oliver Sander"
+  - "Thomas Lengauer"
+pub_year: 2010
+date: 2024-07-08
+modified: 2024-07-08
 ---
 
-# Permutation importance: a corrected feature importance measure
 
 [html link](https://academic.oup.com/bioinformatics/article/26/10/1340/193348)
 

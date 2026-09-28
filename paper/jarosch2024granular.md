@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Granular search, market structure, and wages"
+pub_authors:
+  - "Gregor Jarosch"
+  - "Jan Sebastian Nimczik"
+  - "Isaac Sorkin"
+pub_year: 2024
+date: 2024-08-27
+modified: 2024-08-27
 ---
 
-# Granular search, market structure, and wages
 
 [pdf link](https://drive.google.com/file/d/18VDO4GcvZZdJbnv4pf_jNargum4rJAuR/view)
 [NBER link](https://www.nber.org/papers/w26239)

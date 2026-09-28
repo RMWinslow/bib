@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Increased food energy supply is more than sufficient to explain the US epidemic of obesity"
+pub_authors:
+  - "Boyd Swinburn"
+  - "Gary Sacks"
+  - "Eric Ravussin"
+pub_year: 2009
+date: 2023-05-23
+modified: 2023-05-23
 ---
 
-# Increased food energy supply is more than sufficient to explain the US epidemic of obesity
 
 [html link](https://academic.oup.com/ajcn/article/90/6/1453/4598059)
 

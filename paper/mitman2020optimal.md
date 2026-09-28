@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Optimal unemployment benefits in the pandemic"
+pub_authors:
+  - "Kurt Mitman"
+  - "Stanislav Rabinovich"
+pub_year: 2020
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# Optimal unemployment benefits in the pandemic
 
 [econstor pdf link](https://www.econstor.eu/bitstream/10419/223831/1/dp13389.pdf)
 

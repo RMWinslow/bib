@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "A unified approach to interpreting model predictions"
+pub_authors:
+  - "Scott M Lundberg"
+  - "Su-In Lee"
+pub_year: 2017
+date: 2024-07-12
+modified: 2024-09-28
 ---
 
-# A unified approach to interpreting model predictions
 
 [arxiv link](https://arxiv.org/abs/1705.07874)
 

@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "Modeling the consumption response to the CARES Act"
+pub_authors:
+  - "Christopher D Carroll"
+  - "Edmund Crawley"
+  - "Jiri Slacalek"
+  - "Matthew N White"
+pub_year: 2020
+date: 2023-11-05
+modified: 2023-11-05
 ---
 
-# Modeling the consumption response to the CARES Act
 
 [NBER link](https://www.nber.org/papers/w27876)
 

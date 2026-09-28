@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "The global rise of corporate saving"
+pub_authors:
+  - "Peter Chen"
+  - "Loukas Karabarbounis"
+  - "Brent Neiman"
+pub_year: 2017
+date: 2022-09-14
+modified: 2022-09-14
 ---
 
-# The global rise of corporate saving
 
 [Sciencedirect html link](https://www.sciencedirect.com/science/article/pii/S0304393217300284)
 

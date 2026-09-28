@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "The disease-induced herd immunity level for Covid-19 is substantially lower than the classical herd immunity level"
+pub_authors:
+  - "Tom Britton"
+  - "Frank Ball"
+  - "Pieter Trapman"
+pub_year: 2020
+date: 2022-08-17
+modified: 2022-08-17
 ---
 
-# The disease-induced herd immunity level for Covid-19 is substantially lower than the classical herd immunity level
 
 [arxiv link](https://arxiv.org/abs/2005.03085)
 

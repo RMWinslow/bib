@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Random forests"
+pub_authors:
+  - "Leo Breiman"
+pub_year: 2001
+date: 2024-07-08
+modified: 2024-07-08
 ---
 
-# Random forests
 
 [springer](https://link.springer.com/article/10.1023/A:1010933404324)
 

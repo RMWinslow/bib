@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Prices and Policies in Opioid Markets"
+pub_authors:
+  - "Casey B Mulligan"
+pub_year: 2021
+date: 2024-07-14
+modified: 2024-09-28
 ---
 
-# Prices and Policies in Opioid Markets
 
 [final version link](https://www.journals.uchicago.edu/doi/abs/10.1086/730381)
 

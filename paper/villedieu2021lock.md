@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "The Lock-in Effects of Part-time Unemployment Benefits"
+pub_authors:
+  - "Pierre Villedieu"
+  - "others"
+pub_year: 2021
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# The Lock-in Effects of Part-time Unemployment Benefits
 
 [pdf link](https://docs.iza.org/dp14189.pdf)
 

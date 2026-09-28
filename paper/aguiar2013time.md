@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Time use during the great recession"
+pub_authors:
+  - "Mark Aguiar"
+  - "Erik Hurst"
+  - "Loukas Karabarbounis"
+pub_year: 2013
+date: 2022-10-03
+modified: 2022-10-03
 ---
 
-# Time use during the great recession
 
 [AEA link](https://www.aeaweb.org/articles?id=10.1257/aer.103.5.1664)
 

@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "How does working from home during COVID-19 affect what managers do? Evidence from time-Use studies"
+pub_authors:
+  - "Thomaz Teodorovicz"
+  - "Raffaella Sadun"
+  - "Andrew L Kun"
+  - "Orit Shaer"
+pub_year: 2022
+date: 2023-02-04
+modified: 2023-02-04
 ---
 
-# How does working from home during COVID-19 affect what managers do? Evidence from time-Use studies
 
 [pdf link](https://www.hbs.edu/ris/Publication%20Files/22-020_bb4bfbef-0edc-4914-a771-e3daf393ba7a.pdf)
 

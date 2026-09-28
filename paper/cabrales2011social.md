@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Social interactions and spillovers"
+pub_authors:
+  - "Antonio Cabrales"
+  - "Antoni Calvó-Armengol"
+  - "Yves Zenou"
+pub_year: 2011
+date: 2025-02-01
+modified: 2025-02-01
 ---
 
-# Social interactions and spillovers
 
 [pdf from author's website](https://www.ucl.ac.uk/~uctpcab/research/synergies.pdf)
 

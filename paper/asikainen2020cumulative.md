@@ -1,8 +1,17 @@
 ---
-parent: Papers
+layout: bib
+title: "Cumulative effects of triadic closure and homophily in social networks"
+pub_authors:
+  - "Aili Asikainen"
+  - "Gerardo Iñiguez"
+  - "Javier Ureña-Carrión"
+  - "Kimmo Kaski"
+  - "Mikko Kivelä"
+pub_year: 2020
+date: 2022-08-18
+modified: 2022-08-18
 ---
 
-# Cumulative effects of triadic closure and homophily in social networks
 
 [open access html link](https://www.science.org/doi/10.1126/sciadv.aax7310#body-ref-R44)
 

@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "The role of trade costs in the surge of trade imbalances"
+pub_authors:
+  - "Ricardo Reyes-Heroles"
+  - "others"
+pub_year: 2016
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# The role of trade costs in the surge of trade imbalances
 
 [pdf link](http://rreyes-heroles.com/uploads/3/6/2/8/36287730/jmp_reyesheroles.pdf)
 

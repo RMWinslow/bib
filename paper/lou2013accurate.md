@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "Accurate intelligible models with pairwise interactions"
+pub_authors:
+  - "Yin Lou"
+  - "Rich Caruana"
+  - "Johannes Gehrke"
+  - "Giles Hooker"
+pub_year: 2013
+date: 2024-10-01
+modified: 2025-09-27
 ---
 
-# Accurate intelligible models with pairwise interactions
 
 [pdf link](https://dl.acm.org/doi/pdf/10.1145/2487575.2487579?casa_token=Vxg_1m8v63gAAAAA:GRRs0289rhOSxCPGU1Qm-MUGSxyW2CEA3Cniv-pY73h-GRTsSFoFQfuWmUz60JeruN1EBCb-MEc-oQ)
 

@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Market work, housework and childcare: A time use approach"
+pub_authors:
+  - "Emanuela Cardia"
+  - "Paul Gomme"
+pub_year: 2018
+date: 2022-09-19
+modified: 2022-09-19
 ---
 
-# Market work, housework and childcare: A time use approach
 
 PUT A LINK TO THE PAPER HERE
 

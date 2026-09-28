@@ -1,8 +1,17 @@
 ---
-parent: Papers
+layout: bib
+title: "Firming up inequality"
+pub_authors:
+  - "Jae Song"
+  - "David J Price"
+  - "Fatih Guvenen"
+  - "Nicholas Bloom"
+  - "Till Von Wachter"
+pub_year: 2019
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Firming up inequality
 
 [QJE html link](https://academic.oup.com/qje/article/134/1/1/5144785)
 

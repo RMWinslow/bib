@@ -1,8 +1,21 @@
 ---
-parent: Papers
+layout: bib
+title: "Large learning gains in pockets of extreme poverty: Experimental evidence from Guinea Bissau"
+pub_authors:
+  - "Ila Fazzio"
+  - "Alex Eble"
+  - "Robin L Lumsdaine"
+  - "Peter Boone"
+  - "Baboucarr Bouy"
+  - "Pei-Tseng Jenny Hsieh"
+  - "Chitra Jayanty"
+  - "Simon Johnson"
+  - "Ana Filipa Silva"
+pub_year: 2021
+date: 2023-12-10
+modified: 2023-12-10
 ---
 
-# Large learning gains in pockets of extreme poverty: Experimental evidence from Guinea Bissau
 
 [NBER link](https://www.nber.org/papers/w27799)
 

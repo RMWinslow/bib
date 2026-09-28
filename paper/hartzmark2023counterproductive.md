@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Counterproductive sustainable investing: The impact elasticity of brown and green firms"
+pub_authors:
+  - "Samuel M Hartzmark"
+  - "Kelly Shue"
+pub_year: 2023
+date: 2024-02-22
+modified: 2024-02-22
 ---
 
-# Counterproductive sustainable investing: The impact elasticity of brown and green firms
 
 [pdf link](https://www.q-group.org/resources/Jack%20Treynor%20Prize/COUNTERPRODUCTIVE%20SUSTAINABLE%20INVESTING.pdf)
 

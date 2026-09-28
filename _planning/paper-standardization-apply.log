@@ -1,0 +1,384 @@
+APPLY paper/_britton2020disease.md: 'The disease-induced herd immunity level for Covid-19 is substantially lower than the classical herd immunity level'; 2020; 3 authors; page 2022-08-17, modified 2022-08-17
+  REMOVE paper/_britton2020disease.md: # The disease-induced herd immunity level for Covid-19 is substantially lower than the classical herd immunity level
+APPLY paper/_tabarrok2000believe.md: "Believe in Pascal's wager? Have i got a deal for you!"; 2000; 2 authors; page 2022-08-16, modified 2022-08-16
+  REMOVE paper/_tabarrok2000believe.md: # Believe in Pascal's wager? Have i got a deal for you!
+APPLY paper/acemoglu2017social.md: 'Social norms and the enforcement of laws'; 2017; 2 authors; page 2023-09-20, modified 2023-09-20
+  REMOVE paper/acemoglu2017social.md: # Social norms and the enforcement of laws
+APPLY paper/aggarwal2025high.md: 'High-frequency location data show that race affects citations and fines for speeding'; 2025; 8 authors; page 2025-06-06, modified 2025-06-06
+  REMOVE paper/aggarwal2025high.md: # aggarwal2025high
+APPLY paper/aguiar2007measuring.md: 'Measuring trends in leisure: The allocation of time over five decades'; 2007; 2 authors; page 2023-02-04, modified 2023-02-04
+  REMOVE paper/aguiar2007measuring.md: # Measuring trends in leisure: The allocation of time over five decades
+APPLY paper/aguiar2013deconstructing.md: 'Deconstructing life cycle expenditure'; 2013; 2 authors; page 2023-02-19, modified 2023-02-19
+  REMOVE paper/aguiar2013deconstructing.md: # Deconstructing life cycle expenditure
+APPLY paper/aguiar2013time.md: 'Time use during the great recession'; 2013; 3 authors; page 2022-10-03, modified 2022-10-03
+  REMOVE paper/aguiar2013time.md: # Time use during the great recession
+APPLY paper/aguiar2021leisure.md: 'Leisure luxuries and the labor supply of young men'; 2021; 4 authors; page 2023-03-06, modified 2023-03-06
+  REMOVE paper/aguiar2021leisure.md: # Leisure luxuries and the labor supply of young men
+APPLY paper/ahlstrom2019gender.md: 'The gender gap in undergraduate economics course persistence and degree selection'; 2019; 2 authors; page 2023-11-27, modified 2023-11-27
+  REMOVE paper/ahlstrom2019gender.md: # The gender gap in undergraduate economics course persistence and degree selection
+APPLY paper/akerlof1978market.md: 'The market for �lemons�: Quality uncertainty and the market mechanism'; 1978; 1 authors; page 2022-08-17, modified 2022-08-17
+  REMOVE paper/akerlof1978market.md: # The Market for Lemons
+APPLY paper/alchian1972production.md: 'Production, information costs, and economic organization'; 1972; 2 authors; page 2024-07-23, modified 2024-07-23
+  REMOVE paper/alchian1972production.md: # Production, information costs, and economic organization
+APPLY paper/allgrunn2016shopping.md: 'Is shopping at walmart an inferior good? Evidence from 1997-2010'; 2016; 2 authors; page 2024-02-04, modified 2024-02-04
+  REMOVE paper/allgrunn2016shopping.md: # Is shopping at walmart an inferior good?
+APPLY paper/allgrunn2024optimal.md: 'Optimal Timeout Choices in Clutch Situations in the NBA'; 2024; 3 authors; page 2024-02-04, modified 2024-02-04
+  REMOVE paper/allgrunn2024optimal.md: # Optimal Timeout Choices in Clutch Situations in the NBA
+APPLY paper/alm2019motivates.md: 'What motivates tax compliance?'; 2019; 1 authors; page 2023-09-20, modified 2023-09-20
+  REMOVE paper/alm2019motivates.md: # What motivates tax compliance?
+APPLY paper/altmann2010permutation.md: 'Permutation importance: a corrected feature importance measure'; 2010; 4 authors; page 2024-07-08, modified 2024-07-08
+  REMOVE paper/altmann2010permutation.md: # Permutation importance: a corrected feature importance measure
+APPLY paper/amador2021bank.md: 'Bank runs, fragility, and credit easing'; 2021; 2 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/amador2021bank.md: # Bank runs, fragility, and credit easing
+APPLY paper/asgeirsdottir2015empirical.md: 'An empirical analysis of the demand for sleep: Evidence from the American Time Use Survey'; 2015; 2 authors; page 2023-02-23, modified 2023-02-24
+  REMOVE paper/asgeirsdottir2015empirical.md: # An empirical analysis of the demand for sleep: Evidence from the American Time Use Survey
+APPLY paper/asikainen2020cumulative.md: 'Cumulative effects of triadic closure and homophily in social networks'; 2020; 5 authors; page 2022-08-18, modified 2022-08-18
+  REMOVE paper/asikainen2020cumulative.md: # Cumulative effects of triadic closure and homophily in social networks
+APPLY paper/athey2019machine.md: 'Machine learning methods that economists should know about'; 2019; 2 authors; page 2023-05-25, modified 2023-05-25
+  REMOVE paper/athey2019machine.md: # Machine learning methods that economists should know about
+APPLY paper/atkeson2001phillips.md: 'Are Phillips curves useful for forecasting inflation?'; 2001; 3 authors; page 2025-06-30, modified 2025-06-30
+  REMOVE paper/atkeson2001phillips.md: # Are Phillips curves useful for forecasting inflation?
+APPLY paper/aumann1960neumann.md: 'Von Neumann-Morgenstern solutions to cooperative games without side payments'; 1960; 2 authors; page 2022-08-17, modified 2022-08-19
+  REMOVE paper/aumann1960neumann.md: # Von Neumann-Morgenstern solutions to cooperative games without side payments
+APPLY paper/backus2020productivity.md: 'Why is productivity correlated with competition?'; 2020; 1 authors; page 2024-10-20, modified 2024-10-27
+  REMOVE paper/backus2020productivity.md: # Why is productivity correlated with competition?
+APPLY paper/baker2020income.md: 'Income, liquidity, and the consumption response to the 2020 economic stimulus payments'; 2020; 5 authors; page 2023-11-27, modified 2023-11-27
+  REMOVE paper/baker2020income.md: # Income, liquidity, and the consumption response to the 2020 economic stimulus payments
+APPLY paper/bansal2006comparative.md: 'A comparative analysis of influenza vaccination programs'; 2006; 3 authors; page 2022-08-17, modified 2022-08-17
+  REMOVE paper/bansal2006comparative.md: # A comparative analysis of influenza vaccination programs
+APPLY paper/baqaee2019macroeconomic.md: "The macroeconomic impact of microeconomic shocks: Beyond Hulten's theorem"; 2019; 2 authors; page 2023-03-06, modified 2023-03-06
+  REMOVE paper/baqaee2019macroeconomic.md: # The macroeconomic impact of microeconomic shocks: Beyond Hulten's theorem
+APPLY paper/barrero2020covid.md: 'COVID-19 is also a reallocation shock'; 2020; 3 authors; page 2022-11-30, modified 2022-11-30
+  REMOVE paper/barrero2020covid.md: # COVID-19 is also a reallocation shock
+APPLY paper/barrero2021working.md: 'Why working from home will stick'; 2021; 3 authors; page 2022-11-30, modified 2022-11-30
+  REMOVE paper/barrero2021working.md: # Why working from home will stick
+APPLY paper/bartik2020measuring.md: 'Measuring the labor market at the onset of the COVID-19 crisis'; 2020; 5 authors; page 2023-11-27, modified 2023-11-27
+  REMOVE paper/bartik2020measuring.md: # Measuring the labor market at the onset of the COVID-19 crisis
+APPLY paper/becker1968crime.md: 'Crime and punishment: An economic approach'; 1968; 1 authors; page 2022-08-17, modified 2022-08-17
+  REMOVE paper/becker1968crime.md: # Crime and punishment: An economic approach
+APPLY paper/behrens2021working.md: 'Working from home: Too much of a good thing?'; 2021; 3 authors; page 2022-11-30, modified 2022-11-30
+  REMOVE paper/behrens2021working.md: # Working from home: Too much of a good thing?
+APPLY paper/bell2020analysis.md: 'An analysis of unemployment insurance claims in California during the COVID-19 pandemic'; 2020; 4 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/bell2020analysis.md: # An analysis of unemployment insurance claims in California during the COVID-19 pandemic
+APPLY paper/bianconi2014triadic.md: 'Triadic closure as a basic generating mechanism of communities in complex networks'; 2014; 4 authors; page 2022-08-18, modified 2022-08-18
+  REMOVE paper/bianconi2014triadic.md: # Triadic closure as a basic generating mechanism of communities in complex networks
+APPLY paper/bitler2015heterogeneity.md: 'Heterogeneity in the Impact of Economic Cycles and the Great Recession: Effects within and across the Income Distribution'; 2015; 2 authors; page 2024-05-29, modified 2024-05-29
+  REMOVE paper/bitler2015heterogeneity.md: # Heterogeneity in the Impact of Economic Cycles and the Great Recession: Effects within and across the Income Distribution
+APPLY paper/blanchet2022real.md: 'Real-time inequality'; 2022; 3 authors; page 2023-11-05, modified 2023-11-05
+  REMOVE paper/blanchet2022real.md: # Real-time inequality
+APPLY paper/bloom2014fluctuations.md: 'Fluctuations in uncertainty'; 2014; 1 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/bloom2014fluctuations.md: # Fluctuations in uncertainty
+APPLY paper/bloom2018really.md: 'Really uncertain business cycles'; 2018; 5 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/bloom2018really.md: # Really uncertain business cycles
+APPLY paper/bloom2022hybrid.md: 'How hybrid working from home works out'; 2022; 3 authors; page 2023-02-04, modified 2023-02-04
+  REMOVE paper/bloom2022hybrid.md: # How hybrid working from home works out
+APPLY paper/blundell2018children.md: 'Children, time allocation, and consumption insurance'; 2018; 3 authors; page 2023-04-10, modified 2023-04-10
+  REMOVE paper/blundell2018children.md: # Children, time allocation, and consumption insurance
+APPLY paper/boerma2021inferring.md: 'Inferring inequality with home production'; 2021; 2 authors; page 2022-09-16, modified 2022-09-17
+  REMOVE paper/boerma2021inferring.md: # Inferring inequality with home production
+APPLY paper/bonacini2021working.md: 'Working from home and income inequality: risks of a �new normal�with COVID-19'; 2021; 3 authors; page 2022-11-30, modified 2022-11-30
+  REMOVE paper/bonacini2021working.md: # Working from home and income inequality: risks of a �new normal�with COVID-19
+APPLY paper/breiman2001random.md: 'Random forests'; 2001; 1 authors; page 2024-07-08, modified 2024-07-08
+  REMOVE paper/breiman2001random.md: # Random forests
+APPLY paper/breiman2001statistical.md: 'Statistical modeling: The two cultures (with comments and a rejoinder by the author)'; 2001; 1 authors; page 2024-07-08, modified 2024-07-08
+  REMOVE paper/breiman2001statistical.md: # Statistical modeling: The two cultures
+APPLY paper/brinatti2021international.md: 'The international price of remote work'; 2021; 4 authors; page 2023-02-01, modified 2023-02-01
+  REMOVE paper/brinatti2021international.md: # The international price of remote work
+APPLY paper/brown2011family.md: 'Family law effects on divorce, fertility and child investment'; 2011; 3 authors; page 2024-10-22, modified 2024-10-22
+  REMOVE paper/brown2011family.md: # Family law effects on divorce, fertility and child investment
+APPLY paper/brynjolfsson2020covid.md: 'COVID-19 and remote work: An early look at US data'; 2020; 6 authors; page 2022-11-30, modified 2022-11-30
+  REMOVE paper/brynjolfsson2020covid.md: # COVID-19 and remote work: An early look at US data
+APPLY paper/burdin2016equality.md: 'Equality under threat by the talented: evidence from worker-managed firms'; 2016; 1 authors; page 2023-04-07, modified 2023-04-07
+  REMOVE paper/burdin2016equality.md: # Equality under threat by the talented: evidence from worker-managed firms
+APPLY paper/bursztyn2019cool.md: 'Cool to be smart or smart to be cool? Understanding peer pressure in education'; 2019; 3 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/bursztyn2019cool.md: # Cool to be smart or smart to be cool? Understanding peer pressure in education
+APPLY paper/cabrales2011social.md: 'Social interactions and spillovers'; 2011; 3 authors; page 2025-02-01, modified 2025-02-01
+  REMOVE paper/cabrales2011social.md: # Social interactions and spillovers
+APPLY paper/cajner2020us.md: 'The US labor market during the beginning of the pandemic recession'; 2020; 8 authors; page 2023-11-27, modified 2023-11-27
+  REMOVE paper/cajner2020us.md: # The US labor market during the beginning of the pandemic recession
+APPLY paper/caliendo2016earnings.md: 'Earnings exemptions for unemployed workers: The relationship between marginal employment, unemployment duration and job quality'; 2016; 3 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/caliendo2016earnings.md: # Earnings exemptions for unemployed workers: The relationship between marginal employment, unemployment duration and job quality
+APPLY paper/callaway2000network.md: 'Network robustness and fragility: Percolation on random graphs'; 2000; 4 authors; page 2025-02-01, modified 2025-02-01
+  REMOVE paper/callaway2000network.md: # Network robustness and fragility: Percolation on random graphs
+APPLY paper/cardia2018market.md: 'Market work, housework and childcare: A time use approach'; 2018; 2 authors; page 2022-09-19, modified 2022-09-19
+  REMOVE paper/cardia2018market.md: # Market work, housework and childcare: A time use approach
+APPLY paper/carrington1992assessment.md: 'An assessment of the hazards of lead in food'; 1992; 2 authors; page 2022-12-21, modified 2022-12-21
+  REMOVE paper/carrington1992assessment.md: # An assessment of the hazards of lead in food
+APPLY paper/carroll2020modeling.md: 'Modeling the consumption response to the CARES Act'; 2020; 4 authors; page 2023-11-05, modified 2023-11-05
+  REMOVE paper/carroll2020modeling.md: # Modeling the consumption response to the CARES Act
+APPLY paper/casado2020aggregate.md: 'The aggregate effects of fiscal stimulus: Evidence from the COVID-19 unemployment supplement'; 2020; 6 authors; page 2023-11-05, modified 2023-11-05
+  REMOVE paper/casado2020aggregate.md: # The aggregate effects of fiscal stimulus: Evidence from the COVID-19 unemployment supplement
+APPLY paper/chen2017global.md: 'The global rise of corporate saving'; 2017; 3 authors; page 2022-09-14, modified 2022-09-14
+  REMOVE paper/chen2017global.md: # The global rise of corporate saving
+APPLY paper/chetty2020economic.md: 'The economic impacts of COVID-19: Evidence from a new public database built using private sector data'; 2020; 4 authors; page 2023-11-02, modified 2023-11-02
+  REMOVE paper/chetty2020economic.md: # The economic impacts of COVID-19: Evidence from a new public database built using private sector data
+APPLY paper/cockx2013can.md: 'Can income support for part-time workers serve as a stepping-stone to regular jobs? An application to young long-term unemployed women'; 2013; 3 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/cockx2013can.md: # Can income support for part-time workers serve as a stepping-stone to regular jobs? An application to young long-term unemployed women
+APPLY paper/coombs2022early.md: 'Early withdrawal of pandemic unemployment insurance: Effects on employment and earnings'; 2022; 6 authors; page 2023-11-02, modified 2023-11-02
+  REMOVE paper/coombs2022early.md: # Early withdrawal of pandemic unemployment insurance: Effects on employment and earnings
+APPLY paper/cortes2023heterogeneous.md: 'Heterogeneous labor market impacts of the COVID-19 pandemic'; 2023; 2 authors; page 2023-11-02, modified 2023-11-02
+  REMOVE paper/cortes2023heterogeneous.md: # Heterogeneous labor market impacts of the COVID-19 pandemic
+APPLY paper/cox2020initial.md: 'Initial impacts of the pandemic on consumer behavior: Evidence from linked income, spending, and savings data'; 2020; 8 authors; page 2023-11-05, modified 2023-11-05
+  REMOVE paper/cox2020initial.md: # Initial impacts of the pandemic on consumer behavior: Evidence from linked income, spending, and savings data
+APPLY paper/david2013geography.md: 'The China syndrome: Local labor market effects of import competition in the United States'; 2013; 3 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/david2013geography.md: # The China syndrome: Local labor market effects of import competition in the United States
+APPLY paper/davis2021work.md: 'The work-from-home technology boon and its consequences'; 2021; 3 authors; page 2022-11-30, modified 2023-02-03
+  REMOVE paper/davis2021work.md: # The work-from-home technology boon and its consequences
+APPLY paper/dew2021real.md: 'Real-time forward-looking skewness over the business cycle'; 2021; 1 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/dew2021real.md: # Real-time forward-looking skewness over the business cycle
+APPLY paper/diamond1983bank.md: 'Bank runs, deposit insurance, and liquidity'; 1983; 2 authors; page 2023-03-14, modified 2023-03-14
+  REMOVE paper/diamond1983bank.md: # Bank runs, deposit insurance, and liquidity
+APPLY paper/dingel2020many.md: 'How many jobs can be done at home?'; 2020; 2 authors; page 2022-11-30, modified 2022-11-30
+  REMOVE paper/dingel2020many.md: # How many jobs can be done at home?
+APPLY paper/dube2021aggregate.md: 'Aggregate employment effects of unemployment benefits during deep downturns: Evidence from the expiration of the federal pandemic unemployment compensation'; 2021; 1 authors; page 2023-11-02, modified 2023-11-02
+  REMOVE paper/dube2021aggregate.md: # Aggregate employment effects of unemployment benefits during deep downturns: Evidence from the expiration of the federal pandemic unemployment compensation
+APPLY paper/eichenbaum2021macroeconomics.md: 'The macroeconomics of epidemics'; 2021; 3 authors; page 2022-08-17, modified 2022-08-17
+  REMOVE paper/eichenbaum2021macroeconomics.md: # The macroeconomics of epidemics
+APPLY paper/eissa2000explaining.md: 'Explaining the fall and rise in the tax cost of marriage: The effect of tax laws and demographic trends, 1984-97'; 2000; 2 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/eissa2000explaining.md: # Explaining the fall and rise in the tax cost of marriage: The effect of tax laws and demographic trends, 1984-97
+APPLY paper/ek2015part.md: 'Part-time unemployment and optimal unemployment insurance'; 2015; 2 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/ek2015part.md: # Part-time unemployment and optimal unemployment insurance
+APPLY paper/endo2020estimating.md: 'Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China'; 2020; 5 authors; page 2022-08-17, modified 2022-08-17
+  REMOVE paper/endo2020estimating.md: # Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China
+APPLY paper/farboodi2021internal.md: 'Internal and external effects of social distancing in a pandemic'; 2021; 3 authors; page 2022-08-17, modified 2022-08-17
+  REMOVE paper/farboodi2021internal.md: # Internal and external effects of social distancing in a pandemic
+APPLY paper/fazzio2021large.md: 'Large learning gains in pockets of extreme poverty: Experimental evidence from Guinea Bissau'; 2021; 9 authors; page 2023-12-10, modified 2023-12-10
+  REMOVE paper/fazzio2021large.md: # Large learning gains in pockets of extreme poverty: Experimental evidence from Guinea Bissau
+APPLY paper/fernandez2025charting.md: 'Charting the Uncharted: The (Un) Intended Consequences of Oil Sanctions and Dark Shipping'; 2025; 4 authors; page 2025-09-12, modified 2025-09-12
+APPLY paper/fisher2018all.md: 'All models are wrong but many are useful: Variable importance for black-box, proprietary, or misspecified prediction models, using model class reliance'; 2018; 3 authors; page 2024-07-08, modified 2024-07-08
+  REMOVE paper/fisher2018all.md: # All models are wrong but many are useful: Variable importance for black-box, proprietary, or misspecified prediction models, using model class reliance
+APPLY paper/fisher2018model.md: 'Model class reliance: Variable importance measures for any machine learning model class, from the �Rashomon� perspective'; 2018; 3 authors; page 2024-07-08, modified 2024-07-08
+  REMOVE paper/fisher2018model.md: # Model class reliance: Variable importance measures for any machine learning model class, from the �Rashomon� perspective
+APPLY paper/flinn2021firms.md: 'Firms� choices of wage-setting protocols'; 2021; 2 authors; page 2024-10-22, modified 2024-10-22
+  REMOVE paper/flinn2021firms.md: # Firms� choices of wage-setting protocols
+APPLY paper/forsythe2020labor.md: 'Labor demand in the time of COVID-19: Evidence from vacancy postings and UI claims'; 2020; 4 authors; page 2023-11-02, modified 2023-11-02
+  REMOVE paper/forsythe2020labor.md: # Labor demand in the time of COVID-19
+APPLY paper/frey2017future.md: 'The future of employment: How susceptible are jobs to computerisation?'; 2017; 2 authors; page 2025-06-29, modified 2025-06-29
+  REMOVE paper/frey2017future.md: # The future of employment: How susceptible are jobs to computerisation?
+APPLY paper/friedman2001greedy.md: 'Greedy function approximation: a gradient boosting machine'; 2001; 1 authors; page 2024-07-09, modified 2024-07-09
+  REMOVE paper/friedman2001greedy.md: # Greedy function approximation: a gradient boosting machine
+APPLY paper/friedman2008predictive.md: 'Predictive learning via rule ensembles'; 2008; 2 authors; page 2024-07-12, modified 2024-07-12
+  REMOVE paper/friedman2008predictive.md: # Predictive learning via rule ensembles
+APPLY paper/furman20181.md: 'A Firm-Level Perspective on the Role of Rents in the Rise in Inequality'; 2018; 2 authors; page 2022-08-19, modified 2022-08-19
+  REMOVE paper/furman20181.md: # A Firm-Level Perspective on the Role of Rents in the Rise in Inequality
+APPLY paper/ganong2019consumer.md: 'Consumer spending during unemployment: Positive and normative implications'; 2019; 2 authors; page 2023-11-02, modified 2023-11-02
+  REMOVE paper/ganong2019consumer.md: # Consumer spending during unemployment: Positive and normative implications
+APPLY paper/ganong2020us.md: 'US unemployment insurance replacement rates during the pandemic'; 2020; 3 authors; page 2023-05-23, modified 2023-05-23
+  REMOVE paper/ganong2020us.md: # US unemployment insurance replacement rates during the pandemic
+APPLY paper/ganong2022spending.md: 'Spending and Job-Finding Impacts of Expanded Unemployment Benefits: Evidence from Administrative Micro Data'; 2022; 5 authors; page 2023-01-22, modified 2023-08-23
+  REMOVE paper/ganong2022spending.md: # Spending and Job-Finding Impacts of Expanded Unemployment Benefits: Evidence from Administrative Micro Data
+APPLY paper/gao2020two.md: 'Two Illustrations of the Quantity Theory of Money Reloaded'; 2020; 4 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/gao2020two.md: # Two Illustrations of the Quantity Theory of Money Reloaded
+APPLY paper/garrote2021earth.md: 'Who on earth can work from home?'; 2021; 6 authors; page 2022-11-30, modified 2022-11-30
+  REMOVE paper/garrote2021earth.md: # Who on earth can work from home?
+APPLY paper/gelman2008scaling.md: 'Scaling regression inputs by dividing by two standard deviations'; 2008; 1 authors; page 2024-07-08, modified 2024-07-08
+  REMOVE paper/gelman2008scaling.md: # Scaling regression inputs by dividing by two standard deviations
+APPLY paper/gelman2012probability.md: 'What is the probability your vote will make a difference?'; 2012; 3 authors; page 2023-09-06, modified 2023-09-06
+  REMOVE paper/gelman2012probability.md: # What is the probability your vote will make a difference?
+APPLY paper/gerfin2005does.md: 'Does subsidised temporary employment get the unemployed back to work? An econometric analysis of two different schemes'; 2005; 3 authors; page 2023-08-21, modified 2023-08-21
+  REMOVE paper/gerfin2005does.md: # Does subsidised temporary employment get the unemployed back to work? An econometric analysis of two different schemes
+APPLY paper/gibson2014time.md: 'Time use and productivity: The wage returns to sleep'; 2014; 2 authors; page 2023-02-23, modified 2023-03-06
+  REMOVE paper/gibson2014time.md: # Time use and productivity: The wage returns to sleep
+APPLY paper/godoy2016unemployment.md: 'Unemployment insurance and underemployment'; 2016; 2 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/godoy2016unemployment.md: # Unemployment insurance and underemployment
+APPLY paper/gomes2022individual.md: 'Individual variation in susceptibility or exposure to SARS-CoV-2 lowers the herd immunity threshold'; 2022; 10 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/gomes2022individual.md: # Individual variation in susceptibility or exposure to SARS-CoV-2 lowers the herd immunity threshold
+APPLY paper/gregory2021alpha.md: 'The alpha beta gamma of the labor market'; 2021; 3 authors; page 2024-08-14, modified 2024-08-14
+  REMOVE paper/gregory2021alpha.md: # The alpha beta gamma of the labor market
+APPLY paper/guerrieri2022macroeconomic.md: 'Macroeconomic implications of COVID-19: Can negative supply shocks cause demand shortages?'; 2022; 4 authors; page 2023-11-05, modified 2023-11-05
+  REMOVE paper/guerrieri2022macroeconomic.md: # Macroeconomic implications of COVID-19: Can negative supply shocks cause demand shortages?
+APPLY paper/gul1991theory.md: 'A theory of disappointment aversion'; 1991; 1 authors; page 2022-08-19, modified 2022-08-19
+  REMOVE paper/gul1991theory.md: # A theory of disappointment aversion
+APPLY paper/guvenen2007learning.md: 'Learning your earning: Are labor income shocks really very persistent?'; 2007; 1 authors; page 2022-09-07, modified 2022-09-09
+APPLY paper/guvenen2014nature.md: 'The nature of countercyclical income risk'; 2014; 3 authors; page 2024-05-18, modified 2024-05-18
+  REMOVE paper/guvenen2014nature.md: # The Nature of Countercyclical Income Risk
+APPLY paper/guvenen2021data.md: 'What do data on millions of US workers reveal about lifecycle earnings dynamics?'; 2021; 4 authors; page 2022-09-07, modified 2022-09-09
+APPLY paper/hagedorn2017identifying.md: 'Identifying equilibrium models of labor market sorting'; 2017; 3 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/hagedorn2017identifying.md: # Identifying equilibrium models of labor market sorting
+APPLY paper/han2020inequality.md: 'Inequality in the joint distribution of consumption and time use'; 2020; 3 authors; page 2022-10-03, modified 2022-10-03
+  REMOVE paper/han2020inequality.md: # Inequality in the joint distribution of consumption and time use
+APPLY paper/hansen1992role.md: 'The role of unemployment insurance in an economy with liquidity constraints and moral hazard'; 1992; 2 authors; page 2023-07-03, modified 2023-07-03
+  REMOVE paper/hansen1992role.md: # The role of unemployment insurance in an economy with liquidity constraints and moral hazard
+APPLY paper/harrington2025has.md: 'Has the Rise of Work from Home Reduced the Motherhood Penalty in the Labor Market?'; 2025; 2 authors; page 2025-09-12, modified 2025-09-12
+APPLY paper/hartzmark2023counterproductive.md: 'Counterproductive sustainable investing: The impact elasticity of brown and green firms'; 2023; 2 authors; page 2024-02-22, modified 2024-02-22
+  REMOVE paper/hartzmark2023counterproductive.md: # Counterproductive sustainable investing: The impact elasticity of brown and green firms
+APPLY paper/heathcote2008insurance.md: 'Insurance and opportunities: A welfare analysis of labor market risk'; 2008; 3 authors; page 2022-11-30, modified 2022-11-30
+  REMOVE paper/heathcote2008insurance.md: # Insurance and opportunities: A welfare analysis of labor market risk
+APPLY paper/heathcote2014consumption.md: 'Consumption and labor supply with partial insurance: An analytical framework'; 2014; 3 authors; page 2022-12-09, modified 2022-12-09
+  REMOVE paper/heathcote2014consumption.md: # Consumption and labor supply with partial insurance: An analytical framework
+APPLY paper/heede2014tracing.md: 'Tracing anthropogenic carbon dioxide and methane emissions to fossil fuel and cement producers, 1854--2010'; 2014; 1 authors; page 2022-08-17, modified 2022-08-17
+  REMOVE paper/heede2014tracing.md: # Tracing anthropogenic carbon dioxide and methane emissions to fossil fuel and cement producers, 1854�2010
+APPLY paper/hellmann2020theory.md: 'A theory of voluntary testing and self-isolation in an ongoing pandemic'; 2020; 2 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/hellmann2020theory.md: # A theory of voluntary testing and self-isolation in an ongoing pandemic
+APPLY paper/henry2011emergence.md: 'Emergence of segregation in evolving social networks'; 2011; 3 authors; page 2022-08-18, modified 2022-08-18
+  REMOVE paper/henry2011emergence.md: # Emergence of segregation in evolving social networks
+APPLY paper/hoerl1970ridge.md: 'Ridge regression: Biased estimation for nonorthogonal problems'; 1970; 2 authors; page 2024-07-09, modified 2024-07-09
+  REMOVE paper/hoerl1970ridge.md: # Ridge regression: Biased estimation for nonorthogonal problems
+APPLY paper/holzer2021did.md: 'Did Pandemic Unemployment Benefits Reduce Employment? Evidence from Early State-Level Expirations in June 2021'; 2021; 3 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/holzer2021did.md: # Did Pandemic Unemployment Benefits Reduce Employment? Evidence from Early State-Level Expirations in June 2021
+APPLY paper/hook2022occupational.md: "Occupational characteristics and parents' childcare time"; 2022; 3 authors; page 2023-04-18, modified 2023-04-18
+  REMOVE paper/hook2022occupational.md: # Occupational characteristics and parents' childcare time
+APPLY paper/hooker2021unrestricted.md: 'Unrestricted permutation forces extrapolation: variable importance requires at least one more model, or there is no free variable importance'; 2021; 3 authors; page 2024-07-12, modified 2024-07-12
+  REMOVE paper/hooker2021unrestricted.md: # Unrestricted permutation forces extrapolation: variable importance requires at least one more model, or there is no free variable importance
+APPLY paper/hopenhayn1997optimal.md: 'Optimal unemployment insurance'; 1997; 2 authors; page 2023-05-19, modified 2023-05-19
+  REMOVE paper/hopenhayn1997optimal.md: # Optimal unemployment insurance
+APPLY paper/hoynes2012suffers.md: 'Who suffers during recessions?'; 2012; 3 authors; page 2024-05-28, modified 2024-05-28
+  REMOVE paper/hoynes2012suffers.md: # Who suffers during recessions?
+APPLY paper/jackson2007meeting.md: 'Meeting strangers and friends of friends: How random are social networks?'; 2007; 2 authors; page 2022-08-18, modified 2022-08-18
+  REMOVE paper/jackson2007meeting.md: # Meeting strangers and friends of friends: How random are social networks?
+APPLY paper/jadbabaie2012non.md: 'Non-Bayesian social learning'; 2012; 4 authors; page 2022-08-16, modified 2022-08-16
+  REMOVE paper/jadbabaie2012non.md: # Non-Bayesian social learning
+APPLY paper/jarosch2023searching.md: 'Searching for job security and the consequences of job loss'; 2023; 1 authors; page 2024-08-14, modified 2024-08-14
+  REMOVE paper/jarosch2023searching.md: # Searching for job security and the consequences of job loss
+APPLY paper/jarosch2024granular.md: 'Granular search, market structure, and wages'; 2024; 3 authors; page 2024-08-27, modified 2024-08-27
+  REMOVE paper/jarosch2024granular.md: # Granular search, market structure, and wages
+APPLY paper/kaji2020adversarial.md: 'An adversarial approach to structural estimation'; 2020; 3 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/kaji2020adversarial.md: # An adversarial approach to structural estimation
+APPLY paper/kanazawa2022displacement.md: 'Displacement effects of public libraries'; 2022; 2 authors; page 2023-10-31, modified 2023-10-31
+  REMOVE paper/kanazawa2022displacement.md: # Displacement effects of public libraries
+APPLY paper/kaplow2011optimal.md: 'On the optimal burden of proof'; 2011; 1 authors; page 2022-08-17, modified 2022-08-17
+  REMOVE paper/kaplow2011optimal.md: # On the optimal burden of proof
+APPLY paper/karger2020heterogeneity.md: 'Heterogeneity in the marginal propensity to consume: evidence from Covid-19 stimulus payments'; 2020; 2 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/karger2020heterogeneity.md: # Heterogeneity in the marginal propensity to consume: evidence from Covid-19 stimulus payments
+APPLY paper/kimbrough2019measuring.md: 'Measuring commuting in the american time use survey'; 2019; 1 authors; page 2022-11-30, modified 2023-01-22
+  REMOVE paper/kimbrough2019measuring.md: # Measuring commuting in the american time use survey
+APPLY paper/kleinberg2018human.md: 'Human decisions and machine predictions'; 2018; 5 authors; page 2022-07-22, modified 2022-08-17
+  REMOVE paper/kleinberg2018human.md: # Human Decisions and Machine Predictions
+APPLY paper/kline2010population.md: 'Population size predicts technological complexity in Oceania'; 2010; 2 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/kline2010population.md: # Population size predicts technological complexity in Oceania
+APPLY paper/kremer1996integrating.md: 'Integrating behavioral choice into epidemiological models of AIDS'; 1996; 1 authors; page 2022-08-17, modified 2022-08-22
+  REMOVE paper/kremer1996integrating.md: # Integrating behavioral choice into epidemiological models of AIDS
+APPLY paper/kremer1996wage.md: 'Wage inequality and segregation by skill'; 1996; 2 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/kremer1996wage.md: # Wage inequality and segregation by skill
+APPLY paper/kremer1998effect.md: 'The effect of changing sexual activity on HIV prevalence'; 1998; 2 authors; page 2022-08-16, modified 2022-08-22
+  REMOVE paper/kremer1998effect.md: # The effect of changing sexual activity on HIV prevalence
+APPLY paper/krueger2002labor.md: 'Labor supply effects of social insurance'; 2002; 2 authors; page 2023-11-05, modified 2023-11-05
+  REMOVE paper/krueger2002labor.md: # Labor supply effects of social insurance
+APPLY paper/krueger2010job.md: 'Job search and unemployment insurance: New evidence from time use data'; 2010; 2 authors; page 2023-11-02, modified 2023-11-02
+  REMOVE paper/krueger2010job.md: # Job search and unemployment insurance: New evidence from time use data
+APPLY paper/kyyra2010partial.md: 'Partial unemployment insurance benefits and the transition rate to regular work'; 2010; 1 authors; page 2023-08-14, modified 2023-08-14
+  REMOVE paper/kyyra2010partial.md: # Partial unemployment insurance benefits and the transition rate to regular work
+APPLY paper/kyyra2013effect.md: 'The effect of receiving supplementary UI benefits on unemployment duration'; 2013; 3 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/kyyra2013effect.md: # The effect of receiving supplementary UI benefits on unemployment duration
+APPLY paper/kyyra2019does.md: 'Does subsidized part-time employment help unemployed workers to find full-time employment?'; 2019; 3 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/kyyra2019does.md: # Does subsidized part-time employment help unemployed workers to find full-time employment?
+APPLY paper/langtry2023jmp.md: 'More connection, less community: network formation and local public goods provision'; 2025; 1 authors; page 2025-02-01, modified 2025-02-01
+  REMOVE paper/langtry2023jmp.md: # More connection, less community: network formation and local public goods provision
+APPLY paper/le2016optimal.md: 'Optimal partial unemployment insurance: Evidence from bunching in the US'; 2016; 1 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/le2016optimal.md: # Optimal partial unemployment insurance: Evidence from bunching in the US
+APPLY paper/lloyd2005superspreading.md: 'Superspreading and the effect of individual variation on disease emergence'; 2005; 4 authors; page 2022-08-17, modified 2022-08-19
+  REMOVE paper/lloyd2005superspreading.md: # Superspreading and the effect of individual variation on disease emergence
+APPLY paper/lou2012intelligible.md: 'Intelligible models for classification and regression'; 2012; 3 authors; page 2024-10-01, modified 2024-10-01
+  REMOVE paper/lou2012intelligible.md: # Intelligible models for classification and regression
+APPLY paper/lou2013accurate.md: 'Accurate intelligible models with pairwise interactions'; 2013; 4 authors; page 2024-10-01, modified 2025-09-27
+  REMOVE paper/lou2013accurate.md: # Accurate intelligible models with pairwise interactions
+APPLY paper/lundberg2017unified.md: 'A unified approach to interpreting model predictions'; 2017; 2 authors; page 2024-07-12, modified 2024-09-28
+  REMOVE paper/lundberg2017unified.md: # A unified approach to interpreting model predictions
+APPLY paper/lundberg2018consistent.md: 'Consistent individualized feature attribution for tree ensembles'; 2018; 3 authors; page 2024-07-12, modified 2024-07-12
+  REMOVE paper/lundberg2018consistent.md: # Consistent individualized feature attribution for tree ensembles
+APPLY paper/lyon2019quantifying.md: 'Quantifying the losses from international trade'; 2019; 2 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/lyon2019quantifying.md: # Quantifying the losses from international trade
+APPLY paper/marinescu2021impact.md: 'The impact of the federal pandemic unemployment compensation on job search and vacancy creation'; 2021; 3 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/marinescu2021impact.md: # The impact of the federal pandemic unemployment compensation on job search and vacancy creation
+APPLY paper/mastroianni2022things.md: 'Things could be better'; 2022; 2 authors; page 2022-11-27, modified 2022-11-27
+  REMOVE paper/mastroianni2022things.md: # Things could be better
+APPLY paper/maupin2011isomorphic.md: 'Isomorphic tessellations for musical keyboards'; 2011; 3 authors; page 2022-11-21, modified 2022-11-21
+  REMOVE paper/maupin2011isomorphic.md: # Isomorphic tessellations for musical keyboards
+APPLY paper/mccall1996unemployment.md: 'Unemployment insurance rules, joblessness, and part-time work'; 1996; 1 authors; page 2023-08-14, modified 2023-08-14
+  REMOVE paper/mccall1996unemployment.md: # Unemployment insurance rules, joblessness, and part-time work
+APPLY paper/mcgrattan1997equilibrium.md: 'An equilibrium model of the business cycle with household production and fiscal policy'; 1997; 3 authors; page 2022-09-19, modified 2022-09-19
+  REMOVE paper/mcgrattan1997equilibrium.md: # An equilibrium model of the business cycle with household production and fiscal policy
+APPLY paper/mcgraw2010benign.md: 'Benign violations: Making immoral behavior funny'; 2010; 2 authors; page 2022-09-22, modified 2022-09-22
+  REMOVE paper/mcgraw2010benign.md: # Benign violations: Making immoral behavior funny
+APPLY paper/mcmurray2015paradox.md: 'The paradox of information and voter turnout'; 2015; 1 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/mcmurray2015paradox.md: # The paradox of information and voter turnout
+APPLY paper/meyers2005network.md: 'Network theory and SARS: predicting outbreak diversity'; 2005; 5 authors; page 2022-08-17, modified 2022-08-22
+  REMOVE paper/meyers2005network.md: # Network theory and SARS: predicting outbreak diversity
+APPLY paper/mitman2020optimal.md: 'Optimal unemployment benefits in the pandemic'; 2020; 2 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/mitman2020optimal.md: # Optimal unemployment benefits in the pandemic
+APPLY paper/mossong2008social.md: 'Social contacts and mixing patterns relevant to the spread of infectious diseases'; 2008; 11 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/mossong2008social.md: # Social contacts and mixing patterns relevant to the spread of infectious diseases
+APPLY paper/mulligan2021prices.md: 'Prices and Policies in Opioid Markets'; 2021; 1 authors; page 2024-07-14, modified 2024-09-28
+  REMOVE paper/mulligan2021prices.md: # Prices and Policies in Opioid Markets
+APPLY paper/mullins2020structural.md: 'A structural meta-analysis of welfare reform experiments and their impacts on children'; 2020; 1 authors; page 2024-10-22, modified 2024-10-22
+  REMOVE paper/mullins2020structural.md: # A structural meta-analysis of welfare reform experiments and their impacts on children
+APPLY paper/myerson1998population.md: 'Population uncertainty and Poisson games'; 1998; 1 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/myerson1998population.md: # Population uncertainty and Poisson games
+APPLY paper/nekarda2013cyclical.md: 'The cyclical behavior of the price-cost markup'; 2013; 2 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/nekarda2013cyclical.md: # The cyclical behavior of the price-cost markup
+APPLY paper/newman2002spread.md: 'Spread of epidemic disease on networks'; 2002; 1 authors; page 2022-08-16, modified 2022-08-22
+  REMOVE paper/newman2002spread.md: # The spread of epidemic disease on networks
+APPLY paper/nicodemus2010behaviour.md: 'The behaviour of random forest permutation-based variable importance measures under predictor correlation'; 2010; 4 authors; page 2024-07-12, modified 2024-07-12
+  REMOVE paper/nicodemus2010behaviour.md: # The behaviour of random forest permutation-based variable importance measures under predictor correlation
+APPLY paper/nori2019interpretml.md: 'InterpretML: A Unified Framework for Machine Learning Interpretability'; 2019; 4 authors; page 2024-10-01, modified 2024-10-01
+  REMOVE paper/nori2019interpretml.md: # InterpretML: A Unified Framework for Machine Learning Interpretability
+APPLY paper/o2018prospects.md: 'Prospects for an ancient dynamo and modern crustal remanent magnetism on Venus'; 2018; 3 authors; page 2024-02-04, modified 2024-02-04
+  REMOVE paper/o2018prospects.md: # Prospects for an ancient dynamo and modern crustal remanent magnetism on Venus
+APPLY paper/pabilonia2022telework.md: 'Telework, wages, and time use in the United States'; 2022; 2 authors; page 2022-11-30, modified 2023-04-20
+  REMOVE paper/pabilonia2022telework.md: # Telework, wages, and time use in the United States
+APPLY paper/pavlov2013countercyclical.md: 'Countercyclical markups and news-driven business cycles'; 2013; 2 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/pavlov2013countercyclical.md: # Countercyclical markups and news-driven business cycles
+APPLY paper/pencavel2006wages.md: 'Wages, employment, and capital in capitalist and worker-owned firms'; 2006; 3 authors; page 2023-04-07, modified 2023-04-07
+  REMOVE paper/pencavel2006wages.md: # Wages, employment, and capital in capitalist and worker-owned firms
+APPLY paper/pourbohloul2005modeling.md: 'Modeling control strategies of respiratory pathogens'; 2005; 6 authors; page 2022-08-16, modified 2022-08-16
+  REMOVE paper/pourbohloul2005modeling.md: # Modeling control strategies of respiratory pathogens
+APPLY paper/ramey2009rug.md: 'The rug rat race'; 2009; 2 authors; page 2024-09-26, modified 2024-09-26
+  REMOVE paper/ramey2009rug.md: # The rug rat race
+APPLY paper/remer1995potential.md: 'Potential renal acid load of foods and its influence on urine pH'; 1995; 2 authors; page 2022-08-16, modified 2022-08-16
+  REMOVE paper/remer1995potential.md: # Potential Renal Acid Load of Foods and its Influence on Urine pH
+APPLY paper/restrepo2020effect.md: 'The effect of working from home on major time allocations with a focus on food-related activities'; 2020; 2 authors; page 2023-02-23, modified 2023-02-23
+  REMOVE paper/restrepo2020effect.md: # The effect of working from home on major time allocations with a focus on food-related activities
+APPLY paper/restrepo2022work.md: 'Work from home and daily time allocations: evidence from the coronavirus pandemic'; 2022; 2 authors; page 2023-02-17, modified 2023-02-17
+  REMOVE paper/restrepo2022work.md: # Work from home and daily time allocations: evidence from the coronavirus pandemic
+APPLY paper/reyes2016role.md: 'The role of trade costs in the surge of trade imbalances'; 2016; 2 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/reyes2016role.md: # The role of trade costs in the surge of trade imbalances
+APPLY paper/root2020incentives.md: 'Incentives and Efficiency in Constrained Allocation Mechanisms'; 2020; 2 authors; page 2022-08-16, modified 2022-08-16
+  REMOVE paper/root2020incentives.md: # Incentives and Efficiency in Constrained Allocation Mechanisms
+APPLY paper/saez2010taxpayers.md: 'Do taxpayers bunch at kink points?'; 2010; 1 authors; page 2023-05-17, modified 2023-05-17
+  REMOVE paper/saez2010taxpayers.md: # Do taxpayers bunch at kink points?
+APPLY paper/sahin2002unemployment.md: 'Unemployment insurance and the role of self-insurance'; 2002; 3 authors; page 2023-05-09, modified 2023-05-16
+  REMOVE paper/sahin2002unemployment.md: # Unemployment insurance and the role of self-insurance
+APPLY paper/sandberg2018dissolving.md: 'Dissolving the Fermi paradox'; 2018; 3 authors; page 2022-08-16, modified 2022-08-16
+  REMOVE paper/sandberg2018dissolving.md: # Dissolving the Fermi paradox
+APPLY paper/santacreu2023determines.md: 'What Determines State Heterogeneity in Response to US Tariff Changes?'; 2023; 3 authors; page 2025-09-12, modified 2025-09-12
+APPLY paper/schelling1971dynamic.md: 'Dynamic models of segregation'; 1971; 1 authors; page 2022-08-18, modified 2022-08-18
+  REMOVE paper/schelling1971dynamic.md: # Dynamic models of segregation
+APPLY paper/sen1977starvation.md: 'Starvation and exchange entitlements: a general approach and its application to the Great Bengal Famine'; 1977; 1 authors; page 2023-08-12, modified 2023-08-12
+  REMOVE paper/sen1977starvation.md: # Starvation and exchange entitlements: a general approach and its application to the Great Bengal Famine
+APPLY paper/sharapov2021using.md: 'Using the SHAPLEY value approach to variance decomposition in strategy research: Diversification, internationalization, and corporate group effects on affiliate profitability'; 2021; 4 authors; page 2024-09-28, modified 2024-09-28
+  REMOVE paper/sharapov2021using.md: # Using the SHAPLEY value approach to variance decomposition in strategy research
+APPLY paper/sharma2023assembly.md: 'Assembly theory explains and quantifies selection and evolution'; 2023; 6 authors; page 2023-10-23, modified 2023-10-23
+  REMOVE paper/sharma2023assembly.md: # Assembly theory explains and quantifies selection and evolution
+APPLY paper/shimer2008probability.md: 'The probability of finding a job'; 2008; 1 authors; page 2024-07-12, modified 2024-07-12
+  REMOVE paper/shimer2008probability.md: # The probability of finding a job
+APPLY paper/shimer2012reassessing.md: 'Reassessing the ins and outs of unemployment'; 2012; 1 authors; page 2023-11-05, modified 2023-11-05
+  REMOVE paper/shimer2012reassessing.md: # Reassessing the ins and outs of unemployment
+APPLY paper/siegel2018judicial.md: 'Judicial mechanism design'; 2018; 2 authors; page 2022-08-17, modified 2022-08-17
+  REMOVE paper/siegel2018judicial.md: # Judicial mechanism design
+APPLY paper/song2019firming.md: 'Firming up inequality'; 2019; 5 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/song2019firming.md: # Firming up inequality
+APPLY paper/stone1974cross.md: 'Cross-validatory choice and assessment of statistical predictions'; 1974; 1 authors; page 2024-07-09, modified 2024-07-14
+  REMOVE paper/stone1974cross.md: # Cross-validatory choice and assessment of statistical predictions
+APPLY paper/stutzer2008stress.md: "Stress that doesn't pay: The commuting paradox"; 2008; 2 authors; page 2022-11-30, modified 2023-04-19
+  REMOVE paper/stutzer2008stress.md: # Stress that Doesn't Pay: The Commuting Paradox
+APPLY paper/swinburn2009increased.md: 'Increased food energy supply is more than sufficient to explain the US epidemic of obesity'; 2009; 3 authors; page 2023-05-23, modified 2023-05-23
+  REMOVE paper/swinburn2009increased.md: # Increased food energy supply is more than sufficient to explain the US epidemic of obesity
+APPLY paper/teodorovicz2022does.md: 'How does working from home during COVID-19 affect what managers do? Evidence from time-Use studies'; 2022; 4 authors; page 2023-02-04, modified 2023-02-04
+  REMOVE paper/teodorovicz2022does.md: # How does working from home during COVID-19 affect what managers do? Evidence from time-Use studies
+APPLY paper/tibshirani1996regression.md: 'Regression shrinkage and selection via the lasso'; 1996; 1 authors; page 2024-07-09, modified 2024-07-09
+  REMOVE paper/tibshirani1996regression.md: # Regression shrinkage and selection via the lasso
+APPLY paper/townsend1979optimal.md: 'Optimal contracts and competitive markets with costly state verification'; 1979; 1 authors; page 2022-08-17, modified 2022-08-17
+  REMOVE paper/townsend1979optimal.md: # Optimal contracts and competitive markets with costly state verification
+APPLY paper/villedieu2021lock.md: 'The Lock-in Effects of Part-time Unemployment Benefits'; 2021; 2 authors; page 2023-11-12, modified 2023-11-12
+  REMOVE paper/villedieu2021lock.md: # The Lock-in Effects of Part-time Unemployment Benefits
+APPLY paper/vollset2020fertility.md: 'Fertility, mortality, migration, and population scenarios for 195 countries and territories from 2017 to 2100: a forecasting analysis for the Global Burden of Disease Study'; 2020; 11 authors; page 2022-08-22, modified 2022-08-22
+  REMOVE paper/vollset2020fertility.md: # Fertility, mortality, migration, and population scenarios for 195 countries and territories from 2017 to 2100: a forecasting analysis for the Global Burden of Disease Study
+APPLY paper/waldfogel2017digitization.md: 'How digitization has created a golden age of music, movies, books, and television'; 2017; 1 authors; page 2022-08-17, modified 2022-08-17
+  REMOVE paper/waldfogel2017digitization.md: # How digitization has created a golden age of music
+APPLY paper/wiltshire2023high.md: 'High Minimum Wages and the Monopsony Puzzle'; 2023; 3 authors; page 2023-05-18, modified 2023-05-18
+  REMOVE paper/wiltshire2023high.md: # High Minimum Wages and the Monopsony Puzzle
+APPLY paper/yagan2019employment.md: 'Employment hysteresis from the great recession'; 2019; 1 authors; page 2023-11-05, modified 2023-11-05
+  REMOVE paper/yagan2019employment.md: # Employment hysteresis from the great recession
+APPLY paper/zaefarian2022variance.md: 'Variance decomposition analysis: What is it and how to perform it--A complete guide for B2B researchers'; 2022; 3 authors; page 2024-09-28, modified 2024-09-28
+  REMOVE paper/zaefarian2022variance.md: # Variance decomposition analysis: What is it and how to perform it
+Summary: 194 pages; 0 already standard; 194 ready; 0 need review; 194 changed

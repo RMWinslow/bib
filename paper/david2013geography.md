@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "The China syndrome: Local labor market effects of import competition in the United States"
+pub_authors:
+  - "H David"
+  - "David Dorn"
+  - "Gordon H Hanson"
+pub_year: 2013
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# The China syndrome: Local labor market effects of import competition in the United States
 
 [AEA link](https://www.aeaweb.org/articles?id=10.1257/aer.103.6.2121)
 

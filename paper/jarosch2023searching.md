@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Searching for job security and the consequences of job loss"
+pub_authors:
+  - "Gregor Jarosch"
+pub_year: 2023
+date: 2024-08-14
+modified: 2024-08-14
 ---
 
-# Searching for job security and the consequences of job loss
 
 [pdf link](https://drive.google.com/file/d/1FY7BCJxaQTbMpd9nOdTM3vwVdMgac8sN/view)
 [alt (wiley)](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA14008?casa_token=UjE-g2hsNzIAAAAA%3AdXqaHzoPH0CMfDC_2xLSULxzDCT9RA2WTsd39V4JkGFgIu7GWsU-S49mDQejgxw-C4iQKw0GVbSmiBWm)

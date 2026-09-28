@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Equality under threat by the talented: evidence from worker-managed firms"
+pub_authors:
+  - "Gabriel Burdín"
+pub_year: 2016
+date: 2023-04-07
+modified: 2023-04-07
 ---
 
-# Equality under threat by the talented: evidence from worker-managed firms
 
 [html link](https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12272)
 

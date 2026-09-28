@@ -1,0 +1,38 @@
+# Reviewed exceptions for the 2026-09-27 paper-page migration.
+# The named H1 is removed; the full BibTeX title becomes the displayed title.
+paper/aggarwal2025high.md:
+  heading: "aggarwal2025high"
+  use_bibtex_title: true
+paper/akerlof1978market.md:
+  heading: "The Market for Lemons"
+  use_bibtex_title: true
+paper/allgrunn2016shopping.md:
+  heading: "Is shopping at walmart an inferior good?"
+  use_bibtex_title: true
+paper/breiman2001statistical.md:
+  heading: "Statistical modeling: The two cultures"
+  use_bibtex_title: true
+paper/forsythe2020labor.md:
+  heading: "Labor demand in the time of COVID-19"
+  use_bibtex_title: true
+paper/newman2002spread.md:
+  heading: "The spread of epidemic disease on networks"
+  use_bibtex_title: true
+paper/sharapov2021using.md:
+  heading: "Using the SHAPLEY value approach to variance decomposition in strategy research"
+  use_bibtex_title: true
+paper/waldfogel2017digitization.md:
+  heading: "How digitization has created a golden age of music"
+  use_bibtex_title: true
+paper/zaefarian2022variance.md:
+  heading: "Variance decomposition analysis: What is it and how to perform it"
+  use_bibtex_title: true
+
+# This page originally had no BibTeX entry. Metadata was checked against the
+# author's research page and arXiv:2504.06872. A BibTeX entry was added later.
+paper/langtry2023jmp.md:
+  metadata:
+    title: "More connection, less community: network formation and local public goods provision"
+    pub_authors:
+      - "Alastair Langtry"
+    pub_year: 2025

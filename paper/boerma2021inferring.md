@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Inferring inequality with home production"
+pub_authors:
+  - "Job Boerma"
+  - "Loukas Karabarbounis"
+pub_year: 2021
+date: 2022-09-16
+modified: 2022-09-17
 ---
 
-# Inferring inequality with home production
 
 [Wiley Online html link](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA15966)
 

@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "A comparative analysis of influenza vaccination programs"
+pub_authors:
+  - "Shweta Bansal"
+  - "Babak Pourbohloul"
+  - "Lauren Ancel Meyers"
+pub_year: 2006
+date: 2022-08-17
+modified: 2022-08-17
 ---
 
-# A comparative analysis of influenza vaccination programs
 
 [plos html link](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0030387)
 

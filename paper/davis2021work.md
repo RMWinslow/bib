@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "The work-from-home technology boon and its consequences"
+pub_authors:
+  - "Morris A Davis"
+  - "Andra C Ghent"
+  - "Jesse M Gregory"
+pub_year: 2021
+date: 2022-11-30
+modified: 2023-02-03
 ---
 
-# The work-from-home technology boon and its consequences
 
 [NBER link](https://www.nber.org/papers/w28461)
 

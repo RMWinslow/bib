@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Unrestricted permutation forces extrapolation: variable importance requires at least one more model, or there is no free variable importance"
+pub_authors:
+  - "Giles Hooker"
+  - "Lucas Mentch"
+  - "Siyu Zhou"
+pub_year: 2021
+date: 2024-07-12
+modified: 2024-07-12
 ---
 
-# Unrestricted permutation forces extrapolation: variable importance requires at least one more model, or there is no free variable importance
 
 [Springer Link](https://link.springer.com/article/10.1007/s11222-021-10057-z)
 

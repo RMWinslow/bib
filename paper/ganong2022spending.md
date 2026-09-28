@@ -1,8 +1,17 @@
 ---
-parent: Papers
+layout: bib
+title: "Spending and Job-Finding Impacts of Expanded Unemployment Benefits: Evidence from Administrative Micro Data"
+pub_authors:
+  - "Peter Ganong"
+  - "Fiona E Greig"
+  - "Pascal J Noel"
+  - "Daniel M Sullivan"
+  - "Joseph S Vavra"
+pub_year: 2022
+date: 2023-01-22
+modified: 2023-08-23
 ---
 
-# Spending and Job-Finding Impacts of Expanded Unemployment Benefits: Evidence from Administrative Micro Data
 
 [NBER link](https://www.nber.org/papers/w30315)
 

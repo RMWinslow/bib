@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Are Phillips curves useful for forecasting inflation?"
+pub_authors:
+  - "Andrew Atkeson"
+  - "Lee E Ohanian"
+  - "others"
+pub_year: 2001
+date: 2025-06-30
+modified: 2025-06-30
 ---
 
-# Are Phillips curves useful for forecasting inflation?
 
 [link to article at minneapolis fed](https://www.minneapolisfed.org/research/quarterly-review/are-phillips-curves-useful-for-forecasting-inflation)
 

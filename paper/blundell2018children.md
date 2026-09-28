@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Children, time allocation, and consumption insurance"
+pub_authors:
+  - "Richard Blundell"
+  - "Luigi Pistaferri"
+  - "Itay Saporta-Eksten"
+pub_year: 2018
+date: 2023-04-10
+modified: 2023-04-10
 ---
 
-# Children, time allocation, and consumption insurance
 
 [html link](https://www.journals.uchicago.edu/doi/10.1086/698752)
 

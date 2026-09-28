@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Social norms and the enforcement of laws"
+pub_authors:
+  - "Daron Acemoglu"
+  - "Matthew O Jackson"
+pub_year: 2017
+date: 2023-09-20
+modified: 2023-09-20
 ---
 
-# Social norms and the enforcement of laws
 
 [link](https://academic.oup.com/jeea/article-abstract/15/2/245/2884553)
 

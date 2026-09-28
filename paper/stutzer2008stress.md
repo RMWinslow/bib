@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Stress that doesn't pay: The commuting paradox"
+pub_authors:
+  - "Alois Stutzer"
+  - "Bruno S Frey"
+pub_year: 2008
+date: 2022-11-30
+modified: 2023-04-19
 ---
 
-# Stress that Doesn't Pay: The Commuting Paradox
 
 [Wiley Link](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9442.2008.00542.x)
 

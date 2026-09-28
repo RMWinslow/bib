@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Dynamic models of segregation"
+pub_authors:
+  - "Thomas C Schelling"
+pub_year: 1971
+date: 2022-08-18
+modified: 2022-08-18
 ---
 
-# Dynamic models of segregation
 
 [pdf link](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-68cb-72db-ffff-ffffff8071db/04.02%7B_%7Dschelling%7B_%7D71.pdf)
 

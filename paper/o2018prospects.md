@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Prospects for an ancient dynamo and modern crustal remanent magnetism on Venus"
+pub_authors:
+  - "Joseph G O'Rourke"
+  - "Cédric Gillmann"
+  - "Paul Tackley"
+pub_year: 2018
+date: 2024-02-04
+modified: 2024-02-04
 ---
 
-# Prospects for an ancient dynamo and modern crustal remanent magnetism on Venus
 
 [ScienceDirect link](https://www.sciencedirect.com/science/article/abs/pii/S0012821X18305211)
 

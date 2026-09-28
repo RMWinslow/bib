@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Partial unemployment insurance benefits and the transition rate to regular work"
+pub_authors:
+  - "Tomi Kyyrä"
+pub_year: 2010
+date: 2023-08-14
+modified: 2023-08-14
 ---
 
-# Partial unemployment insurance benefits and the transition rate to regular work
 
 [ScienceDirect html link](https://www.sciencedirect.com/science/article/abs/pii/S0014292110000280)
 

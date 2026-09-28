@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Unemployment insurance and the role of self-insurance"
+pub_authors:
+  - "Atila Abdulkadiroğlu"
+  - "Burhanettin Kuruşçu"
+  - "Ayşegül Şahin"
+pub_year: 2002
+date: 2023-05-09
+modified: 2023-05-16
 ---
 
-# Unemployment insurance and the role of self-insurance
 
 [pdf link](https://academiccommons.columbia.edu/doi/10.7916/D83X8JS7/download)
 

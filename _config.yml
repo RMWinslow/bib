@@ -4,6 +4,19 @@ author: Robert Winslow
 remote_theme: RMWinslow/JTD-RMW
 search_enabled: true
 math: katex
+exclude:
+  - scripts/
+  - tests/
+  - CLAUDE.md
+  - AGENTS.md
+
+defaults:
+  - scope:
+      path: "paper"
+      type: "pages"
+    values:
+      parent: Papers
+      nav_exclude: true
 
 compress_html:
   ignore:

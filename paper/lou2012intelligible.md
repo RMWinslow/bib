@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Intelligible models for classification and regression"
+pub_authors:
+  - "Yin Lou"
+  - "Rich Caruana"
+  - "Johannes Gehrke"
+pub_year: 2012
+date: 2024-10-01
+modified: 2024-10-01
 ---
 
-# Intelligible models for classification and regression
 
 [pdf link](https://dl.acm.org/doi/pdf/10.1145/2339530.2339556?casa_token=-4ZimIeLvQAAAAAA:UPxn4ffbR3gq1YJ3Im0KK4LmCtU3cwZljPnLlVfGVHY4mUnLN81t27CIZTQ0aSkVYpRrygPmw6hLEg)
 

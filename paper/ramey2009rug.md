@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "The rug rat race"
+pub_authors:
+  - "Garey Ramey"
+  - "Valerie A Ramey"
+pub_year: 2009
+date: 2024-09-26
+modified: 2024-09-26
 ---
 
-# The rug rat race
 
 [NBER Link](https://www.nber.org/papers/w15284)
 

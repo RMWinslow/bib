@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Optimal partial unemployment insurance: Evidence from bunching in the US"
+pub_authors:
+  - "Thomas Le Barbanchon"
+pub_year: 2016
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# Optimal partial unemployment insurance: Evidence from bunching in the US
 
 [pdf link](https://siecon3-607788.c.cdn77.org/sites/siecon.org/files/media_wysiwyg/lebarbanchon.pdf)
 

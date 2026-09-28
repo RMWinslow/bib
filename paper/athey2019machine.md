@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Machine learning methods that economists should know about"
+pub_authors:
+  - "Susan Athey"
+  - "Guido W Imbens"
+pub_year: 2019
+date: 2023-05-25
+modified: 2023-05-25
 ---
 
-# Machine learning methods that economists should know about
 
 [html link](https://www.annualreviews.org/doi/full/10.1146/annurev-economics-080217-053433)
 

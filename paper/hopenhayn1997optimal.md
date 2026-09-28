@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Optimal unemployment insurance"
+pub_authors:
+  - "Hugo A Hopenhayn"
+  - "Juan Pablo Nicolini"
+pub_year: 1997
+date: 2023-05-19
+modified: 2023-05-19
 ---
 
-# Optimal unemployment insurance
 
 [link](https://www.journals.uchicago.edu/doi/abs/10.1086/262078?casa_token=P5MAbZEzOMUAAAAA:m57thXoRwoiUbOXc6FkIoAAIrDntRRAA-uxHFn73EuInIzXfRRTGmlSmvhbP5W5vaUi9TLiSqpo)
 

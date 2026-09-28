@@ -1,8 +1,18 @@
 ---
-parent: Papers
+layout: bib
+title: "Assembly theory explains and quantifies selection and evolution"
+pub_authors:
+  - "Abhishek Sharma"
+  - "Dániel Czégel"
+  - "Michael Lachmann"
+  - "Christopher P Kempes"
+  - "Sara I Walker"
+  - "Leroy Cronin"
+pub_year: 2023
+date: 2023-10-23
+modified: 2023-10-23
 ---
 
-# Assembly theory explains and quantifies selection and evolution
 
 [Nature html](https://www.nature.com/articles/s41586-023-06600-9)
 

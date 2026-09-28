@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "High Minimum Wages and the Monopsony Puzzle"
+pub_authors:
+  - "Justin C Wiltshire"
+  - "McPherson Carl"
+  - "Reich Michael"
+pub_year: 2023
+date: 2023-05-18
+modified: 2023-05-18
 ---
 
-# High Minimum Wages and the Monopsony Puzzle
 
 [working paper](https://irle.berkeley.edu/wp-content/uploads/2023/05/High-Minimum-Wages-and-the-Monopsony-Puzzle.pdf)
 

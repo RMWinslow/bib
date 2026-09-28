@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Reassessing the ins and outs of unemployment"
+pub_authors:
+  - "Robert Shimer"
+pub_year: 2012
+date: 2023-11-05
+modified: 2023-11-05
 ---
 
-# Reassessing the ins and outs of unemployment
 
 [NBER link](https://www.nber.org/papers/w13421)
 

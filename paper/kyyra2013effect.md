@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "The effect of receiving supplementary UI benefits on unemployment duration"
+pub_authors:
+  - "Tomi Kyyrä"
+  - "Pierpaolo Parrotta"
+  - "Michael Rosholm"
+pub_year: 2013
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# The effect of receiving supplementary UI benefits on unemployment duration
 
 [ScienceDirect link](https://www.sciencedirect.com/science/article/pii/S0927537113000158?via%3Dihub)
 

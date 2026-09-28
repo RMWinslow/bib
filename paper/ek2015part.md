@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Part-time unemployment and optimal unemployment insurance"
+pub_authors:
+  - "Susanne Ek"
+  - "Bertil Holmlund"
+pub_year: 2015
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# Part-time unemployment and optimal unemployment insurance
 
 [econstor pdf](https://www.econstor.eu/bitstream/10419/82607/1/653681291.pdf)
 

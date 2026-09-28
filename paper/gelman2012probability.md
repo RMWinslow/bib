@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "What is the probability your vote will make a difference?"
+pub_authors:
+  - "Andrew Gelman"
+  - "Nate Silver"
+  - "Aaron Edlin"
+pub_year: 2012
+date: 2023-09-06
+modified: 2023-09-06
 ---
 
-# What is the probability your vote will make a difference?
 
 [pdf link](http://www.stat.columbia.edu/~gelman/research/published/probdecisive2.pdf)
 

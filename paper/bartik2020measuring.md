@@ -1,8 +1,17 @@
 ---
-parent: Papers
+layout: bib
+title: "Measuring the labor market at the onset of the COVID-19 crisis"
+pub_authors:
+  - "Alexander W Bartik"
+  - "Marianne Bertrand"
+  - "Feng Lin"
+  - "Jesse Rothstein"
+  - "Matt Unrath"
+pub_year: 2020
+date: 2023-11-27
+modified: 2023-11-27
 ---
 
-# Measuring the labor market at the onset of the COVID-19 crisis
 
 [NBER link](https://www.nber.org/papers/w27613)
 

@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "InterpretML: A Unified Framework for Machine Learning Interpretability"
+pub_authors:
+  - "Harsha Nori"
+  - "Samuel Jenkins"
+  - "Paul Koch"
+  - "Rich Caruana"
+pub_year: 2019
+date: 2024-10-01
+modified: 2024-10-01
 ---
 
-# InterpretML: A Unified Framework for Machine Learning Interpretability
 
 [arxiv pdf](https://arxiv.org/pdf/1909.09223),
 [github repo](https://github.com/interpretml/interpret)

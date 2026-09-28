@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "The economic impacts of COVID-19: Evidence from a new public database built using private sector data"
+pub_authors:
+  - "Raj Chetty"
+  - "John N Friedman"
+  - "Michael Stepner"
+  - "The Opportunity Insights Team"
+pub_year: 2020
+date: 2023-11-02
+modified: 2023-11-02
 ---
 
-# The economic impacts of COVID-19: Evidence from a new public database built using private sector data
 
 [NBER link](https://www.nber.org/papers/w27431),
 [Webpage with info about paper (2023 version)](https://opportunityinsights.org/paper/tracker/),

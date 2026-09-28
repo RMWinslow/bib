@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Inequality in the joint distribution of consumption and time use"
+pub_authors:
+  - "Jeehoon Han"
+  - "Bruce D Meyer"
+  - "James X Sullivan"
+pub_year: 2020
+date: 2022-10-03
+modified: 2022-10-03
 ---
 
-# Inequality in the joint distribution of consumption and time use
 
 [ScienceDirect html link](https://www.sciencedirect.com/science/article/pii/S0047272719301689)
 

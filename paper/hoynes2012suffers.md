@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Who suffers during recessions?"
+pub_authors:
+  - "Hilary Hoynes"
+  - "Douglas L Miller"
+  - "Jessamyn Schaller"
+pub_year: 2012
+date: 2024-05-28
+modified: 2024-05-28
 ---
 
-# Who suffers during recessions?
 
 [Author's Webpage](https://www.hilaryhoynes.com/research),
 [direct pdf link](https://static1.squarespace.com/static/5ecd75a3c406d1318b20454d/t/5f45c30b500be76b442dcaff/1598407436928/Hoynes-Miller-Schaller-JEP-2012.pdf),

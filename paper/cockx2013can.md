@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Can income support for part-time workers serve as a stepping-stone to regular jobs? An application to young long-term unemployed women"
+pub_authors:
+  - "Bart Cockx"
+  - "Christian Goebel"
+  - "Stéphane Robin"
+pub_year: 2013
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# Can income support for part-time workers serve as a stepping-stone to regular jobs? An application to young long-term unemployed women
 
 [Springer Link](https://link.springer.com/article/10.1007/s00181-010-0357-8)
 

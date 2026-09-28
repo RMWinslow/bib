@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "Network robustness and fragility: Percolation on random graphs"
+pub_authors:
+  - "Duncan S Callaway"
+  - "Mark EJ Newman"
+  - "Steven H Strogatz"
+  - "Duncan J Watts"
+pub_year: 2000
+date: 2025-02-01
+modified: 2025-02-01
 ---
 
-# Network robustness and fragility: Percolation on random graphs
 
 [pdf link](https://math.uchicago.edu/~shmuel/Network-course-readings/PhysRevLett.85.5468.pdf)
 

@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "The international price of remote work"
+pub_authors:
+  - "Agostina Brinatti"
+  - "Alberto Cavallo"
+  - "Javier Cravino"
+  - "Andres Drenik"
+pub_year: 2021
+date: 2023-02-01
+modified: 2023-02-01
 ---
 
-# The international price of remote work
 
 [NBER LINK](https://www.nber.org/papers/w29437)
 

@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Job search and unemployment insurance: New evidence from time use data"
+pub_authors:
+  - "Alan B Krueger"
+  - "Andreas Mueller"
+pub_year: 2010
+date: 2023-11-02
+modified: 2023-11-02
 ---
 
-# Job search and unemployment insurance: New evidence from time use data
 
 [pdf link](https://www.econstor.eu/bitstream/10419/35182/1/578090686.pdf),
 [scienceDirect link](https://www.sciencedirect.com/science/article/pii/S0047272709001625)

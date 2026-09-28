@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "The probability of finding a job"
+pub_authors:
+  - "Robert Shimer"
+pub_year: 2008
+date: 2024-07-12
+modified: 2024-07-12
 ---
 
-# The probability of finding a job
 
 [AER Link](https://pubs.aeaweb.org/doi/abs/10.1257/aer.98.2.268)
 

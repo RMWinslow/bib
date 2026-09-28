@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Cross-validatory choice and assessment of statistical predictions"
+pub_authors:
+  - "Mervyn Stone"
+pub_year: 1974
+date: 2024-07-09
+modified: 2024-07-14
 ---
 
-# Cross-validatory choice and assessment of statistical predictions
 
 [pdf link](https://sites.stat.washington.edu/courses/stat527/s14/readings/Stone1974.pdf)
 

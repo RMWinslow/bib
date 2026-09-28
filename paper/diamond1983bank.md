@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Bank runs, deposit insurance, and liquidity"
+pub_authors:
+  - "Douglas W Diamond"
+  - "Philip H Dybvig"
+pub_year: 1983
+date: 2023-03-14
+modified: 2023-03-14
 ---
 
-# Bank runs, deposit insurance, and liquidity
 
 [Reprint hosted at the Minneapolis Fed](https://www.minneapolisfed.org/research/quarterly-review/bank-runs-deposit-insurance-and-liquidity)
 

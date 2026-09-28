@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "A structural meta-analysis of welfare reform experiments and their impacts on children"
+pub_authors:
+  - "Joseph Mullins"
+pub_year: 2020
+date: 2024-10-22
+modified: 2024-10-22
 ---
 
-# A structural meta-analysis of welfare reform experiments and their impacts on children
 
 [pdf link](https://www.josephlyonmullins.com/papers/WelfareMetaAnalysis_JPE_submission.pdf)], [Online appendix](https://www.josephlyonmullins.com/papers/WelfareMetaAnalysis_JPE_submission_OnlineAppendix.pdf)
 

@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "Superspreading and the effect of individual variation on disease emergence"
+pub_authors:
+  - "James O Lloyd-Smith"
+  - "Sebastian J Schreiber"
+  - "P Ekkehard Kopp"
+  - "Wayne M Getz"
+pub_year: 2005
+date: 2022-08-17
+modified: 2022-08-19
 ---
 
-# Superspreading and the effect of individual variation on disease emergence
 
 [Nature html](https://www.nature.com/articles/nature04153)
 

@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "An assessment of the hazards of lead in food"
+pub_authors:
+  - "Clark D Carrington"
+  - "P Michael Bolger"
+pub_year: 1992
+date: 2022-12-21
+modified: 2022-12-21
 ---
 
-# An assessment of the hazards of lead in food
 
 [ScienceDirect link](https://www.sciencedirect.com/science/article/abs/pii/027323009290006U)
 

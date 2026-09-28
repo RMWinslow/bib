@@ -1,8 +1,18 @@
 ---
-parent: Papers
+layout: bib
+title: "The aggregate effects of fiscal stimulus: Evidence from the COVID-19 unemployment supplement"
+pub_authors:
+  - "Miguel Garza Casado"
+  - "Britta Glennon"
+  - "Julia Lane"
+  - "David McQuown"
+  - "Daniel Rich"
+  - "Bruce A Weinberg"
+pub_year: 2020
+date: 2023-11-05
+modified: 2023-11-05
 ---
 
-# The aggregate effects of fiscal stimulus: Evidence from the COVID-19 unemployment supplement
 
 [NBER Link](https://www.nber.org/papers/w27576)
 

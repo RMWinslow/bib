@@ -1,7 +1,14 @@
 ---
-parent: Papers
-title: What do data on millions of US workers reveal about lifecycle earnings dynamics?
-layout: post
+layout: bib
+title: "What do data on millions of US workers reveal about lifecycle earnings dynamics?"
+pub_authors:
+  - "Fatih Guvenen"
+  - "Fatih Karahan"
+  - "Serdar Ozkan"
+  - "Jae Song"
+pub_year: 2021
+date: 2022-09-07
+modified: 2022-09-09
 ---
 
 [html link](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA14603)

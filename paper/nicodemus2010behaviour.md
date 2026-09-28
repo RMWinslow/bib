@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "The behaviour of random forest permutation-based variable importance measures under predictor correlation"
+pub_authors:
+  - "Kristin K Nicodemus"
+  - "James D Malley"
+  - "Carolin Strobl"
+  - "Andreas Ziegler"
+pub_year: 2010
+date: 2024-07-12
+modified: 2024-07-12
 ---
 
-# The behaviour of random forest permutation-based variable importance measures under predictor correlation
 
 [Springer Link](https://link.springer.com/article/10.1186/1471-2105-11-110)
 

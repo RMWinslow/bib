@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Measuring trends in leisure: The allocation of time over five decades"
+pub_authors:
+  - "Mark Aguiar"
+  - "Erik Hurst"
+pub_year: 2007
+date: 2023-02-04
+modified: 2023-02-04
 ---
 
-# Measuring trends in leisure: The allocation of time over five decades
 
 [NBER Link](https://www.nber.org/papers/w12082)
 

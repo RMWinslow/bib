@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "Two Illustrations of the Quantity Theory of Money Reloaded"
+pub_authors:
+  - "Han Gao"
+  - "Mariano Kulish"
+  - "Juan Pablo Nicolini"
+  - "others"
+pub_year: 2020
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Two Illustrations of the Quantity Theory of Money Reloaded
 
 [link from Minneapolis Fed](https://www.minneapolisfed.org/research/staff-reports/two-illustrations-of-the-quantity-theory-of-money-reloaded)
 

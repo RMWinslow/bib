@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "How digitization has created a golden age of music, movies, books, and television"
+pub_authors:
+  - "Joel Waldfogel"
+pub_year: 2017
+date: 2022-08-17
+modified: 2022-08-17
 ---
 
-# How digitization has created a golden age of music
 
 [pdf link](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.3.195)
 

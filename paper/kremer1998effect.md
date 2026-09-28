@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "The effect of changing sexual activity on HIV prevalence"
+pub_authors:
+  - "Michael Kremer"
+  - "Charles Morcom"
+pub_year: 1998
+date: 2022-08-16
+modified: 2022-08-22
 ---
 
-# The effect of changing sexual activity on HIV prevalence
 
 Url
 : [HTML Science Direct](https://www.sciencedirect.com/science/article/pii/S002555649810010X?casa_token=kCq1PXxw2KIAAAAA:FEuM2jnl7x3s_297hMHqeO35YmpxjoCHgq1INAb9_9dY9vXe-eOqzuviyFPzMK2Qd75icMpBSw)

@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Population uncertainty and Poisson games"
+pub_authors:
+  - "Roger B Myerson"
+pub_year: 1998
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Population uncertainty and Poisson games
 
 [Spring link](https://link.springer.com/article/10.1007/s001820050079)
 

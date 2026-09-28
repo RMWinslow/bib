@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Earnings exemptions for unemployed workers: The relationship between marginal employment, unemployment duration and job quality"
+pub_authors:
+  - "Marco Caliendo"
+  - "Steffen Künn"
+  - "Arne Uhlendorff"
+pub_year: 2016
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# Earnings exemptions for unemployed workers: The relationship between marginal employment, unemployment duration and job quality
 
 [ScienceDirect link](https://www.sciencedirect.com/science/article/pii/S0927537116300719?via%3Dihub),
 [econstor pdf](https://www.econstor.eu/bitstream/10419/147863/1/dp10177.pdf)

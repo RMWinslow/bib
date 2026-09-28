@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Labor supply effects of social insurance"
+pub_authors:
+  - "Alan B Krueger"
+  - "Bruce D Meyer"
+pub_year: 2002
+date: 2023-11-05
+modified: 2023-11-05
 ---
 
-# Labor supply effects of social insurance
 
 chapter 33 of Handbook of Public Economics,
 Volume 4, 2002, Pages 2327-2392

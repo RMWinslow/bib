@@ -1,8 +1,17 @@
 ---
-parent: Papers
+layout: bib
+title: "Network theory and SARS: predicting outbreak diversity"
+pub_authors:
+  - "Lauren Ancel Meyers"
+  - "Babak Pourbohloul"
+  - "Mark EJ Newman"
+  - "Danuta M Skowronski"
+  - "Robert C Brunham"
+pub_year: 2005
+date: 2022-08-17
+modified: 2022-08-22
 ---
 
-# Network theory and SARS: predicting outbreak diversity
 
 [ScienceDirect html link](https://www.sciencedirect.com/science/article/pii/S0022519304003510)
 

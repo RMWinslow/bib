@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "The future of employment: How susceptible are jobs to computerisation?"
+pub_authors:
+  - "Carl Benedikt Frey"
+  - "Michael A Osborne"
+pub_year: 2017
+date: 2025-06-29
+modified: 2025-06-29
 ---
 
-# The future of employment: How susceptible are jobs to computerisation?
 
 [pdf link](https://oms-www.files.svdcdn.com/production/downloads/academic/The_Future_of_Employment.pdf)
 

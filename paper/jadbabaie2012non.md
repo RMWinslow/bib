@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "Non-Bayesian social learning"
+pub_authors:
+  - "Ali Jadbabaie"
+  - "Pooya Molavi"
+  - "Alvaro Sandroni"
+  - "Alireza Tahbaz-Salehi"
+pub_year: 2012
+date: 2022-08-16
+modified: 2022-08-16
 ---
 
-# Non-Bayesian social learning
 
 Url
 : [Science Direct](https://www.sciencedirect.com/science/article/pii/S0899825612000851)

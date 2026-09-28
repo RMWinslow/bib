@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Do taxpayers bunch at kink points?"
+pub_authors:
+  - "Emmanuel Saez"
+pub_year: 2010
+date: 2023-05-17
+modified: 2023-05-17
 ---
 
-# Do taxpayers bunch at kink points?
 
 [AEA link](https://www.aeaweb.org/articles?id=10.1257/pol.2.3.180).
 [NBER pdf link](https://www.nber.org/system/files/working_papers/w7366/w7366.pdf)

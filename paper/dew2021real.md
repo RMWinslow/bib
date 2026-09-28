@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Real-time forward-looking skewness over the business cycle"
+pub_authors:
+  - "Ian Dew-Becker"
+pub_year: 2021
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Real-time forward-looking skewness over the business cycle
 
 [pdf link](http://www.dew-becker.org/documents/skewness.pdf)
 

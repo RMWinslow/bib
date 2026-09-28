@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Ridge regression: Biased estimation for nonorthogonal problems"
+pub_authors:
+  - "Arthur E Hoerl"
+  - "Robert W Kennard"
+pub_year: 1970
+date: 2024-07-09
+modified: 2024-07-09
 ---
 
-# Ridge regression: Biased estimation for nonorthogonal problems
 
 [link](https://www.tandfonline.com/doi/abs/10.1080/00401706.1970.10488634)
 

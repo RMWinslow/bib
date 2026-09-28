@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Explaining the fall and rise in the tax cost of marriage: The effect of tax laws and demographic trends, 1984-97"
+pub_authors:
+  - "Nada Eissa"
+  - "Hilary Williamson Hoynes"
+pub_year: 2000
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Explaining the fall and rise in the tax cost of marriage: The effect of tax laws and demographic trends, 1984-97
 
 [pdf link](https://static1.squarespace.com/static/5ecd75a3c406d1318b20454d/t/5f45cd5f14efc67813ecaf0e/1598410080026/EissaHoynes-NTJ-2000.pdf) from [author's webpage](https://www.hilaryhoynes.com/research)
 

@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Spread of epidemic disease on networks"
+pub_authors:
+  - "Mark EJ Newman"
+pub_year: 2002
+date: 2022-08-16
+modified: 2022-08-22
 ---
 
-# The spread of epidemic disease on networks
 
 [arxiv link](https://arxiv.org/abs/cond-mat/0205009) 
 

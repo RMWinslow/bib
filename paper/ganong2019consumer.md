@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Consumer spending during unemployment: Positive and normative implications"
+pub_authors:
+  - "Peter Ganong"
+  - "Pascal Noel"
+pub_year: 2019
+date: 2023-11-02
+modified: 2023-11-02
 ---
 
-# Consumer spending during unemployment: Positive and normative implications
 
 [AEA link](https://www.aeaweb.org/articles?id=10.1257/aer.20170537)
 

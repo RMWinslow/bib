@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Variance decomposition analysis: What is it and how to perform it--A complete guide for B2B researchers"
+pub_authors:
+  - "Ghasem Zaefarian"
+  - "Viacheslav Iurkov"
+  - "Mariia Koval"
+pub_year: 2022
+date: 2024-09-28
+modified: 2024-09-28
 ---
 
-# Variance decomposition analysis: What is it and how to perform it
 
 [ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S0019850122002590)
 

@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Model class reliance: Variable importance measures for any machine learning model class, from the “Rashomon” perspective"
+pub_authors:
+  - "Aaron Fisher"
+  - "Cynthia Rudin"
+  - "Francesca Dominici"
+pub_year: 2018
+date: 2024-07-08
+modified: 2024-07-08
 ---
 
-# Model class reliance: Variable importance measures for any machine learning model class, from the “Rashomon” perspective
 
 [arxiv pdf link](https://arxiv.org/pdf/1801.01489v1)
 

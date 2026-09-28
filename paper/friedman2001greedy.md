@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Greedy function approximation: a gradient boosting machine"
+pub_authors:
+  - "Jerome H Friedman"
+pub_year: 2001
+date: 2024-07-09
+modified: 2024-07-09
 ---
 
-# Greedy function approximation: a gradient boosting machine
 
 [pdf link](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boosting-machine/10.1214/aos/1013203451.pdf)
 

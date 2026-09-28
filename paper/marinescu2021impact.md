@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "The impact of the federal pandemic unemployment compensation on job search and vacancy creation"
+pub_authors:
+  - "Ioana Marinescu"
+  - "Daphne Skandalis"
+  - "Daniel Zhao"
+pub_year: 2021
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# The impact of the federal pandemic unemployment compensation on job search and vacancy creation
 
 [ScienceDirect link](https://www.sciencedirect.com/science/article/pii/S0047272721001079)
 

@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "US unemployment insurance replacement rates during the pandemic"
+pub_authors:
+  - "Peter Ganong"
+  - "Pascal Noel"
+  - "Joseph Vavra"
+pub_year: 2020
+date: 2023-05-23
+modified: 2023-05-23
 ---
 
-# US unemployment insurance replacement rates during the pandemic
 
 [NBER Summary Article](https://www.nber.org/digest/jul20/unemployment-benefit-replacement-rates-during-pandemic)
 

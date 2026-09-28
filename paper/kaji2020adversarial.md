@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "An adversarial approach to structural estimation"
+pub_authors:
+  - "Tetsuya Kaji"
+  - "Elena Manresa"
+  - "Guillaume Pouliot"
+pub_year: 2020
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# An adversarial approach to structural estimation
 
 [arxiv link](https://arxiv.org/abs/2007.06169) and [arxiv pdf](https://arxiv.org/pdf/2007.06169.pdf)
 

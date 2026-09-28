@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Scaling regression inputs by dividing by two standard deviations"
+pub_authors:
+  - "Andrew Gelman"
+pub_year: 2008
+date: 2024-07-08
+modified: 2024-07-08
 ---
 
-# Scaling regression inputs by dividing by two standard deviations
 
 [pdf link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sim.3107)
 

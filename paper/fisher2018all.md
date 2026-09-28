@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "All models are wrong but many are useful: Variable importance for black-box, proprietary, or misspecified prediction models, using model class reliance"
+pub_authors:
+  - "Aaron Fisher"
+  - "Cynthia Rudin"
+  - "Francesca Dominici"
+pub_year: 2018
+date: 2024-07-08
+modified: 2024-07-08
 ---
 
-# All models are wrong but many are useful: Variable importance for black-box, proprietary, or misspecified prediction models, using model class reliance
 
 [arxiv link](https://arxiv.org/abs/1801.01489)
 

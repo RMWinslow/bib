@@ -1,8 +1,18 @@
 ---
-parent: Papers
+layout: bib
+title: "Early withdrawal of pandemic unemployment insurance: Effects on employment and earnings"
+pub_authors:
+  - "Kyle Coombs"
+  - "Arindrajit Dube"
+  - "Calvin Jahnke"
+  - "Raymond Kluender"
+  - "Suresh Naidu"
+  - "Michael Stepner"
+pub_year: 2022
+date: 2023-11-02
+modified: 2023-11-02
 ---
 
-# Early withdrawal of pandemic unemployment insurance: Effects on employment and earnings
 
 [pdf link](https://www.hbs.edu/ris/Publication%20Files/22-046_ce11d30f-72bc-4dd6-8367-e1dce9e75154.pdf),
 [aea link](https://www.aeaweb.org/articles?id=10.1257/pandp.20221009)

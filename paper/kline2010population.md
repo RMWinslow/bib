@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Population size predicts technological complexity in Oceania"
+pub_authors:
+  - "Michelle A Kline"
+  - "Robert Boyd"
+pub_year: 2010
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Population size predicts technological complexity in Oceania
 
 [html link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2894932/)
 

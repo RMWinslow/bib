@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "The gender gap in undergraduate economics course persistence and degree selection"
+pub_authors:
+  - "Laura J Ahlstrom"
+  - "Carlos J Asarta"
+pub_year: 2019
+date: 2023-11-27
+modified: 2023-11-27
 ---
 
-# The gender gap in undergraduate economics course persistence and degree selection
 
 [pdf link](https://lerner.udel.edu/wp-content/uploads/Ahlstrom-Job-Market-Paper-Oct.-2017.pdf)
 

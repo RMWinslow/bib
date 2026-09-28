@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Internal and external effects of social distancing in a pandemic"
+pub_authors:
+  - "Maryam Farboodi"
+  - "Gregor Jarosch"
+  - "Robert Shimer"
+pub_year: 2021
+date: 2022-08-17
+modified: 2022-08-17
 ---
 
-# Internal and external effects of social distancing in a pandemic
 
 [ScienceDirect link](https://www.sciencedirect.com/science/article/pii/S0022053121001101)
 

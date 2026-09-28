@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Predictive learning via rule ensembles"
+pub_authors:
+  - "Jerome H Friedman"
+  - "Bogdan E Popescu"
+pub_year: 2008
+date: 2024-07-12
+modified: 2024-07-12
 ---
 
-# Predictive learning via rule ensembles
 
 [Project Euclid link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-3/Predictive-learning-via-rule-ensembles/10.1214/07-AOAS148.full)
 

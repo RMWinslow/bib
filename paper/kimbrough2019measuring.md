@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Measuring commuting in the american time use survey"
+pub_authors:
+  - "Gray Kimbrough"
+pub_year: 2019
+date: 2022-11-30
+modified: 2023-01-22
 ---
 
-# Measuring commuting in the american time use survey
 
 [pdf link](https://mpra.ub.uni-muenchen.de/93239/2/MPRA_paper_93239.pdf)
 

@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Consistent individualized feature attribution for tree ensembles"
+pub_authors:
+  - "Scott M Lundberg"
+  - "Gabriel G Erion"
+  - "Su-In Lee"
+pub_year: 2018
+date: 2024-07-12
+modified: 2024-07-12
 ---
 
-# Consistent individualized feature attribution for tree ensembles
 
 [arxiv link](https://arxiv.org/abs/1802.03888)
 

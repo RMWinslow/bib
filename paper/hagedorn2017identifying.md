@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Identifying equilibrium models of labor market sorting"
+pub_authors:
+  - "Marcus Hagedorn"
+  - "Tzuo Hann Law"
+  - "Iourii Manovskii"
+pub_year: 2017
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Identifying equilibrium models of labor market sorting
 
 [pdf link](https://www.sas.upenn.edu/~manovski/papers/Identifying_Sorting.pdf) 
 from [author's webpage](https://www.sas.upenn.edu/~manovski/research.html)

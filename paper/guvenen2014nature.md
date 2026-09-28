@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "The nature of countercyclical income risk"
+pub_authors:
+  - "Fatih Guvenen"
+  - "Serdar Ozkan"
+  - "Jae Song"
+pub_year: 2014
+date: 2024-05-18
+modified: 2024-05-18
 ---
 
-# The Nature of Countercyclical Income Risk
 
 [Author's Webpage](https://www.fatihguvenen.com/published-papers)
 

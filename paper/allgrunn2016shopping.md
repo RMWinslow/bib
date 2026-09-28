@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Is shopping at walmart an inferior good? Evidence from 1997-2010"
+pub_authors:
+  - "Mike Allgrunn"
+  - "Mandie Weinandt"
+pub_year: 2016
+date: 2024-02-04
+modified: 2024-02-04
 ---
 
-# Is shopping at walmart an inferior good?
 
 [pdf link](http://www.na-businesspress.com/JABE/WeinandtM_Web18_1_.pdf)
 

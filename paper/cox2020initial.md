@@ -1,8 +1,20 @@
 ---
-parent: Papers
+layout: bib
+title: "Initial impacts of the pandemic on consumer behavior: Evidence from linked income, spending, and savings data"
+pub_authors:
+  - "Natalie Cox"
+  - "Peter Ganong"
+  - "Pascal Noel"
+  - "Joseph Vavra"
+  - "Arlene Wong"
+  - "Diana Farrell"
+  - "Fiona Greig"
+  - "Erica Deadman"
+pub_year: 2020
+date: 2023-11-05
+modified: 2023-11-05
 ---
 
-# Initial impacts of the pandemic on consumer behavior: Evidence from linked income, spending, and savings data
 
 [pdf link](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/801/files/2018/08/26996635.pdf)
 

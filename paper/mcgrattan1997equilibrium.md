@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "An equilibrium model of the business cycle with household production and fiscal policy"
+pub_authors:
+  - "Ellen R McGrattan"
+  - "Richard Rogerson"
+  - "Randall Wright"
+pub_year: 1997
+date: 2022-09-19
+modified: 2022-09-19
 ---
 
-# An equilibrium model of the business cycle with household production and fiscal policy
 
 [pdf link](https://pdfs.semanticscholar.org/a54d/825a84f85a1d8088efad7f52f088f34f3524.pdf)
 

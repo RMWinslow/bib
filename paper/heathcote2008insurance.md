@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Insurance and opportunities: A welfare analysis of labor market risk"
+pub_authors:
+  - "Jonathan Heathcote"
+  - "Kjetil Storesletten"
+  - "Giovanni L Violante"
+pub_year: 2008
+date: 2022-11-30
+modified: 2022-11-30
 ---
 
-# Insurance and opportunities: A welfare analysis of labor market risk
 
 [ScienceDirect link](https://www.sciencedirect.com/science/article/pii/S0304393208000251)
 

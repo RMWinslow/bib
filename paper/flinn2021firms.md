@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Firms’ choices of wage-setting protocols"
+pub_authors:
+  - "Christopher Flinn"
+  - "Joseph Mullins"
+pub_year: 2021
+date: 2024-10-22
+modified: 2024-10-22
 ---
 
-# Firms’ choices of wage-setting protocols
 
 [pdf link](https://www.josephlyonmullins.com/papers/FirmChoices-RES.pdf)
 

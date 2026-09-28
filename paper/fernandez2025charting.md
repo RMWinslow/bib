@@ -1,7 +1,14 @@
 ---
-parent: Papers
-title: fernandez2025charting
-subtitle: Charting the Uncharted: The (Un) Intended Consequences of Oil Sanctions and Dark Shipping
+layout: bib
+title: "Charting the Uncharted: The (Un) Intended Consequences of Oil Sanctions and Dark Shipping"
+pub_authors:
+  - "Jesús Fernández-Villaverde"
+  - "Yiliang Li"
+  - "Le Xu"
+  - "Francesco Zanetti"
+pub_year: 2025
+date: 2025-09-12
+modified: 2025-09-12
 ---
 
 

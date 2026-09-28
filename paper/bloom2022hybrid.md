@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "How hybrid working from home works out"
+pub_authors:
+  - "Nicholas Bloom"
+  - "Ruobing Han"
+  - "James Liang"
+pub_year: 2022
+date: 2023-02-04
+modified: 2023-02-04
 ---
 
-# How hybrid working from home works out
 
 [NBER Link](https://www.nber.org/papers/w30292)
 

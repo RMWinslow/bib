@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Judicial mechanism design"
+pub_authors:
+  - "Ron Siegel"
+  - "Bruno Strulovici"
+pub_year: 2018
+date: 2022-08-17
+modified: 2022-08-17
 ---
 
-# Judicial mechanism design
 
 [pdf link](https://faculty.wcas.northwestern.edu/bhs675/JMD.pdf)
 

@@ -1,7 +1,12 @@
 ---
-parent: Papers
-title: harrington2025has
-subtitle: Has the Rise of Work from Home Reduced the Motherhood Penalty in the Labor Market?
+layout: bib
+title: "Has the Rise of Work from Home Reduced the Motherhood Penalty in the Labor Market?"
+pub_authors:
+  - "Emma Harrington"
+  - "Matthew E Kahn"
+pub_year: 2025
+date: 2025-09-12
+modified: 2025-09-12
 ---
 
 [NBER Link](https://www.nber.org/system/files/working_papers/w34147/w34147.pdf)

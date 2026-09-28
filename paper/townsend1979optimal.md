@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Optimal contracts and competitive markets with costly state verification"
+pub_authors:
+  - "Robert M Townsend"
+pub_year: 1979
+date: 2022-08-17
+modified: 2022-08-17
 ---
 
-# Optimal contracts and competitive markets with costly state verification
 
 [ScienceDirect pdf link](https://www.sciencedirect.com/science/article/pii/0022053179900310)
 

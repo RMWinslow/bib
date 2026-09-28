@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "The alpha beta gamma of the labor market"
+pub_authors:
+  - "Victoria Gregory"
+  - "Guido Menzio"
+  - "David G Wiczer"
+pub_year: 2021
+date: 2024-08-14
+modified: 2024-08-14
 ---
 
-# The alpha beta gamma of the labor market
 
 [Author's webpage](https://www.victoria-gregory.com/research)
 

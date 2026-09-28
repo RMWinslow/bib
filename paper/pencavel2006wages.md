@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Wages, employment, and capital in capitalist and worker-owned firms"
+pub_authors:
+  - "John Pencavel"
+  - "Luigi Pistaferri"
+  - "Fabiano Schivardi"
+pub_year: 2006
+date: 2023-04-07
+modified: 2023-04-07
 ---
 
-# Wages, employment, and capital in capitalist and worker-owned firms
 
 [pdf link](https://journals.sagepub.com/doi/pdf/10.1177/001979390606000102)
 

@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "The market for “lemons”: Quality uncertainty and the market mechanism"
+pub_authors:
+  - "George A Akerlof"
+pub_year: 1978
+date: 2022-08-17
+modified: 2022-08-17
 ---
 
-# The Market for Lemons
 
 [pdf link](https://viterbi-web.usc.edu/~shaddin/cs590fa13/papers/AkerlofMarketforLemons.pdf)
 

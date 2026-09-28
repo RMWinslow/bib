@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Crime and punishment: An economic approach"
+pub_authors:
+  - "Gary S Becker"
+pub_year: 1968
+date: 2022-08-17
+modified: 2022-08-17
 ---
 
-# Crime and punishment: An economic approach
 
 [NBER pdf link](https://www.nber.org/system/files/chapters/c3625/c3625.pdf)
 

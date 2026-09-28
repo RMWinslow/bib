@@ -1,7 +1,13 @@
 ---
-parent: Papers
-title: santacreu2023determines
-subtitle: What Determines State Heterogeneity in Response to US Tariff Changes?
+layout: bib
+title: "What Determines State Heterogeneity in Response to US Tariff Changes?"
+pub_authors:
+  - "Ana Maria Santacreu"
+  - "Michael Sposi"
+  - "Jing Zhang"
+pub_year: 2023
+date: 2025-09-12
+modified: 2025-09-12
 ---
 
 [slides](https://www.dallasfed.org/-/media/Documents/research/events/2025/25peterson/25peterson-sposi)

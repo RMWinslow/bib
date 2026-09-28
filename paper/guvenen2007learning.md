@@ -1,8 +1,11 @@
 ---
-parent: Papers
-title: Learning your earning
-subtitle: Are labor income shocks really very persistent?
-layout: post
+layout: bib
+title: "Learning your earning: Are labor income shocks really very persistent?"
+pub_authors:
+  - "Fatih Guvenen"
+pub_year: 2007
+date: 2022-09-07
+modified: 2022-09-09
 ---
 
 [AER link](https://www.aeaweb.org/articles?id=10.1257/aer.97.3.687)

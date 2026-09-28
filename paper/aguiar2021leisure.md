@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "Leisure luxuries and the labor supply of young men"
+pub_authors:
+  - "Mark Aguiar"
+  - "Mark Bils"
+  - "Kerwin Kofi Charles"
+  - "Erik Hurst"
+pub_year: 2021
+date: 2023-03-06
+modified: 2023-03-06
 ---
 
-# Leisure luxuries and the labor supply of young men
 
 [NBER link](https://www.nber.org/papers/w23552)
 

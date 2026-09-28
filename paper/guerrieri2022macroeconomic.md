@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "Macroeconomic implications of COVID-19: Can negative supply shocks cause demand shortages?"
+pub_authors:
+  - "Veronica Guerrieri"
+  - "Guido Lorenzoni"
+  - "Ludwig Straub"
+  - "Iván Werning"
+pub_year: 2022
+date: 2023-11-05
+modified: 2023-11-05
 ---
 
-# Macroeconomic implications of COVID-19: Can negative supply shocks cause demand shortages?
 
 [NBER working paper link](https://www.nber.org/papers/w26918)
 

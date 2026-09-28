@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Telework, wages, and time use in the United States"
+pub_authors:
+  - "Sabrina Wulff Pabilonia"
+  - "Victoria Vernon"
+pub_year: 2022
+date: 2022-11-30
+modified: 2023-04-20
 ---
 
-# Telework, wages, and time use in the United States
 
 [Springer HTML link](https://link.springer.com/article/10.1007/s11150-022-09601-1)
 

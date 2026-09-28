@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Believe in Pascal's wager? Have i got a deal for you!"
+pub_authors:
+  - "Alexander Tabarrok"
+  - "others"
+pub_year: 2000
+date: 2022-08-16
+modified: 2022-08-16
 ---
 
-# Believe in Pascal's wager? Have i got a deal for you!
 
 Url
 : [pdf](https://mason.gmu.edu/~atabarro/Pascal'sWager.pdf)

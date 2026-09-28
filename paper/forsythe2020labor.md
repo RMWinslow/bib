@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "Labor demand in the time of COVID-19: Evidence from vacancy postings and UI claims"
+pub_authors:
+  - "Eliza Forsythe"
+  - "Lisa B Kahn"
+  - "Fabian Lange"
+  - "David Wiczer"
+pub_year: 2020
+date: 2023-11-02
+modified: 2023-11-02
 ---
 
-# Labor demand in the time of COVID-19
 
 [ScienceDirect link](https://www.sciencedirect.com/science/article/pii/S004727272030102X)
 

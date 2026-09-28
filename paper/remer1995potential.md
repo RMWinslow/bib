@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Potential renal acid load of foods and its influence on urine pH"
+pub_authors:
+  - "Thomas Remer"
+  - "Friedrich Manz"
+pub_year: 1995
+date: 2022-08-16
+modified: 2022-08-16
 ---
 
-# Potential Renal Acid Load of Foods and its Influence on Urine pH
 
 [Science Direct HTML](https://www.sciencedirect.com/science/article/pii/S0002822395002197?casa_token=L9UOTNE8mesAAAAA:Gyshu5ZeEy8e_ClsrlueNxER9CTR6ICq_joeEZ8LfymkL09mqDCDpI_LKl3Cvx2kilt8hR7ajw)
 

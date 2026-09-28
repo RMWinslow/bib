@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "A theory of voluntary testing and self-isolation in an ongoing pandemic"
+pub_authors:
+  - "Thomas Hellmann"
+  - "Veikko Thiele"
+pub_year: 2020
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# A theory of voluntary testing and self-isolation in an ongoing pandemic
 
 [html link](https://onlinelibrary.wiley.com/doi/full/10.1111/jpet.12584)
 

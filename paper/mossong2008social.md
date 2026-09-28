@@ -1,8 +1,23 @@
 ---
-parent: Papers
+layout: bib
+title: "Social contacts and mixing patterns relevant to the spread of infectious diseases"
+pub_authors:
+  - "Joël Mossong"
+  - "Niel Hens"
+  - "Mark Jit"
+  - "Philippe Beutels"
+  - "Kari Auranen"
+  - "Rafael Mikolajczyk"
+  - "Marco Massari"
+  - "Stefania Salmaso"
+  - "Gianpaolo Scalia Tomba"
+  - "Jacco Wallinga"
+  - "others"
+pub_year: 2008
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Social contacts and mixing patterns relevant to the spread of infectious diseases
 
 [html link](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0050074)
 

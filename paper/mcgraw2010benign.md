@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Benign violations: Making immoral behavior funny"
+pub_authors:
+  - "A Peter McGraw"
+  - "Caleb Warren"
+pub_year: 2010
+date: 2022-09-22
+modified: 2022-09-22
 ---
 
-# Benign violations: Making immoral behavior funny
 
 [html link](https://journals.sagepub.com/doi/full/10.1177/0956797610376073?casa_token=UnO9sne5flIAAAAA%3A5vy02msAFCm0rNLQIqcZoobjl_LSyLqH3zirOsIRbNxLXddap9dd2yNflhVPWr_Go7SEep30mgMj)
 

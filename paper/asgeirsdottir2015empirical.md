@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "An empirical analysis of the demand for sleep: Evidence from the American Time Use Survey"
+pub_authors:
+  - "Tinna Laufey Asgeirsdottir"
+  - "Sigurður Páll Ólafsson"
+pub_year: 2015
+date: 2023-02-23
+modified: 2023-02-24
 ---
 
-# An empirical analysis of the demand for sleep: Evidence from the American Time Use Survey
 
 [html link](https://www.sciencedirect.com/science/article/abs/pii/S1570677X15000726)
 

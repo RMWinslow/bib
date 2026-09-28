@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Dissolving the Fermi paradox"
+pub_authors:
+  - "Anders Sandberg"
+  - "Eric Drexler"
+  - "Toby Ord"
+pub_year: 2018
+date: 2022-08-16
+modified: 2022-08-16
 ---
 
-# Dissolving the Fermi paradox
 
 Url
 : [arxiv](https://arxiv.org/abs/1806.02404)

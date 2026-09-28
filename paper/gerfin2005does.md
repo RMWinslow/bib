@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Does subsidised temporary employment get the unemployed back to work? An econometric analysis of two different schemes"
+pub_authors:
+  - "Michael Gerfin"
+  - "Michael Lechner"
+  - "Heidi Steiger"
+pub_year: 2005
+date: 2023-08-21
+modified: 2023-08-21
 ---
 
-# Does subsidised temporary employment get the unemployed back to work? An econometric analysis of two different schemes
 
 [ScienceDirect html link](https://www.sciencedirect.com/science/article/pii/S0927537104000557)
 

@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "The effect of working from home on major time allocations with a focus on food-related activities"
+pub_authors:
+  - "Brandon J Restrepo"
+  - "Eliana Zeballos"
+pub_year: 2020
+date: 2023-02-23
+modified: 2023-02-23
 ---
 
-# The effect of working from home on major time allocations with a focus on food-related activities
 
 [Springer html link](https://link.springer.com/article/10.1007/s11150-020-09497-9)
 

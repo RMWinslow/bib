@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Working from home: Too much of a good thing?"
+pub_authors:
+  - "Kristian Behrens"
+  - "Sergey Kichko"
+  - "Jacques-François Thisse"
+pub_year: 2021
+date: 2022-11-30
+modified: 2022-11-30
 ---
 
-# Working from home: Too much of a good thing?
 
 [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768910)
 

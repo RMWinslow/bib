@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Time use and productivity: The wage returns to sleep"
+pub_authors:
+  - "Matthew Gibson"
+  - "Jeffrey Shrader"
+pub_year: 2014
+date: 2023-02-23
+modified: 2023-03-06
 ---
 
-# Time use and productivity: The wage returns to sleep
 
 [pdf? link](https://escholarship.org/uc/item/8zp518hc)
 

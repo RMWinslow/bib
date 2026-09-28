@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "The cyclical behavior of the price-cost markup"
+pub_authors:
+  - "Christopher J Nekarda"
+  - "Valerie A Ramey"
+pub_year: 2013
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# The cyclical behavior of the price-cost markup
 
 [NBER link](https://www.nber.org/papers/w19099)
 

@@ -1,8 +1,17 @@
 ---
-parent: Papers
+layout: bib
+title: "Human decisions and machine predictions"
+pub_authors:
+  - "Jon Kleinberg"
+  - "Himabindu Lakkaraju"
+  - "Jure Leskovec"
+  - "Jens Ludwig"
+  - "Sendhil Mullainathan"
+pub_year: 2018
+date: 2022-07-22
+modified: 2022-08-17
 ---
 
-# Human Decisions and Machine Predictions
 
 Url
 : [QJE](https://academic.oup.com/qje/article/133/1/237/4095198),

@@ -7,6 +7,14 @@ search_exclude: true
 
 **This file should be kept up to date** as work progresses. It serves as the canonical reference for Claude sessions working in this repo.
 
+## Current paper-page format (2026-09-27)
+
+The 194 non-template files in `paper/` now use `layout: bib`, `title`, `pub_authors`, `pub_year`, `date`, and `modified` in front matter. `tags` is optional. `date` and `modified` describe this bibliography page, while `pub_year` describes the publication. The first migration used Git history and the pre-migration snapshot in `_planning/file-modification-index-2026-09-27.md` as best estimates of page dates. A meaningful later edit can update `modified` without changing the publication year. Keep the BibTeX section and reading notes in the page body.
+
+`_config.yml` supplies `parent: Papers` and `nav_exclude: true` for the paper directory. The local `_layouts/bib.html` inherits the theme's `post` layout and displays the front-matter title. Paper-page body H1 headings were removed so titles do not appear twice. Two paper filenames start with `_`; Jekyll does not publish them under its current configuration.
+
+Use the repository-local skill at `.codex/skills/bib-paper-audit/SKILL.md` for the current paper audit and cleanup workflow. It documents the check and apply commands, manual review cases, date rules, and limits. `_planning/paper-title-approvals.yml` records reviewed migration exceptions. The Zotero import and other entry types remain separate work. The older redesign notes below are historical proposals; their larger frontmatter schema is not the current paper-page format.
+
 ## Project overview
 
 This repository is a Jekyll-based bibliography tracker hosted on GitHub Pages. Each bibliographic entry is a Markdown file with YAML frontmatter, organized into directories by type. The site uses the JTD-RMW theme (a custom fork of Just the Docs) to render the entries as searchable, navigable web pages. The key trick is that JTD's Lunr.js search indexes every page into a single JSON file at build time, so the entire bibliography is full-text searchable from the browser.

@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Regression shrinkage and selection via the lasso"
+pub_authors:
+  - "Robert Tibshirani"
+pub_year: 1996
+date: 2024-07-09
+modified: 2024-07-09
 ---
 
-# Regression shrinkage and selection via the lasso
 
 [link](https://academic.oup.com/jrsssb/article/58/1/267/7027929)
 

@@ -1,14 +1,28 @@
 ---
-parent: Papers
+layout: bib
+title: "More connection, less community: network formation and local public goods provision"
+pub_authors:
+  - "Alastair Langtry"
+pub_year: 2025
+date: 2025-02-01
+modified: 2025-02-01
 ---
 
-# More connection, less community: network formation and local public goods provision
 
 [Author's website](https://www.alastairlangtry.com/)
 
 ## BibTeX
 ```
-N/A. Working paper.
+@misc{langtry2023jmp,
+  title={More connection, less community: network formation and local public goods provision},
+  author={Langtry, Alastair},
+  year={2025},
+  eprint={2504.06872},
+  archivePrefix={arXiv},
+  primaryClass={econ.TH},
+  doi={10.48550/arXiv.2504.06872},
+  url={https://arxiv.org/abs/2504.06872}
+}
 ```
 
 ## Abstract

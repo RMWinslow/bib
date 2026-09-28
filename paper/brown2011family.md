@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Family law effects on divorce, fertility and child investment"
+pub_authors:
+  - "Meta Brown"
+  - "Christopher J Flinn"
+  - "Joseph Mullins"
+pub_year: 2011
+date: 2024-10-22
+modified: 2024-10-22
 ---
 
-# Family law effects on divorce, fertility and child investment
 
 [pdf link](https://www.josephlyonmullins.com/papers/BFM_in_JOLE_Format-2.pdf)
 

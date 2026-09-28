@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "The role of unemployment insurance in an economy with liquidity constraints and moral hazard"
+pub_authors:
+  - "Gary D Hansen"
+  - "Ayşe Imrohoroğlu"
+pub_year: 1992
+date: 2023-07-03
+modified: 2023-07-03
 ---
 
-# The role of unemployment insurance in an economy with liquidity constraints and moral hazard
 
 [pdf link](http://drphilipshaw.com/Hansen%20Imrohoroglu%201992.pdf)
 

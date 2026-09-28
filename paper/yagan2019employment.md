@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Employment hysteresis from the great recession"
+pub_authors:
+  - "Danny Yagan"
+pub_year: 2019
+date: 2023-11-05
+modified: 2023-11-05
 ---
 
-# Employment hysteresis from the great recession
 
 [NBER link](https://www.nber.org/papers/w23844)
 

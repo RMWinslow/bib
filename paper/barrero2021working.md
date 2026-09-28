@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Why working from home will stick"
+pub_authors:
+  - "Jose Maria Barrero"
+  - "Nicholas Bloom"
+  - "Steven J Davis"
+pub_year: 2021
+date: 2022-11-30
+modified: 2022-11-30
 ---
 
-# Why working from home will stick
 
 [NBER Link](https://www.nber.org/papers/w28731)
 

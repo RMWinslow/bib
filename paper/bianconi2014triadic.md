@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "Triadic closure as a basic generating mechanism of communities in complex networks"
+pub_authors:
+  - "Ginestra Bianconi"
+  - "Richard K Darst"
+  - "Jacopo Iacovacci"
+  - "Santo Fortunato"
+pub_year: 2014
+date: 2022-08-18
+modified: 2022-08-18
 ---
 
-# Triadic closure as a basic generating mechanism of communities in complex networks
 
 [arxiv link](https://arxiv.org/abs/1407.1664)
 

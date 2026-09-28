@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Did Pandemic Unemployment Benefits Reduce Employment? Evidence from Early State-Level Expirations in June 2021"
+pub_authors:
+  - "Harry J Holzer"
+  - "R Glenn Hubbard"
+  - "Michael R Strain"
+pub_year: 2021
+date: 2023-11-12
+modified: 2023-11-12
 ---
 
-# Did Pandemic Unemployment Benefits Reduce Employment? Evidence from Early State-Level Expirations in June 2021
 
 [NBER Link](https://www.nber.org/papers/w29575)
 

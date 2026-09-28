@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Aggregate employment effects of unemployment benefits during deep downturns: Evidence from the expiration of the federal pandemic unemployment compensation"
+pub_authors:
+  - "Arindrajit Dube"
+pub_year: 2021
+date: 2023-11-02
+modified: 2023-11-02
 ---
 
-# Aggregate employment effects of unemployment benefits during deep downturns: Evidence from the expiration of the federal pandemic unemployment compensation
 
 [NBER Link](https://www.nber.org/papers/w28470)
 

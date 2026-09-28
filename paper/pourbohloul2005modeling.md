@@ -1,8 +1,18 @@
 ---
-parent: Papers
+layout: bib
+title: "Modeling control strategies of respiratory pathogens"
+pub_authors:
+  - "Babak Pourbohloul"
+  - "Lauren Ancel Meyers"
+  - "Danuta M Skowronski"
+  - "Mel Krajden"
+  - "David M Patrick"
+  - "Robert C Brunham"
+pub_year: 2005
+date: 2022-08-16
+modified: 2022-08-16
 ---
 
-# Modeling control strategies of respiratory pathogens
 
 [PubMed Html](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3320482/)
 

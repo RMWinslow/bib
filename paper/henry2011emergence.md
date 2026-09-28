@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Emergence of segregation in evolving social networks"
+pub_authors:
+  - "Adam Douglas Henry"
+  - "Paweł Prałat"
+  - "Cun-Quan Zhang"
+pub_year: 2011
+date: 2022-08-18
+modified: 2022-08-18
 ---
 
-# Emergence of segregation in evolving social networks
 
 [pdf link](https://www.pnas.org/doi/pdf/10.1073/pnas.1014486108)
 

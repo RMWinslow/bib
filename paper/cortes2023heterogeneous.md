@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Heterogeneous labor market impacts of the COVID-19 pandemic"
+pub_authors:
+  - "Guido Matias Cortes"
+  - "Eliza Forsythe"
+pub_year: 2023
+date: 2023-11-02
+modified: 2023-11-02
 ---
 
-# Heterogeneous labor market impacts of the COVID-19 pandemic
 
 [pdf link](https://journals.sagepub.com/doi/pdf/10.1177/00197939221076856),
 [html link at Sage Journals](https://journals.sagepub.com/doi/full/10.1177/00197939221076856)

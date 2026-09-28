@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Work from home and daily time allocations: evidence from the coronavirus pandemic"
+pub_authors:
+  - "Brandon J Restrepo"
+  - "Eliana Zeballos"
+pub_year: 2022
+date: 2023-02-17
+modified: 2023-02-17
 ---
 
-# Work from home and daily time allocations: evidence from the coronavirus pandemic
 
 [html link](https://link.springer.com/article/10.1007/s11150-020-09497-9)
 

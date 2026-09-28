@@ -1,8 +1,20 @@
 ---
-parent: Papers
+layout: bib
+title: "High-frequency location data show that race affects citations and fines for speeding"
+pub_authors:
+  - "Pradhi Aggarwal"
+  - "Alec Brandon"
+  - "Ariel Goldszmidt"
+  - "Justin Holz"
+  - "John A List"
+  - "Ian Muir"
+  - "Gregory Sun"
+  - "Thomas Yu"
+pub_year: 2025
+date: 2025-06-06
+modified: 2025-06-06
 ---
 
-# aggarwal2025high
 
 [Science link](https://www.science.org/doi/full/10.1126/science.adp5357#sec-1)
 

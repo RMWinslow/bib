@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Fluctuations in uncertainty"
+pub_authors:
+  - "Nicholas Bloom"
+pub_year: 2014
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Fluctuations in uncertainty
 
 [JEP link](https://www.aeaweb.org/articles?id=10.1257/jep.28.2.153)
 

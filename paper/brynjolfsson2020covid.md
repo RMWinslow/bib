@@ -1,8 +1,18 @@
 ---
-parent: Papers
+layout: bib
+title: "COVID-19 and remote work: An early look at US data"
+pub_authors:
+  - "Erik Brynjolfsson"
+  - "John J Horton"
+  - "Adam Ozimek"
+  - "Daniel Rock"
+  - "Garima Sharma"
+  - "Hong-Yi TuYe"
+pub_year: 2020
+date: 2022-11-30
+modified: 2022-11-30
 ---
 
-# COVID-19 and remote work: An early look at US data
 
 [NBER link](https://www.nber.org/papers/w27344)
 

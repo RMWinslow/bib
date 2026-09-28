@@ -1,8 +1,15 @@
 ---
-parent: Papers
+layout: bib
+title: "Cool to be smart or smart to be cool? Understanding peer pressure in education"
+pub_authors:
+  - "Leonardo Bursztyn"
+  - "Georgy Egorov"
+  - "Robert Jensen"
+pub_year: 2019
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Cool to be smart or smart to be cool? Understanding peer pressure in education
 
 [non-open published link](https://academic.oup.com/restud/article-abstract/86/4/1487/5003980)
 

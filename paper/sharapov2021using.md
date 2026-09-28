@@ -1,8 +1,16 @@
 ---
-parent: Papers
+layout: bib
+title: "Using the SHAPLEY value approach to variance decomposition in strategy research: Diversification, internationalization, and corporate group effects on affiliate profitability"
+pub_authors:
+  - "Dmitry Sharapov"
+  - "Paul Kattuman"
+  - "Diego Rodriguez"
+  - "F Javier Velazquez"
+pub_year: 2021
+date: 2024-09-28
+modified: 2024-09-28
 ---
 
-# Using the SHAPLEY value approach to variance decomposition in strategy research
 
 [Wiley PDF Link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.3236)
 

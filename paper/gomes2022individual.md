@@ -1,8 +1,22 @@
 ---
-parent: Papers
+layout: bib
+title: "Individual variation in susceptibility or exposure to SARS-CoV-2 lowers the herd immunity threshold"
+pub_authors:
+  - "M Gabriela M Gomes"
+  - "Marcelo U Ferreira"
+  - "Rodrigo M Corder"
+  - "Jessica G King"
+  - "Caetano Souto-Maior"
+  - "Carlos Penha-Gonçalves"
+  - "Guilherme Gonçalves"
+  - "Maria Chikina"
+  - "Wesley Pegden"
+  - "Ricardo Aguas"
+pub_year: 2022
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Individual variation in susceptibility or exposure to SARS-CoV-2 lowers the herd immunity threshold
 
 [html link](https://www.sciencedirect.com/science/article/pii/S0022519322000613)
 

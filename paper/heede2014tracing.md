@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "Tracing anthropogenic carbon dioxide and methane emissions to fossil fuel and cement producers, 1854--2010"
+pub_authors:
+  - "Richard Heede"
+pub_year: 2014
+date: 2022-08-17
+modified: 2022-08-17
 ---
 
-# Tracing anthropogenic carbon dioxide and methane emissions to fossil fuel and cement producers, 1854–2010
 
 [Springer Open Access html link](https://link.springer.com/article/10.1007/s10584-013-0986-y)
 

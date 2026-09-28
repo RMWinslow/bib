@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Displacement effects of public libraries"
+pub_authors:
+  - "Kyogo Kanazawa"
+  - "Kohei Kawaguchi"
+pub_year: 2022
+date: 2023-10-31
+modified: 2023-10-31
 ---
 
-# Displacement effects of public libraries
 
 [ScienceDirect Html](https://www.sciencedirect.com/science/article/pii/S0889158322000284)
 

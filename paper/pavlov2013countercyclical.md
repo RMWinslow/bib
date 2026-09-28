@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Countercyclical markups and news-driven business cycles"
+pub_authors:
+  - "Oscar Pavlov"
+  - "Mark Weder"
+pub_year: 2013
+date: 2022-08-22
+modified: 2022-08-22
 ---
 
-# Countercyclical markups and news-driven business cycles
 
 [pdf link](https://eprints.qut.edu.au/219203/1/58194.pdf)
 

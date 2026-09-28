@@ -1,8 +1,14 @@
 ---
-parent: Papers
+layout: bib
+title: "Deconstructing life cycle expenditure"
+pub_authors:
+  - "Mark Aguiar"
+  - "Erik Hurst"
+pub_year: 2013
+date: 2023-02-19
+modified: 2023-02-19
 ---
 
-# Deconstructing life cycle expenditure
 
 [pdf link](https://scholar.princeton.edu/sites/default/files/670740_0.pdf)
 

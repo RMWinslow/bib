@@ -1,8 +1,13 @@
 ---
-parent: Papers
+layout: bib
+title: "On the optimal burden of proof"
+pub_authors:
+  - "Louis Kaplow"
+pub_year: 2011
+date: 2022-08-17
+modified: 2022-08-17
 ---
 
-# On the optimal burden of proof
 
 [UChicago html link](https://www.journals.uchicago.edu/doi/full/10.1086/664614?casa_token=-KKF_sR_MPsAAAAA%3A8waPlzqG0905mD5ci88Lv5CKR_BiVOJ7eY7jz0EyCnXD6FuRntIX8NL6VcYwREhMSRCIfoNi-U8)
 
