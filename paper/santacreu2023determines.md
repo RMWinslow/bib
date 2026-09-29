@@ -8,6 +8,7 @@ pub_authors:
 pub_year: 2023
 date: 2025-09-12
 modified: 2025-09-12
+zotero_key: "PNKG3ELZ"
 ---
 
 [slides](https://www.dallasfed.org/-/media/Documents/research/events/2025/25peterson/25peterson-sposi)

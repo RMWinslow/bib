@@ -1,5 +1,14 @@
 """Check or apply the one-time paper-page frontmatter migration.
 
+Provenance: Created by OpenAI Codex for Robert Winslow's September 2026
+bibliography-repo cleanup. The original task was to standardize 194 paper
+pages using their embedded BibTeX, preserve reading notes and historical page
+dates, and remove reviewed duplicate title headings. Kept as a repeatable
+check/apply command; later extended to preserve the Zotero linkage field.
+Task context: _planning/bibliography-work-plan.md.
+Usage and migration exceptions: .codex/skills/bib-paper-audit/SKILL.md and
+_planning/paper-title-approvals.yml.
+
 The BibTeX parser below reads balanced braced and quoted values. It does not
 rewrite BibTeX. Unsupported syntax and uncertain names stop that page for review.
 """
@@ -23,7 +32,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PAPERS = ROOT / "paper"
 SNAPSHOT = ROOT / "_planning" / "file-modification-index-2026-09-27.md"
 APPROVALS = ROOT / "_planning" / "paper-title-approvals.yml"
-ALLOWED_OLD_FIELDS = {"parent", "title", "subtitle", "layout", "date", "modified", "pub_year", "pub_authors", "tags"}
+ALLOWED_OLD_FIELDS = {"parent", "title", "subtitle", "layout", "date", "modified", "pub_year", "pub_authors", "tags", "zotero_key"}
 H1 = re.compile(r"^#\s+(.+?)(?:\s+#+)?\s*$")
 BIB_HEADER = re.compile(r"^##\s+BibTeX\s*$", re.IGNORECASE | re.MULTILINE)
 FIELD_NAME = re.compile(r"[A-Za-z][A-Za-z0-9_:-]*")
@@ -261,13 +270,33 @@ def normalized(value: str) -> str:
     return "".join(char for char in unicodedata.normalize("NFKD", value).casefold() if char.isalnum())
 
 
-def yaml_front(title: str, authors: list[str], year: int, created: str, modified: str, tags: list[str] | None) -> str:
+def zotero_keys(value: str | list[str] | None) -> tuple[str, ...]:
+    if value is None:
+        return ()
+    keys = [value] if isinstance(value, str) else value
+    if not isinstance(keys, list) or not keys or any(
+        not isinstance(key, str) or not re.fullmatch(r"[A-Z0-9]{8}", key) for key in keys
+    ):
+        raise ReviewNeeded("zotero_key must be an eight-character item key or a nonempty list of item keys")
+    if len(keys) != len(set(keys)):
+        raise ReviewNeeded("zotero_key contains repeated keys")
+    return tuple(keys)
+
+
+def yaml_front(title: str, authors: list[str], year: int, created: str, modified: str, tags: list[str] | None,
+               zotero_key: str | list[str] | None = None) -> str:
     lines = ["---", "layout: bib", "title: " + json.dumps(title, ensure_ascii=False), "pub_authors:"]
     lines.extend("  - " + json.dumps(author, ensure_ascii=False) for author in authors)
     lines.extend([f"pub_year: {year}", f"date: {created}", f"modified: {modified}"])
     if tags:
         lines.append("tags:")
         lines.extend("  - " + json.dumps(tag, ensure_ascii=False) for tag in tags)
+    zotero_keys(zotero_key)
+    if isinstance(zotero_key, str):
+        lines.append("zotero_key: " + json.dumps(zotero_key))
+    elif zotero_key is not None:
+        lines.append("zotero_key:")
+        lines.extend("  - " + json.dumps(key) for key in zotero_key)
     lines.append("---")
     return "\n".join(lines) + "\n"
 
@@ -341,7 +370,7 @@ def examine(path: Path, modified_dates: dict[str, str], approvals: dict) -> Pape
             body_lines = body.splitlines(keepends=True)
             heading_removed = body_lines.pop(index).rstrip("\r\n")
             new_body = "".join(body_lines)
-        after = yaml_front(title, authors, year, created, modified, tags) + new_body
+        after = yaml_front(title, authors, year, created, modified, tags, front.get("zotero_key")) + new_body
     except (ReviewNeeded, UnicodeDecodeError, subprocess.CalledProcessError) as exc:
         issues.append(str(exc))
     return Paper(path, before, after, title, authors, year, created, modified, heading_removed, issues)

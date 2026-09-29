@@ -6,6 +6,7 @@ pub_authors:
 pub_year: 2007
 date: 2022-09-07
 modified: 2022-09-09
+zotero_key: "64XHWBH2"
 ---
 
 [AER link](https://www.aeaweb.org/articles?id=10.1257/aer.97.3.687)
