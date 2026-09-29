@@ -1,0 +1,15 @@
+/* Imported Zotero colors: muted accents on the site's Solarized background. */
+.main-content blockquote[class*="zotero-"] {
+  border-left: 3px solid var(--zotero-accent, #839496);
+  background-color: var(--zotero-tint, rgba(131, 148, 150, 0.10));
+  padding: 0.6rem 1rem;
+}
+.main-content blockquote[class*="zotero-"] > :first-child { margin-top: 0; }
+.main-content blockquote[class*="zotero-"] > :last-child { margin-bottom: 0; }
+.zotero-green   { --zotero-accent: #859900; --zotero-tint: rgba(133, 153, 0, 0.10); }
+.zotero-red     { --zotero-accent: #dc322f; --zotero-tint: rgba(220, 50, 47, 0.08); }
+.zotero-blue    { --zotero-accent: #268bd2; --zotero-tint: rgba(38, 139, 210, 0.08); }
+.zotero-purple  { --zotero-accent: #6c71c4; --zotero-tint: rgba(108, 113, 196, 0.08); }
+.zotero-magenta { --zotero-accent: #d33682; --zotero-tint: rgba(211, 54, 130, 0.08); }
+.zotero-orange  { --zotero-accent: #cb4b16; --zotero-tint: rgba(203, 75, 22, 0.08); }
+.zotero-gray    { --zotero-accent: #839496; --zotero-tint: rgba(131, 148, 150, 0.10); }
