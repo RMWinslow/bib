@@ -351,7 +351,9 @@ def examine(path: Path, modified_dates: dict[str, str], approvals: dict) -> Pape
             year = manual.get("pub_year")
             if not isinstance(title, str) or not title or not isinstance(authors, list) or not authors or not isinstance(year, int):
                 raise ReviewNeeded("approved manual metadata is incomplete")
-        first_commit, last_commit = git_dates(path)
+        first_commit, last_commit = "", ""
+        if not front.get("date") or not (front.get("modified") or modified):
+            first_commit, last_commit = git_dates(path)
         created = str(front.get("date") or first_commit)
         modified = str(front.get("modified") or modified or last_commit)
         for label, value in (("date", created), ("modified", modified)):

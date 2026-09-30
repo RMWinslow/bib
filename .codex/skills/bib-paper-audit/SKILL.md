@@ -5,7 +5,7 @@ description: Check and repair front matter in this bibliography repository's pap
 
 # Paper-page audit
 
-Work from the repository root. Run `python scripts/standardize_papers.py check`. It scans the 194 non-template `paper/*.md` files and compares each page's front matter with its fenced BibTeX entry. It does not query Zotero. The script needs Python with PyYAML (`import yaml`) and Git. Keep the script at `scripts/standardize_papers.py`; this skill is the workflow guide, not a second copy of the code.
+Work from the repository root. Run `python scripts/standardize_papers.py check`. It scans the non-template `paper/*.md` files and compares each page's front matter with its fenced BibTeX entry. It does not query Zotero. The script needs Python with PyYAML (`import yaml`) and Git. Keep the script at `scripts/standardize_papers.py`; this skill is the workflow guide, not a second copy of the code.
 
 ## Page format
 
@@ -24,6 +24,6 @@ The script converts supported TeX accents in BibTeX names to Unicode. An unknown
 
 ## Dates and limits
 
-The first migration estimated `date` from the earliest Git change and `modified` from `_planning/file-modification-index-2026-09-27.md`, saved before the bulk edit. Both estimate **page-edit** dates. The script keeps valid existing dates, so migration runs do not advance `modified`. When a person makes a meaningful later page edit, set `modified` to that edit date. New, uncommitted pages have no Git creation date and may need script changes or a separate import flow before this command can handle them.
+The first migration estimated `date` from the earliest Git change and `modified` from `_planning/file-modification-index-2026-09-27.md`, saved before the bulk edit. Both estimate **page-edit** dates. The script keeps valid existing dates, so migration runs do not advance `modified`. When a person makes a meaningful later page edit, set `modified` to that edit date. New, uncommitted pages pass when they supply valid page dates. Git history is consulted only when a needed date is absent.
 
 This command checks paper pages only. It does not cover `article/`, `book/`, `report/`, or `data/`, validate a publication against an external source, compare Zotero collections, or reconcile citation-key differences. For import preparation, run `python scripts/audit_zotero_paper_overlap.py --saved-keys`: it compares live `processed / read` item keys with saved front matter without loading Better BibTeX or doing fuzzy matching. Skip already represented items. An unlinked item still needs review before import. Use DOI or another stable identifier, then titles and author overlap, to establish new links; a changed year alone does not reject a match. The attachment-only cases in `_planning/zotero-false-negative-review-2026-09-29.md` need separate handling because the containing records describe other papers or a whole book. See `_planning/bibliography-work-plan.md` for that pending work.
