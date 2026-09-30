@@ -35,7 +35,7 @@ These came from the earlier matching investigation and do not block the complete
 
 - **Refresh existing pages from Zotero:** design a separate reviewable process that preserves manual additions. The current importer deliberately skips them.
 - **Manual-only tag filtering or selected tag index pages:** Robert considered filtering and chose to leave the present tags alone. Extra tags do not prevent a hand-selected index. Do not automatically generate a public page for every tag.
-- **Search-engine exclusion:** the earlier agreed direction was a separate site-wide `noindex` change, not part of bibliography formatting. It was not implemented in this pass; check the current site before doing it. Keep internal site search available.
+- **Search-engine exclusion:** implemented locally through `_includes/head_custom.html` with `noindex, follow` for pages using the theme. Internal site search remains enabled. Robert still needs to publish the change; existing search results can persist until recrawled.
 - **Local PDF links:** still a wishlist item. No local-file linking scheme or Cloudflare workaround was selected.
 
 ## Settled identity exceptions
@@ -47,3 +47,9 @@ Davidson-Woodbury's *Optimal Unemployment Insurance* and Hopenhayn-Nicolini's id
 ## Eventual pester resolution note
 
 Mention that paper standardization and the repeatable paper import were completed, but non-article imports still need destination/format decisions, and existing-page refresh remains optional future work. Include any metadata or attachment corrections still outstanding at resolution time. Robert has not explicitly resolved the pester; do not infer resolution from completed commits or imports.
+
+## Papers index and deferred organization
+
+Robert requested a generated Papers list, sorted by the bibliography page's `date` descending. `papers.md` now lists author names, publication year, and linked title for `layout: bib` pages with `parent: Papers`. Paper children remain excluded from the sidebar; the empty automatic child table of contents is disabled on the Papers index. Navigation order is Papers, Books, Other, then Collections.
+
+Robert deferred broader reorganization of Books and Other. He also wants to add selected manual tags and collection pages later, including groups for papers cited in each thesis chapter. Once the Papers list is satisfactory, use the same Liquid approach filtered by chosen tags for those collection pages. Do not automatically generate a collection or public page for every tag.
