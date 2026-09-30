@@ -8,6 +8,8 @@ pub_authors:
 pub_year: 2006
 date: 2022-08-17
 modified: 2022-08-17
+tags:
+  - "contagion"
 zotero_key: "HY5BVGCT"
 ---
 

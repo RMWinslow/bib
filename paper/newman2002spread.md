@@ -6,6 +6,8 @@ pub_authors:
 pub_year: 2002
 date: 2022-08-16
 modified: 2022-08-22
+tags:
+  - "contagion"
 zotero_key: "RM42XX5A"
 ---
 

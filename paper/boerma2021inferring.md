@@ -7,6 +7,10 @@ pub_authors:
 pub_year: 2021
 date: 2022-09-16
 modified: 2022-09-17
+tags:
+  - "gini"
+  - "home production"
+  - "umn"
 zotero_key: "RJDFPSVL"
 ---
 

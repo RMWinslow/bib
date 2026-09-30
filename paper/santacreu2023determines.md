@@ -8,6 +8,11 @@ pub_authors:
 pub_year: 2023
 date: 2025-09-12
 modified: 2025-09-12
+tags:
+  - "Customs union"
+  - "Gains from trade"
+  - "Interstate trade"
+  - "teachable"
 zotero_key: "PNKG3ELZ"
 ---
 

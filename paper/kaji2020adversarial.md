@@ -8,6 +8,13 @@ pub_authors:
 pub_year: 2020
 date: 2022-08-22
 modified: 2022-08-22
+tags:
+  - "Economics - Econometrics"
+  - "Mathematics - Statistics Theory"
+  - "Statistics - Machine Learning"
+  - "Statistics - Methodology"
+  - "Statistics - Statistics Theory"
+  - "ml"
 zotero_key: "PCB9BBXL"
 ---
 

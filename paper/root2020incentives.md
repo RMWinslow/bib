@@ -7,6 +7,8 @@ pub_authors:
 pub_year: 2020
 date: 2022-08-16
 modified: 2022-08-16
+tags:
+  - "Economics - Theoretical Economics"
 zotero_key: "F8Y9A2Q3"
 ---
 

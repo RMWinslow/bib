@@ -6,6 +6,8 @@ pub_authors:
 pub_year: 2025
 date: 2025-02-01
 modified: 2025-02-01
+tags:
+  - "Economics - Theoretical Economics"
 zotero_key: "U7IHPNRM"
 ---
 

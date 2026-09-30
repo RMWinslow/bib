@@ -8,6 +8,8 @@ pub_authors:
 pub_year: 2021
 date: 2022-08-17
 modified: 2022-08-17
+tags:
+  - "contagion"
 zotero_key: "V4PN4VJN"
 ---
 

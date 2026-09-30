@@ -8,6 +8,9 @@ pub_authors:
 pub_year: 2018
 date: 2024-07-12
 modified: 2024-07-12
+tags:
+  - "Statistics - Machine Learning"
+  - "ml"
 zotero_key: "FYTSYHJR"
 ---
 

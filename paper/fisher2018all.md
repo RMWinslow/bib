@@ -8,6 +8,8 @@ pub_authors:
 pub_year: 2018
 date: 2024-07-08
 modified: 2024-07-08
+tags:
+  - "Statistics - Methodology"
 zotero_key: "ZC42ZZRA"
 ---
 

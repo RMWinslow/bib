@@ -7,6 +7,9 @@ pub_authors:
 pub_year: 2007
 date: 2023-02-04
 modified: 2023-02-04
+tags:
+  - "Hours of labor"
+  - "Leisure"
 zotero_key: "743ANCTY"
 ---
 

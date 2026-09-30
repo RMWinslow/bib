@@ -9,6 +9,8 @@ pub_authors:
 pub_year: 2005
 date: 2022-08-17
 modified: 2022-08-19
+tags:
+  - "contagion"
 zotero_key: "LD6J6Z4D"
 ---
 

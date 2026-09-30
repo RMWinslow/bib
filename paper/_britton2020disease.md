@@ -8,6 +8,10 @@ pub_authors:
 pub_year: 2020
 date: 2022-08-17
 modified: 2022-08-17
+tags:
+  - "Physics - Physics and Society"
+  - "Quantitative Biology - Populations and Evolution"
+  - "contagion"
 zotero_key: "PSTUNUQ8"
 ---
 
