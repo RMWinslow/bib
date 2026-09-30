@@ -4,7 +4,7 @@
 
 ## Completed work and current rules
 
-The original 194 paper pages were standardized, and 59 Zotero papers were added through the pilot and batch imports, giving 253 paper pages at the final audit. The 53-page batch retained 144 annotations and three separate notes. All 253 pages passed the format audit; 18 tests passed before commit preparation. The optional snapshot test skips if its pilot data has been removed.
+The original 194 paper pages were standardized, and 59 Zotero papers were added through the pilot and batch imports, giving 253 paper pages at the final audit. The 53-page batch retained 144 annotations and three separate notes. All 253 pages passed the format audit; 18 tests passed before commit preparation. Robert subsequently removed the test script during cleanup; those test results are historical, not a currently available command.
 
 Paper front matter contains `layout: bib`, publication `title`, `pub_authors`, `pub_year`, page `date` and `modified`, and optional `tags` and `zotero_key`. Publication metadata comes from the body’s fenced BibTeX entry. Page dates describe the bibliography entry, not the publication. Historical migration dates were estimated from Git and the saved pre-cleanup modification index. The layout supplies the visible title; directory defaults exclude individual papers from the sidebar while retaining site search.
 
@@ -53,3 +53,13 @@ Mention that paper standardization and the repeatable paper import were complete
 Robert requested a generated Papers list, sorted by the bibliography page's `date` descending. `papers.md` now lists author names, publication year, and linked title for `layout: bib` pages with `parent: Papers`. Paper children remain excluded from the sidebar; the empty automatic child table of contents is disabled on the Papers index. Navigation order is Papers, Books, Other, then Collections.
 
 Robert deferred broader reorganization of Books and Other. He also wants to add selected manual tags and collection pages later, including groups for papers cited in each thesis chapter. Once the Papers list is satisfactory, use the same Liquid approach filtered by chosen tags for those collection pages. Do not automatically generate a collection or public page for every tag.
+
+## Notes retained from CLAUDE.md before cleanup
+
+The following came from older AI-written proposals, not newly confirmed user requirements:
+
+- `collections/test_collection_page.md` is still a test with placeholder text. Replace or retire it when implementing the planned real collections. A separate `collection` layout was proposed, but may be unnecessary if ordinary pages with Liquid lists suffice.
+- A visible "messy personal notes" disclaimer was proposed. No current decision requires it; leave it optional rather than treating it as unfinished mandatory work.
+- `book/hastie2009elements.md` still uses `layout: post`. This belongs to the deferred other-folder standardization, not a missed paper migration. All standardized paper pages use `layout: bib`; the bib layout intentionally inherits `post`.
+
+Robert removed the old `zotero/` experiment and `tests/` during cleanup. Update any skill instructions that still tell an agent to run the deleted test script or consult removed investigation reports. The import and audit scripts themselves remain. The old large front-matter schema, Better Notes synchronization approach, migration-strategy questions, and old navigation/count descriptions in CLAUDE.md were superseded and should not be restored as requirements.
